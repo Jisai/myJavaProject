@@ -1,6 +1,12 @@
 package com.songj.threadAbout.demo01.singleThread;
 
 
+import org.junit.Test;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.concurrent.*;
+
 /**
  * @ClassNamee: MainThreadDemo
  * @Description: 单个线程 - 主线程业务测试用例
@@ -76,6 +82,71 @@ public class MainThreadDemo {
             }
         }
         System.out.println("主线程执行完毕。");
+    }
+
+
+    @Test
+    public void getForThreadResult() throws InterruptedException {
+        List<Integer> result = new ArrayList<>();
+        //固定大小线程池
+        ExecutorService executorService = Executors.newFixedThreadPool(4);
+        //            ExecutorService executorService = Executors.newSingleThreadExecutor();
+        List<Future<List<Integer>>> futureList = new ArrayList<>();
+        for(int i = 0; i < 5; i++){
+            String name = "线程" + i;
+            Callable callback = new Callable<List<Integer>>() {
+                @Override
+                public List<Integer> call() throws Exception {
+                    List<Integer>  list = getMockResult(name);
+                    return list;
+                }
+            };
+
+            Future<List<Integer>> future = executorService.submit(callback);
+            futureList.add(future);
+//            List<Integer> batchResult = new ArrayList<>();
+    /*       try {
+                batchResult = future.get();
+                result.addAll(batchResult);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            } catch (ExecutionException e) {
+                e.printStackTrace();
+            }*/
+        }
+        List<Integer> batchResult = new ArrayList<>();
+        for(Future<List<Integer>>   future : futureList){
+            try {
+                batchResult = future.get();
+                result.addAll(batchResult);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            } catch (ExecutionException e) {
+                e.printStackTrace();
+            }
+        }
+//        Thread.sleep(20000);
+        System.out.println("result.size=" + result.size());
+    }
+
+    /**
+     * 模拟调用外部方法，耗时获取结果。
+     */
+    private List<Integer> getMockResult(String name) throws InterruptedException {
+        System.out.println(name + " start.");
+        List<Integer> result = new ArrayList<>();
+        //生成一个[1，100]之间的随机数字。
+        int resultSize = (int) (Math.random()*100) + 1;
+        //产生结果
+        for(int i = 0; i< resultSize; i++){
+            //随机数
+            result.add((int) (Math.random()*100));
+        }
+        //模拟耗时
+        Thread.sleep(resultSize * 100);
+        System.out.println(name + " end.");
+        System.out.println(name + " 耗时：" + resultSize * 10 + "ms；" + "结果集大小：" + resultSize);
+        return result;
     }
 
 }

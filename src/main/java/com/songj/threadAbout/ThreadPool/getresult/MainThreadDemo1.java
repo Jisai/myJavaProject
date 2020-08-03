@@ -1,7 +1,6 @@
 package com.songj.threadAbout.ThreadPool.getresult;
 
 import com.songj.threadAbout.ThreadPool.demo1.CheckTask;
-import com.songj.threadAbout.ThreadPool.demo1.MyRunnable01;
 
 import java.util.concurrent.*;
 

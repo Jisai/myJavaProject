@@ -9,14 +9,14 @@ import java.math.BigDecimal;
  * @Date: 2018-07-18 16:00
  * @Version: 1.0
  */
-public class LangTest {
+public class LongTest {
 
     public static void main(String[] args) {
-        LangTest langTest = new LangTest();
-//        langTest.equalTest();
-        langTest.test02();
-//        langTest.isAccordWithEffectCutTimeOverLap(1535904000000L,1538582399000L,1538582399000L,1541001599000L);
-//        langTest.isAccordWithEffectCutTimeOverLap(1535904000000L,1538582399000L,1535904000000L,1538582399000L);
+        LongTest longTest = new LongTest();
+//        longTest.equalTest();
+        longTest.test02();
+//        longTest.isAccordWithEffectCutTimeOverLap(1535904000000L,1538582399000L,1538582399000L,1541001599000L);
+//        longTest.isAccordWithEffectCutTimeOverLap(1535904000000L,1538582399000L,1535904000000L,1538582399000L);
 
 
     }

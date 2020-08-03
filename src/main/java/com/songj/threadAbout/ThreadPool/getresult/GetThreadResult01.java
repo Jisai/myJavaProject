@@ -2,7 +2,6 @@ package com.songj.threadAbout.ThreadPool.getresult;
 
 import com.alibaba.fastjson.JSON;
 import com.songj.threadAbout.ThreadPool.demo1.CheckTask;
-import org.junit.Test;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -33,11 +32,12 @@ public class GetThreadResult01 {
             param.put("参数-" + i, i);
         }
         List<String> result = getThreadResult01.test01(executor, param);
-        System.out.println("任务执行完毕，结果集大小是：" + result.size() + " 详情为：" + JSON.toJSONString(result));
+        System.out.println("任务执行完毕，结果集大小是：" + result.size() + "\n 详情为：" + JSON.toJSONString(result));
     }
 
     //业务方法
-    public void bussinessMethod(Map<String, Long> param, List<String> result){
+    public List<String> bussinessMethod(Map<String, Long> param){
+        List<String> result = new ArrayList<>();
         if (param != null && param.keySet().size() > 0) {
             for (Map.Entry<String, Long> entry : param.entrySet()) {
                 try {
@@ -49,6 +49,7 @@ public class GetThreadResult01 {
                 result.add(entry.getKey());
             }
         }
+        return result;
     }
 
     public List<String> test01(ThreadPoolExecutor executor, Map<String, Long> param){
@@ -78,14 +79,14 @@ public class GetThreadResult01 {
            Callable callable =  new Callable<List<String>>(){
                @Override
                public List<String> call() throws Exception {
-                   bussinessMethod(param, list);
+                   List<String>  list = bussinessMethod(param);
                    return list;
                }
            };
            future2 = executor.submit(callable);
            try {
                List<String> threadResult = future2.get();
-               System.out.println("线程-"+i+" size >> " + threadResult.size() + " result >> " + JSON.toJSONString(threadResult));
+               System.out.println("线程-"+i+" size >> " + threadResult.size() + "\n result >> " + JSON.toJSONString(threadResult));
                result.addAll(threadResult);
            } catch (InterruptedException e) {
                e.printStackTrace();
@@ -94,7 +95,7 @@ public class GetThreadResult01 {
            }
        }
 
-        System.out.println("test01.result size >> " + result.size() + " result >> " + JSON.toJSONString(result));
+        System.out.println("test01.result size >> " + result.size() + "\n result >> " + JSON.toJSONString(result));
         executor.shutdown();
         return result;
     }

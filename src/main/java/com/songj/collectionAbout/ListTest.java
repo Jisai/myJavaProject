@@ -52,6 +52,15 @@ public class ListTest {
             System.out.println(integerList.subList(listStart, listEnd));
         }
 
+        //  ==============  我是分割线================
+        System.out.println(" ======================= ");
+        int batch = 20;
+        for(int i = 0; i < Math.ceil(integerList.size() / (float) batch); i++){
+            int listStart = i*batch;
+            int listEnd = (i+1)*batch >= integerList.size() ? integerList.size() : (i+1)*batch;
+//            System.out.println(">>" + listStart + " " + listEnd);
+            System.out.println(integerList.subList(listStart, listEnd));
+        }
     }
 
     /**
