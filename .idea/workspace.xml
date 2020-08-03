@@ -1,38 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a63962ca-aa37-406a-a9a0-9fa7ada7efcc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/catalog.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/songj/threadAbout/liKou/Topic_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/songj/threadAbout/liKou/catalog.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/31a6fda764a21f51919974b10108307e6a5d4f5e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/31a6fda764a21f51919974b10108307e6a5d4f5e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/31f55fd3e8cf6fe042985ea3e71da649ebab68eb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/31f55fd3e8cf6fe042985ea3e71da649ebab68eb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b1614b58cbe259d5d7c2a6cab8180022c3665a9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b1614b58cbe259d5d7c2a6cab8180022c3665a9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/69719ac523ec38807056d237e81fd381ee4a76ad" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/69719ac523ec38807056d237e81fd381ee4a76ad" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7cc3fe6b6dbc738b99065bf71928a9747ce7a7ae" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7cc3fe6b6dbc738b99065bf71928a9747ce7a7ae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/880d8d9d63c89f157c02e182c3d5c5f403abddf6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/880d8d9d63c89f157c02e182c3d5c5f403abddf6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/96c5d2696608aa286176288ba2ee6f056203d9e6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/96c5d2696608aa286176288ba2ee6f056203d9e6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a05f8f230b09c31342762b6d835ddb39a0aabd26" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a05f8f230b09c31342762b6d835ddb39a0aabd26" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd654c5672600ae7e32fad9b1e767fc9472bafa0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd654c5672600ae7e32fad9b1e767fc9472bafa0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d21cafefc2b25c6f2894961b3c5b1c5ce476dd11" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d21cafefc2b25c6f2894961b3c5b1c5ce476dd11" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f300d5849fa852830f8e23847e506211c40291af" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ffd8bb86ab6ec28f9c718a35cabf99a5d269772b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ffd8bb86ab6ec28f9c718a35cabf99a5d269772b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/collectionAbout/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/collectionAbout/ListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/langAbout/LangTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/langAbout/LongTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/threadAbout/ThreadPool/getresult/GetThreadResult01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/threadAbout/ThreadPool/getresult/GetThreadResult01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/threadAbout/ThreadPool/getresult/MainThreadDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/threadAbout/ThreadPool/getresult/MainThreadDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo01/singleThread/MainThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo01/singleThread/MainThreadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/collectionAbout/ListTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/songj/collectionAbout/ListTest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/collectionAbout/ListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/songj/collectionAbout/ListTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/langAbout/LangTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/ThreadPool/getresult/GetThreadResult01$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/ThreadPool/getresult/GetThreadResult01$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/ThreadPool/getresult/GetThreadResult01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/ThreadPool/getresult/GetThreadResult01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/ThreadPool/getresult/MainThreadDemo1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/ThreadPool/getresult/MainThreadDemo1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/ThreadPool/getresult/MainThreadDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/ThreadPool/getresult/MainThreadDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo01/singleThread/MainThreadDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo01/singleThread/MainThreadDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo01/singleThread/MainThreadDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo01/singleThread/MainThreadDemo.class" afterDir="false" />
+    <list default="true" id="a63962ca-aa37-406a-a9a0-9fa7ada7efcc" name="Default Changelist" comment="add">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -250,7 +220,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596439062842" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596439246758" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -539,7 +509,7 @@
       <workItem from="1596157353351" duration="200000" />
       <workItem from="1596158616549" duration="15917000" />
       <workItem from="1596422985245" duration="1935000" />
-      <workItem from="1596429706565" duration="1221000" />
+      <workItem from="1596429706565" duration="1485000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1595324962307</created>
@@ -591,12 +561,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23061000" />
+    <option name="totallyTimeSpent" value="23325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23201077" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23201077" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -614,7 +584,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49899125" weight="0.32844576" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49966374" visible="true" weight="0.43841642" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49966374" visible="true" weight="0.43841642" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50100875" side_tool="true" weight="0.36310396" />
       <window_info anchor="bottom" id="SonarLint" order="12" />
       <window_info anchor="bottom" id="JRebel Console" order="13" sideWeight="0.50100875" side_tool="true" weight="0.32796487" />
