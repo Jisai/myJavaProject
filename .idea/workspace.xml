@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a63962ca-aa37-406a-a9a0-9fa7ada7efcc" name="Default Changelist" comment="add">
+    <list default="true" id="a63962ca-aa37-406a-a9a0-9fa7ada7efcc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo01/singleThread/MainThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo01/singleThread/MainThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo01/singleThread/MainThreadDemo$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo01/singleThread/MainThreadDemo$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo01/singleThread/MainThreadDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo01/singleThread/MainThreadDemo.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo01/singleThread/MainThreadDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="104" column="75" selection-start-line="104" selection-start-column="75" selection-end-line="104" selection-end-column="75" />
+            <state relative-caret-position="132">
+              <caret line="127" column="59" selection-start-line="127" selection-start-column="59" selection-end-line="127" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -220,7 +223,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596439246758" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596443185376" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -234,7 +237,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MainThreadDemo.getForThreadResult">
+  <component name="RunManager" selected="JUnit.MainThreadDemo.getThreadResult">
     <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.songj.algorithm.liKou.First" />
       <module name="myJavaProject" />
@@ -277,7 +280,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainThreadDemo.getForThreadRes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MainThreadDemo.getThreadResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myJavaProject" />
       <extension name="coverage">
         <pattern>
@@ -287,32 +290,21 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.songj.threadAbout.demo01.singleThread" />
       <option name="MAIN_CLASS_NAME" value="com.songj.threadAbout.demo01.singleThread.MainThreadDemo" />
-      <option name="METHOD_NAME" value="getForThreadRes" />
+      <option name="METHOD_NAME" value="getThreadResult" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainThreadDemo.getForThreadResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="myJavaProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.songj.threadAbout.demo01.singleThread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.songj.threadAbout.demo01.singleThread" />
-      <option name="MAIN_CLASS_NAME" value="com.songj.threadAbout.demo01.singleThread.MainThreadDemo" />
-      <option name="METHOD_NAME" value="getForThreadResult" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.First" />
+      <item itemvalue="Application.GetThreadResult01" />
+      <item itemvalue="JUnit.ListTest.testSubList" />
+      <item itemvalue="JUnit.MainThreadDemo.getThreadResult" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MainThreadDemo.getForThreadResult" />
-        <item itemvalue="JUnit.MainThreadDemo.getForThreadRes" />
+        <item itemvalue="JUnit.MainThreadDemo.getThreadResult" />
         <item itemvalue="Application.GetThreadResult01" />
         <item itemvalue="JUnit.ListTest.testSubList" />
         <item itemvalue="Application.First" />
@@ -509,7 +501,7 @@
       <workItem from="1596157353351" duration="200000" />
       <workItem from="1596158616549" duration="15917000" />
       <workItem from="1596422985245" duration="1935000" />
-      <workItem from="1596429706565" duration="1485000" />
+      <workItem from="1596429706565" duration="3700000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1595324962307</created>
@@ -525,25 +517,17 @@
       <option name="project" value="LOCAL" />
       <updated>1595328797161</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add">
+      <created>1596439328947</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596439328947</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MainThreadDemo_getForThreadRes - 2020.07.31 at 18h 51m 57s.xml">
-      <configuration name="MainThreadDemo.getForThreadRes" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MainThreadDemo_getForThreadRes - 2020.07.31 at 18h 52m 39s.xml">
-      <configuration name="MainThreadDemo.getForThreadRes" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MainThreadDemo_getForThreadRes - 2020.07.31 at 18h 55m 07s.xml">
-      <configuration name="MainThreadDemo.getForThreadRes" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MainThreadDemo_getForThreadRes - 2020.07.31 at 18h 55m 34s.xml">
-      <configuration name="MainThreadDemo.getForThreadRes" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MainThreadDemo_getForThreadResult - 2020.08.03 at 11h 03m 28s.xml">
-      <configuration name="MainThreadDemo.getForThreadResult" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MainThreadDemo_getForThreadResult - 2020.08.03 at 11h 04m 39s.xml">
       <configuration name="MainThreadDemo.getForThreadResult" configurationId="JUnit" />
     </history-entry>
@@ -559,14 +543,29 @@
     <history-entry file="MainThreadDemo_getForThreadResult - 2020.08.03 at 11h 11m 12s.xml">
       <configuration name="MainThreadDemo.getForThreadResult" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MainThreadDemo_getThreadResult - 2020.08.03 at 16h 12m 15s.xml">
+      <configuration name="MainThreadDemo.getThreadResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainThreadDemo_getThreadResult - 2020.08.03 at 16h 18m 02s.xml">
+      <configuration name="MainThreadDemo.getThreadResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainThreadDemo_getThreadResult - 2020.08.03 at 16h 21m 46s.xml">
+      <configuration name="MainThreadDemo.getThreadResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainThreadDemo_getThreadResult - 2020.08.03 at 16h 23m 01s.xml">
+      <configuration name="MainThreadDemo.getThreadResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainThreadDemo_getThreadResult - 2020.08.03 at 16h 23m 50s.xml">
+      <configuration name="MainThreadDemo.getThreadResult" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23325000" />
+    <option name="totallyTimeSpent" value="25540000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23201077" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23201077" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -576,15 +575,15 @@
       <window_info id="JRebel" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.41055718" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7209146" weight="0.38123167" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7209146" weight="0.3973607" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.31824818" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3270073" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49899125" weight="0.32844576" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49899125" visible="true" weight="0.32844576" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49966374" visible="true" weight="0.43841642" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49966374" weight="0.3841642" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50100875" side_tool="true" weight="0.36310396" />
       <window_info anchor="bottom" id="SonarLint" order="12" />
       <window_info anchor="bottom" id="JRebel Console" order="13" sideWeight="0.50100875" side_tool="true" weight="0.32796487" />
@@ -990,8 +989,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo01/singleThread/MainThreadDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="104" column="75" selection-start-line="104" selection-start-column="75" selection-end-line="104" selection-end-column="75" />
+        <state relative-caret-position="132">
+          <caret line="127" column="59" selection-start-line="127" selection-start-column="59" selection-end-line="127" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

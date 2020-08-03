@@ -86,11 +86,11 @@ public class MainThreadDemo {
 
 
     @Test
-    public void getForThreadResult() throws InterruptedException {
+    public void getThreadResult() throws InterruptedException {
         List<Integer> result = new ArrayList<>();
         //固定大小线程池
         ExecutorService executorService = Executors.newFixedThreadPool(4);
-        //            ExecutorService executorService = Executors.newSingleThreadExecutor();
+//        ExecutorService executorService = Executors.newSingleThreadExecutor();
         List<Future<List<Integer>>> futureList = new ArrayList<>();
         for(int i = 0; i < 5; i++){
             String name = "线程" + i;
@@ -104,15 +104,15 @@ public class MainThreadDemo {
 
             Future<List<Integer>> future = executorService.submit(callback);
             futureList.add(future);
-//            List<Integer> batchResult = new ArrayList<>();
-    /*       try {
-                batchResult = future.get();
-                result.addAll(batchResult);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            } catch (ExecutionException e) {
-                e.printStackTrace();
-            }*/
+//            try {
+//                //此处会阻塞线程执行，即多个线程在一个一个排队执行。
+//                List<Integer> batchResult = future.get();
+//                result.addAll(batchResult);
+//            } catch (InterruptedException e) {
+//                e.printStackTrace();
+//            } catch (ExecutionException e) {
+//                e.printStackTrace();
+//            }
         }
         List<Integer> batchResult = new ArrayList<>();
         for(Future<List<Integer>>   future : futureList){
@@ -125,8 +125,8 @@ public class MainThreadDemo {
                 e.printStackTrace();
             }
         }
-//        Thread.sleep(20000);
         System.out.println("result.size=" + result.size());
+
     }
 
     /**
@@ -143,9 +143,10 @@ public class MainThreadDemo {
             result.add((int) (Math.random()*100));
         }
         //模拟耗时
-        Thread.sleep(resultSize * 100);
+        long time = resultSize * 100;
+        Thread.sleep(time);
         System.out.println(name + " end.");
-        System.out.println(name + " 耗时：" + resultSize * 10 + "ms；" + "结果集大小：" + resultSize);
+        System.out.println(name + " 耗时：" + time + "ms；" + "结果集大小：" + resultSize);
         return result;
     }
 
