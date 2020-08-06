@@ -55,6 +55,7 @@ public class Thread01 {
         for (int i = 1; i <= taskSize; i++) {
             final int key = i;
             new Thread(new Runnable() {
+                @Override
                 public void run() {
                     sumAll(sum((key - 1) * THRESHOLD, key * THRESHOLD));
                 }
