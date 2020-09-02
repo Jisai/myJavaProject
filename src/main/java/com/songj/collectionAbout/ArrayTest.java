@@ -52,6 +52,15 @@ public class ArrayTest {
         System.out.println("list >> " + list.toString());
     }
 
+    @Test
+    public void arraycopy(){
+        int[] arr1 = {1,2,3,4,5};
+        int[] arr2 = {0,0,0,0,0,0,0};
+        System.out.println(arr1.length);
+        System.arraycopy(arr1, 0, arr2, 1, 3);
+        System.out.println(Arrays.toString(arr2));
+    }
+
 
 
 

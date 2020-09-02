@@ -1,5 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a52c36b-ff85-41a6-b58a-50b82624537f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/songj/bean/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/songj/socket/LengthCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/songj/socket/TCPClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/songj/socket/TCPServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/catalog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/catalog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/collectionAbout/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/collectionAbout/ArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/langAbout/StringAbout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/langAbout/StringAbout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/localCache/CaffeineCacheTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/cache/localCache/CaffeineCacheTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/mathAbout/MathAboutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/mathAbout/MathAboutTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/otherAbout/TestOneMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/otherAbout/TestOneMain.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/catalog.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1496">
+              <caret line="68" selection-start-line="68" selection-end-line="76" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="107" column="112" selection-start-line="107" selection-start-column="112" selection-end-line="107" selection-end-column="112" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>递归</find>
+      <find>第一</find>
+      <find>排序</find>
+      <find>Math.ceil</find>
+      <find>cache</find>
+      <find>取余</find>
+      <find>distinc</find>
+      <find>ollectors.toMap</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/bean/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/langAbout/StringAbout.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/otherAbout/TestOneMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/catalog.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_88.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/collectionAbout/ArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/mathAbout/MathAboutTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/socket/TCPServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/socket/LengthCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/socket/TCPClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_4.java" />
+      </list>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -8,24 +98,190 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-9" />
+    <option name="y" value="76" />
+    <option name="width" value="1023" />
+    <option name="height" value="805" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="songj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="songj" type="462c0819:PsiDirectoryNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="songj" type="462c0819:PsiDirectoryNode" />
+              <item name="mathAbout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="songj" type="462c0819:PsiDirectoryNode" />
+              <item name="socket" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599037094586" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Topic_4">
+    <configuration name="TCPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.songj.socket.TCPServer" />
+      <module name="myJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.songj.socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Topic_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.songj.algorithm.liKou.Topic_4" />
+      <module name="myJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.songj.algorithm.liKou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Topic_88" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.songj.algorithm.liKou.Topic_88" />
+      <module name="myJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.songj.algorithm.liKou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest.arraycopy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.songj.collectionAbout.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.songj.collectionAbout" />
+      <option name="MAIN_CLASS_NAME" value="com.songj.collectionAbout.ArrayTest" />
+      <option name="METHOD_NAME" value="arraycopy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathAboutTest.method01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.songj.mathAbout.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.songj.mathAbout" />
+      <option name="MAIN_CLASS_NAME" value="com.songj.mathAbout.MathAboutTest" />
+      <option name="METHOD_NAME" value="method01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="myJavaProject [clean,install,-DskipTests]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -53,6 +309,477 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Application.Topic_88" />
+      <item itemvalue="Application.Topic_4" />
+      <item itemvalue="Application.TCPServer" />
+      <item itemvalue="JUnit.ArrayTest.arraycopy" />
+      <item itemvalue="JUnit.MathAboutTest.method01" />
+      <item itemvalue="Maven.myJavaProject [clean,install,-DskipTests]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Topic_4" />
+        <item itemvalue="Application.TCPServer" />
+        <item itemvalue="JUnit.ArrayTest.arraycopy" />
+        <item itemvalue="JUnit.MathAboutTest.method01" />
+        <item itemvalue="Application.Topic_88" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a52c36b-ff85-41a6-b58a-50b82624537f" name="Default Changelist" comment="" />
+      <created>1596693682766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596693682766</updated>
+      <workItem from="1596693685867" duration="19478000" />
+      <workItem from="1596764898022" duration="1151000" />
+      <workItem from="1596768604954" duration="10595000" />
+      <workItem from="1597023011843" duration="5439000" />
+      <workItem from="1597110895173" duration="2269000" />
+      <workItem from="1597139017968" duration="617000" />
+      <workItem from="1597198204990" duration="1199000" />
+      <workItem from="1597283971612" duration="636000" />
+      <workItem from="1597304504934" duration="1832000" />
+      <workItem from="1597371701885" duration="6711000" />
+      <workItem from="1598319344694" duration="1793000" />
+      <workItem from="1598337614377" duration="3939000" />
+      <workItem from="1598405931774" duration="4653000" />
+      <workItem from="1598492361530" duration="592000" />
+      <workItem from="1598494269777" duration="5075000" />
+      <workItem from="1598578146904" duration="806000" />
+      <workItem from="1598581456751" duration="3789000" />
+      <workItem from="1598921573356" duration="7767000" />
+      <workItem from="1599011768732" duration="3037000" />
+      <workItem from="1599037397098" duration="430000" />
+      <workItem from="1599038340491" duration="663000" />
+      <workItem from="1599042159035" duration="1791000" />
+    </task>
+    <task id="LOCAL-00001" summary="fetch">
+      <created>1596693840756</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596693840756</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="StringAbout_startsWith - 2020.08.07 at 16h 54m 56s.xml">
+      <configuration name="StringAbout.startsWith" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringAbout_startsWith - 2020.08.07 at 16h 55m 11s.xml">
+      <configuration name="StringAbout.startsWith" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringAbout_startsWith - 2020.08.07 at 17h 35m 45s.xml">
+      <configuration name="StringAbout.startsWith" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestOneMain_test01 - 2020.08.07 at 18h 11m 12s.xml">
+      <configuration name="TestOneMain.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestOneMain_test01 - 2020.08.07 at 18h 14m 19s.xml">
+      <configuration name="TestOneMain.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestOneMain_test01 - 2020.08.10 at 09h 55m 05s.xml">
+      <configuration name="TestOneMain.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayTest_arraycopy - 2020.08.11 at 14h 53m 10s.xml">
+      <configuration name="ArrayTest.arraycopy" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MathAboutTest_method01 - 2020.08.26 at 18h 12m 21s.xml">
+      <configuration name="MathAboutTest.method01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MathAboutTest_method01 - 2020.08.26 at 18h 12m 48s.xml">
+      <configuration name="MathAboutTest.method01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayTest_arraycopy - 2020.08.26 at 19h 26m 50s.xml">
+      <configuration name="ArrayTest.arraycopy" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="84262000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.4667115" />
+      <window_info id="JRebel" order="6" side_tool="true" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32962137" />
+      <window_info anchor="bottom" id="SonarLint" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="JRebel Executor" order="7" />
+      <window_info anchor="bottom" id="JRebel Console" order="8" side_tool="true" weight="0.32786885" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="9" />
+      <window_info anchor="bottom" id="Message" order="10" />
+      <window_info anchor="bottom" id="Find" order="11" />
+      <window_info anchor="bottom" id="Run" order="12" weight="0.30351907" />
+      <window_info anchor="bottom" id="Debug" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="14" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="16" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Mybatis datasource" order="2" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32977018" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.27101547" />
+      <window_info id="JRebel" order="6" side_tool="true" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32962137" />
+      <window_info anchor="bottom" id="SonarLint" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="JRebel Executor" order="7" />
+      <window_info anchor="bottom" id="JRebel Console" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="9" />
+      <window_info anchor="bottom" id="Message" order="10" />
+      <window_info anchor="bottom" id="Find" order="11" />
+      <window_info active="true" anchor="bottom" id="Run" order="12" visible="true" weight="0.21260998" />
+      <window_info anchor="bottom" id="Debug" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="14" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="16" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Mybatis datasource" order="2" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32977018" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fetch" />
+    <option name="LAST_COMMIT_MESSAGE" value="fetch" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/songj/java8About/stream/StreamLearnImpl.java</url>
+          <line>83</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.7/jackson-databind-2.9.7.jar!/com/fasterxml/jackson/databind/util/LinkedNode.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/recursionAbout/RecursionLearn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-418">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.54/fastjson-1.2.54.jar!/com/alibaba/fastjson/JSON.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="402" column="54" lean-forward="true" selection-start-line="402" selection-start-column="54" selection-end-line="404" selection-end-column="5" />
+          <folding>
+            <element signature="e#15194#15195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/collectionAbout/SetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/collectionAbout/MapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="130" column="9" lean-forward="true" selection-start-line="125" selection-start-column="8" selection-end-line="130" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/ThreadPool/getresult/GetThreadResult01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/ThreadPool/getresult/MainThreadDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/ThreadPool/getresult/MainThreadDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo02/ThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/collectionAbout/ListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6622">
+          <caret line="312" column="30" selection-start-line="312" selection-start-column="30" selection-end-line="312" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/Thread01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="695" column="29" selection-start-line="695" selection-start-column="29" selection-end-line="695" selection-end-column="29" />
+          <folding>
+            <element signature="e#17388#17389#0" expanded="true" />
+            <element signature="e#17429#17430#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo01/singleThread/MyRunnable_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo01/singleThread/MainThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="95" column="35" selection-start-line="95" selection-start-column="35" selection-end-line="95" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo01/singleThread/MyThread01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="1244" column="37" lean-forward="true" selection-start-line="1241" selection-start-column="7" selection-end-line="1244" selection-end-column="37" />
+          <folding>
+            <element signature="e#49043#49044#0" expanded="true" />
+            <element signature="e#49082#49083#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/otherAbout/编辑面板_01.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/otherAbout/编辑面板_03.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/langAbout/StringAbout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/otherAbout/TestOneMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" column="71" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
+          <folding>
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="483" column="70" selection-start-line="483" selection-start-column="27" selection-end-line="483" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/cache/localCache/CaffeineCacheTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="70" column="19" selection-start-line="70" selection-start-column="19" selection-end-line="70" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/bean/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="105" column="33" selection-start-line="105" selection-start-column="33" selection-end-line="105" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="56" column="17" lean-forward="true" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/mathAbout/MathAboutTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/collectionAbout/ArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="56" column="31" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/java8About/stream/StreamLearn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1274">
+          <caret line="66" column="9" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/socket/TCPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/socket/TCPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/socket/LengthCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="32" column="31" selection-start-line="29" selection-start-column="12" selection-end-line="32" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/catalog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="68" selection-start-line="68" selection-end-line="76" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_88.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="115" column="27" selection-start-line="115" selection-start-column="27" selection-end-line="115" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/java8About/stream/StreamLearnImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-74">
+          <caret line="80" column="13" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="107" column="112" selection-start-line="107" selection-start-column="112" selection-end-line="107" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

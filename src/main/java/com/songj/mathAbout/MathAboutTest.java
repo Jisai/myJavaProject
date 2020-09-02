@@ -1,11 +1,8 @@
 package com.songj.mathAbout;
 
-import org.apache.commons.lang3.StringUtils;
 import org.junit.Test;
 
-import javax.sound.midi.Soundbank;
 import java.math.BigDecimal;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
@@ -24,13 +21,19 @@ public class MathAboutTest {
         int i = 3;
         int y = 10;
         Float res = y/(float)i;
-        System.out.println(res);//输出结果：3.3333333
 
+        System.out.println(res);//输出结果：3.3333333
+        System.out.println("===== a =====");
         System.out.println(Math.floor(res));//输出结果：3.0
         Double resDouble = Math.ceil(res);
-
+        System.out.println("====== b ====");
         System.out.println(resDouble);//输出结果：4.0
         System.out.println(resDouble.intValue());//输出结果：4
+        System.out.println("===== c =====");
+        System.out.println(y % i);
+        System.out.println(Math.floorMod(y, i));
+        System.out.println(y/ i);
+
 
     }
 

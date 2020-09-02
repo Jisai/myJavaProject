@@ -21,10 +21,17 @@ public class StringAbout {
 
     @Test
     public void startsWith(){
-        String a = "5/6/428/1100569/";
-        String b = "5/6/428/1100569/1100573/";
-        System.out.println(a.startsWith(b));
-        System.out.println(b.startsWith(a));
+//        String a = "5/6/428/1100569/";
+//        String b = "5/6/428/1100569/1100573/";
+//        System.out.println(a.startsWith(b));
+//        System.out.println(b.startsWith(a));
+        String str1 = "abcdafea";
+        String target = "a";
+        int second = str1.indexOf(target, 2);
+        System.out.println(second);
+        String sub = str1.substring(0, second);
+//        System.out.println(sub);
+//        System.out.println(str1.charAt(2));
     }
 
     @Test
