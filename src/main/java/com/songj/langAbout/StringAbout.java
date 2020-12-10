@@ -26,6 +26,9 @@ public class StringAbout {
 //        System.out.println(a.startsWith(b));
 //        System.out.println(b.startsWith(a));
         String str1 = "abcdafea";
+        str1.length();
+        str1.toCharArray();
+
         String target = "a";
         int second = str1.indexOf(target, 2);
         System.out.println(second);

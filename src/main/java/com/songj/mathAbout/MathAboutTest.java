@@ -18,8 +18,8 @@ public class MathAboutTest {
 
     @Test
     public void method01(){
-        int i = 3;
-        int y = 10;
+        int i = 2;
+        int y = 5;
         Float res = y/(float)i;
 
         System.out.println(res);//输出结果：3.3333333
@@ -166,6 +166,12 @@ public class MathAboutTest {
             i++;
         }
         System.out.println("i = " + i + "  sum = " + sum);
+    }
+
+    @Test
+    public void method07(){
+
+
     }
 
     private int compareDouble(double a, double b){

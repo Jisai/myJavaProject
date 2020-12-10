@@ -18,9 +18,9 @@ public class Topic_3 {
 
     public static void main(String[] args) {
         //测试用例为：1. 空字符串；2. 都是一个字符的字符串；3. 随机字符串。
-//        String str = "abcabcbb";
-        String str = "abcdde";
-        System.out.println(method_01(str));;
+        String str = "abcabcbb";
+//        String str = "abcdde";
+        System.out.println(method_1(str));;
     }
 
 
@@ -33,7 +33,7 @@ public class Topic_3 {
      * 2.3 当左指针位置超过右指针位置时，开始重复2.1、2.2 步骤，直至左指针位置移动到字符串尾部。
      * 3. 符合题目要求的字符串为 [左,右) 指针之间的字符串。
      */
-    private static int method_01(String s){
+    private static int method_1(String s){
         // 哈希集合，记录每个字符是否出现过
         Set<Character> occ = new HashSet<Character>();
         int n = s.length();
@@ -56,5 +56,36 @@ public class Topic_3 {
         }
         return ans;
     }
+
+    //有错误，待研究
+    public static int method_2(String s){
+        StringBuffer sb = new StringBuffer();
+        int result = 0;
+        int left = 0;
+        int right = 0;
+        while (right < s.length()){
+            char ch = s.charAt(right);
+            if(right == 0){
+                //特殊处理只有一个字符情况。
+                result = 1;
+            }
+            int start = sb.indexOf(String.valueOf(ch));
+            if(start < 0){
+                //目前没有重复
+                sb.append(ch);
+                right ++;
+            }else {
+                //出现重复
+                String str = sb.toString();
+                System.out.println(left + "||" + str);
+                String sub = str.substring(start, str.length());
+                result = Math.max(result, sub.length());
+                left ++;
+                right ++;
+            }
+        }
+        return result;
+    }
+
 
 }
