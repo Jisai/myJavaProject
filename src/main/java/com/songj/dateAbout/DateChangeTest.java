@@ -1,11 +1,12 @@
 package com.songj.dateAbout;
 
-import org.apache.commons.lang.time.DateUtils;
 import org.junit.Test;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.time.*;
+import java.time.format.DateTimeFormatter;
+import java.time.temporal.TemporalAccessor;
 import java.util.Calendar;
 import java.util.Date;
 
@@ -39,6 +40,105 @@ public class DateChangeTest {
         } catch (ParseException e) {
             e.printStackTrace();
         }
+    }
+
+
+    /**
+     * @Description: 格式化日期
+     */
+    @Test
+    public void formatDate(){
+        DateTimeFormatter formatter1 = DateTimeFormatter.ofPattern("yyyy年MM月dd日");
+        LocalDateTime dateTime1 = LocalDateTime.of(2020, 2, 11, 13, 15, 12);
+        String r = dateTime1.format(formatter1);
+        TemporalAccessor parse1 = formatter1.parse(r);
+        LocalDate from1 = LocalDate.from(parse1);
+        System.out.println(from1);
+
+        LocalDate currentDate = LocalDate.now();
+        LocalDate date2 = LocalDate.of(2020, 12, 1);
+        System.out.println(currentDate);
+        System.out.println(date2);
+        System.out.println(currentDate.isAfter(date2));
+
+        LocalDateTime localDateTime=LocalDateTime.now();
+        //格式化日期时间类型为字符串
+        DateTimeFormatter dateTimeFormatter=DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
+        String ss = dateTimeFormatter.format(localDateTime).toString();
+        System.out.println(ss);
+        //日期时间字符串类型转 LocalDateTime
+        DateTimeFormatter df = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
+        LocalDateTime yy = LocalDateTime.parse("2017-09-28 21:22:33", df);
+        System.out.println(yy);
+        //日期字符串转日期类型
+        LocalDate localDate=LocalDate.parse("2019-12-10",DateTimeFormatter.ofPattern("yyyy-MM-dd"));
+        System.out.println(localDate.toString());
+        //带时区时间字符串转换标准字符串
+        DateTimeFormatter dateTimeFormatter_ = DateTimeFormatter.ofPattern("yyyy-MM-dd hh:mm:ss");
+        LocalDateTime strr = LocalDateTime.parse("2020-01-02T08:28:43.785",DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss.SSS"));
+        String time = dateTimeFormatter_.format(strr);
+        System.out.println("格式化后标准时间:"+time);
+
+    }
+
+    @Test
+    public void check(){
+        String specifiedDateStr = "2020-10-11";
+        SimpleDateFormat simpleFormat = new SimpleDateFormat("yyyy-MM");
+        Date currentDate = new Date();
+        String currentDateStr = simpleFormat.format(currentDate);
+        Date currentDateDormat = formatDate(currentDateStr, simpleFormat);
+        Date date_202011 = formatDate("2020-11", simpleFormat);
+        Date specifiedDate = formatDate(specifiedDateStr, simpleFormat);
+        System.out.println(currentDateDormat);
+        System.out.println(date_202011);
+        System.out.println(specifiedDate);
+        System.out.println(specifiedDate.compareTo(date_202011) != -1);
+        System.out.println(specifiedDate.compareTo(currentDateDormat) != 1);
+        //获取月的第一天和最后一天
+        Calendar calendar = Calendar.getInstance();
+        calendar.setTime(specifiedDate);
+        calendar.set(Calendar.DAY_OF_MONTH,1);//设置为1号,当前日期既为本月第一天
+        calendar.set(Calendar.HOUR_OF_DAY,0);//将小时至0
+        calendar.set(Calendar.MINUTE,0);//将分钟至0
+        calendar.set(Calendar.SECOND,0);//将秒至0
+        Date specifiedFirstDate = calendar.getTime();
+        System.out.println("specifiedFirstDate = " + specifiedFirstDate);
+        calendar.add(Calendar.MONTH, 1);//n代表和本月偏移 0本月、1后一月，-1前一月
+        calendar.add(Calendar.SECOND, -1);// 如果需要获取最后一天，则月份偏移后，在1号0时0分0秒基础上-1秒
+        Date specifiedLastDate = calendar.getTime();
+        System.out.println("specifiedLastDate = " + specifiedLastDate);
+    }
+    private Date formatDate(String date, SimpleDateFormat simpleFormat){
+        Date paramYearMonth = null;
+        try {
+            paramYearMonth = simpleFormat.parse(date);
+        } catch (ParseException e) {
+            System.out.println("日期格式化失败" + e.getMessage());
+        }
+        return  paramYearMonth;
+    }
+
+
+    /**
+     * @Description: 定位某个时间：of方法
+     */
+    public void locateTime(){
+        LocalDateTime dateTime = LocalDateTime.of(2020, 2, 11, 13, 15, 12);
+        LocalDate date = LocalDate.of(2020, 2, 11);
+
+    }
+
+    /**
+     * @Description: 获取某月第一天，最后一天以及一共有多少天，以及当前月是第几月
+     */
+    public void getSpecifiedDay(){
+        LocalDateTime dateTime = LocalDateTime.of(2020, 2, 11, 13, 15, 12);
+        YearMonth month = YearMonth.from(dateTime);
+        LocalDate begin = month.atDay(1);
+        int length = month.lengthOfMonth();
+        LocalDate end = month.atEndOfMonth();
+        int monthValue = month.getMonthValue();
     }
 
 
@@ -166,6 +266,15 @@ public class DateChangeTest {
     }
 
 
+    /**
+     * @Description: 获取某个时间是否为闰年
+     */
+    public void isLeapYear(){
+        LocalDateTime dateTime = LocalDateTime.of(2020, 2, 11, 13, 15, 12);
+        boolean leapYear = dateTime.toLocalDate().isLeapYear();
+        System.out.println(leapYear);
+        boolean leap = Year.of(2016).isLeap();
+    }
 
     /**
      * @Description: 判断是有是有效时间
@@ -189,6 +298,18 @@ public class DateChangeTest {
         System.out.println(result);
     }
 
+
+    /**
+     * @Description: 计算两个时间的差值（day，hour，minute等）
+     */
+    public void calculateTimeByLocalDateTime(){
+        LocalDateTime dateTime1 = LocalDateTime.of(2020, 2, 11, 13, 15, 12);
+        LocalDateTime dateTime2 = LocalDateTime.of(2020, 3, 11, 13, 15, 12);
+        Duration between = Duration.between(dateTime1, dateTime2);
+        System.out.println(between.toDays());
+        System.out.println(between.toHours());
+        System.out.println(between.toMinutes());
+    }
 
     /**
      * 用SimpleDateFormat计算时间差
