@@ -278,6 +278,7 @@ public class ListTest {
         List<Integer> list3_2 = new ArrayList<>(list3);
         System.out.println("交集: " + list2_2.retainAll(list3_2));
         System.out.println("交集结果: " + list2_2);
+        System.out.println(CollectionUtils.isEmpty(list2_2));
         //3.0 差集
 //        System.out.println("差集: " + list2.removeAll(list3));
 //        System.out.println("差集结果: " + list2);

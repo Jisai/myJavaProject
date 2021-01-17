@@ -1,4 +1,4 @@
-package com.songj.langAbout;
+package com.songj.javaBasis.langAbout;
 
 import java.math.BigDecimal;
 

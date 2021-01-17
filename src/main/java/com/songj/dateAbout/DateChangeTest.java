@@ -27,6 +27,7 @@ public class DateChangeTest {
         calendar.add(Calendar.DAY_OF_MONTH, -1);
         Date yesterday = calendar.getTime();
         System.out.println(yesterday); ;
+
     }
 
     @Test
@@ -40,6 +41,14 @@ public class DateChangeTest {
         } catch (ParseException e) {
             e.printStackTrace();
         }
+    }
+
+    @Test
+    public void long_to_localDate(){
+        long ll = 1623427200000L;
+        System.out.println(LocalDateTime.ofInstant(Instant.ofEpochMilli(ll), ZoneId.systemDefault()).toLocalDate());
+        System.out.println(LocalDate.ofEpochDay(ll));
+
     }
 
 
@@ -123,9 +132,12 @@ public class DateChangeTest {
     /**
      * @Description: 定位某个时间：of方法
      */
-    public void locateTime(){
+    public void localTime(){
         LocalDateTime dateTime = LocalDateTime.of(2020, 2, 11, 13, 15, 12);
         LocalDate date = LocalDate.of(2020, 2, 11);
+
+        LocalTime localTime =LocalTime.now();
+        System.out.println("localTime" + localTime);
 
     }
 
@@ -264,6 +276,33 @@ public class DateChangeTest {
         System.out.println(result);
         return result;
     }
+
+    /**
+     * 获取时间是周几
+     */
+    @Test
+    public void getWeekDay(){
+        String[] WEEKS = {"周日","周一","周二","周三","周四","周五","周六","周日"};
+        //周日
+        LocalDate ld_7 = LocalDate.of(2021, 1, 10);
+        DayOfWeek dayOfWeek_ld_7 = ld_7.getDayOfWeek();
+        System.out.println(ld_7 + " : " + dayOfWeek_ld_7);
+        System.out.println(ld_7 + " : " + dayOfWeek_ld_7.getValue());
+        System.out.println(ld_7 + " : " + WEEKS[dayOfWeek_ld_7.getValue()]);
+        //周一
+        LocalDate ld_1 = LocalDate.of(2021, 1, 11);
+        DayOfWeek dayOfWeek_ld_1 = ld_1.getDayOfWeek();
+        System.out.println(ld_1 + " : " + dayOfWeek_ld_1);
+        System.out.println(ld_1 + " : " + dayOfWeek_ld_1.getValue());
+        System.out.println(ld_1 + " : " + WEEKS[dayOfWeek_ld_1.getValue()]);
+
+        LocalDate now = LocalDate.now();
+        DayOfWeek dayOfWeek_now = now.getDayOfWeek();
+        System.out.println(now + " : " + dayOfWeek_now);
+        System.out.println(now + " : " + dayOfWeek_now.getValue());
+        System.out.println(now + " : " + WEEKS[dayOfWeek_now.getValue()]);
+    }
+
 
 
     /**

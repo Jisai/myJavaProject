@@ -1,10 +1,9 @@
-package com.songj.langAbout;
+package com.songj.javaBasis.langAbout;
 
 import com.alibaba.fastjson.JSON;
 import org.apache.commons.collections4.CollectionUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.junit.Test;
-import sun.security.util.Length;
 
 import java.util.ArrayList;
 import java.util.List;
