@@ -131,6 +131,10 @@ public interface StreamLearn {
      **/
     void partitioningBy01();
 
+    /**
+     * 分组并排序
+     */
+    void groupByAndSort01();
 
 
 }

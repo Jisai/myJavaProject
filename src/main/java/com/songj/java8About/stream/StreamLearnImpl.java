@@ -3,11 +3,13 @@ package com.songj.java8About.stream;
 import com.alibaba.fastjson.JSON;
 import com.songj.bean.Employee;
 import com.songj.bean.People;
+import com.songj.jsonAbout.JSONUtil;
 import org.apache.commons.collections4.CollectionUtils;
 import org.apache.commons.lang.StringUtils;
 import org.junit.Test;
 
 import java.util.*;
+import java.util.function.Function;
 import java.util.function.Supplier;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
@@ -250,7 +252,19 @@ public class StreamLearnImpl implements StreamLearn {
         System.out.println(map);
     }
 
-
+    @Test
+    @Override
+    public  void groupByAndSort01() {
+        List<Employee> employees = getEmployeeDemoList(10);
+        Map<Boolean, List<Employee>> treeMap1 = employees.stream()
+                .sorted(Comparator.comparing(Employee::getLevel))
+                .collect(Collectors.groupingBy(Employee::isQuit));
+        System.out.println(JSONUtil.objectToString(treeMap1));
+        Map<Boolean, List<Employee>> treeMap2 = employees.stream()
+                .sorted(Comparator.comparing(Employee::getId))
+                .collect(Collectors.groupingBy(Employee::isQuit));
+        System.out.println(JSONUtil.objectToString(treeMap2));
+    }
 
 
 

@@ -1,95 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a52c36b-ff85-41a6-b58a-50b82624537f" name="Default Changelist" comment="">
+    <list default="true" id="7a52c36b-ff85-41a6-b58a-50b82624537f" name="Default Changelist" comment="add">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/songj/database/ConnectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/songj/memory/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/songj/otherAbout/DeapLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/songj/threadAbout/ThreadPool/ThreadPoolException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/dateAbout/DateChangeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/dateAbout/DateChangeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/java8About/stream/StreamLearn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/java8About/stream/StreamLearn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/java8About/stream/StreamLearnImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/java8About/stream/StreamLearnImpl.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/力扣算法目录.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2332">
-              <caret line="106" column="1" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_912.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
-              <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/sort/JingDianPaiXu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3036">
-              <caret line="138" column="13" selection-start-line="138" selection-start-column="13" selection-end-line="138" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/JianzhiOffer/剑指Offer目录.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/JianzhiOffer/Topic_25.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/dateAbout/DateChangeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="109" column="71" selection-start-line="98" selection-start-column="8" selection-end-line="109" selection-end-column="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/collectionAbout/ArrayTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1232">
-              <caret line="60" column="29" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_a1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
-              <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -98,71 +24,8 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>递归</find>
-      <find>第一</find>
-      <find>排序</find>
-      <find>Math.ceil</find>
-      <find>cache</find>
-      <find>取余</find>
-      <find>distinc</find>
-      <find>ollectors.toMap</find>
-      <find>=+</find>
-      <find>JSONUtil</find>
-      <find>excut</find>
-      <find>lock</find>
-      <find>newProxyInstance</find>
-      <find>Stringbu</find>
-      <find>copy</find>
-      <find>Math.random()</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
-    <dirStrings>
-      <dir>F:\WorkSpace\myProjectPracticeWorkspace\myJavaProject\src\main\java\com\songj</dir>
-      <dir>F:\WorkSpace\myProjectPracticeWorkspace\myJavaProject\src\main\java\com\songj\threadAbout</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/bean/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/otherAbout/TestOneMain.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_88.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/collectionAbout/ArrayTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/socket/TCPServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/socket/LengthCalculator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/socket/TCPClient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/mysqlKey/GetMySqlKeyDemo1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/oddNumbers/OrderNumberUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/mathAbout/MathAboutTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_a1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_135.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/javaBasis/reflect/Robot.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/javaBasis/reflect/ReflectSample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/IpToInteger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/langAbout/StringAbout.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/catalog.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_912.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/sort/MaoPao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/sort/JingDianPaiXu.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/JianzhiOffer/剑指Offer目录.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/JianzhiOffer/Topic_25.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/dateAbout/DateChangeTest.java" />
-      </list>
-    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -172,137 +35,25 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="y" value="-7" />
-    <option name="width" value="1939" />
-    <option name="height" value="1049" />
-  </component>
+  <component name="ProjectId" id="1mduaNzlvCmyHdKwEhZnl4Rf40h" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="songj" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="songj" type="462c0819:PsiDirectoryNode" />
-              <item name="dateAbout" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="songj" type="462c0819:PsiDirectoryNode" />
-              <item name="javaBasis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="songj" type="462c0819:PsiDirectoryNode" />
-              <item name="langAbout" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="songj" type="462c0819:PsiDirectoryNode" />
-              <item name="mathAbout" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="songj" type="462c0819:PsiDirectoryNode" />
-              <item name="threadAbout" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="songj" type="462c0819:PsiDirectoryNode" />
-              <item name="threadAbout" type="462c0819:PsiDirectoryNode" />
-              <item name="ThreadPool" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="songj" type="462c0819:PsiDirectoryNode" />
-              <item name="threadAbout" type="462c0819:PsiDirectoryNode" />
-              <item name="ThreadPool" type="462c0819:PsiDirectoryNode" />
-              <item name="getresult" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608807529250" />
-    <property name="last_opened_file_path" value="C:/WorkSpace/WorkCodeSpace/aizhikang/ol_base_server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -311,25 +62,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.DateChangeTest.check">
-    <configuration name="JingDianPaiXu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.songj.algorithm.sort.JingDianPaiXu" />
+  <component name="RunManager" selected="JUnit.StreamLearnImpl.groupByAndSort01">
+    <configuration name="ConnectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.songj.database.ConnectionTest" />
       <module name="myJavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.songj.algorithm.sort.*" />
+          <option name="PATTERN" value="com.songj.database.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -337,65 +76,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateChangeTest.aa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DeapLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.songj.otherAbout.DeapLock" />
       <module name="myJavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.songj.dateAbout.*" />
+          <option name="PATTERN" value="com.songj.otherAbout.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.songj.dateAbout" />
-      <option name="MAIN_CLASS_NAME" value="com.songj.dateAbout.DateChangeTest" />
-      <option name="METHOD_NAME" value="aa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPoolException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.songj.threadAbout.ThreadPool.ThreadPoolException" />
+      <module name="myJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.songj.threadAbout.ThreadPool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamLearnImpl.groupByAndSort01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.songj.java8About.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.songj.java8About.stream" />
+      <option name="MAIN_CLASS_NAME" value="com.songj.java8About.stream.StreamLearnImpl" />
+      <option name="METHOD_NAME" value="groupByAndSort01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateChangeTest.check" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamLearnImpl.partitioningBy01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myJavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.songj.dateAbout.*" />
+          <option name="PATTERN" value="com.songj.java8About.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.songj.dateAbout" />
-      <option name="MAIN_CLASS_NAME" value="com.songj.dateAbout.DateChangeTest" />
-      <option name="METHOD_NAME" value="check" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DateChangeTest.compare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="myJavaProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.songj.dateAbout.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.songj.dateAbout" />
-      <option name="MAIN_CLASS_NAME" value="com.songj.dateAbout.DateChangeTest" />
-      <option name="METHOD_NAME" value="compare" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DateChangeTest.formatDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="myJavaProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.songj.dateAbout.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.songj.dateAbout" />
-      <option name="MAIN_CLASS_NAME" value="com.songj.dateAbout.DateChangeTest" />
-      <option name="METHOD_NAME" value="formatDate" />
+      <option name="PACKAGE_NAME" value="com.songj.java8About.stream" />
+      <option name="MAIN_CLASS_NAME" value="com.songj.java8About.stream.StreamLearnImpl" />
+      <option name="METHOD_NAME" value="partitioningBy01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -429,20 +162,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.JingDianPaiXu" />
-      <item itemvalue="JUnit.DateChangeTest.compare" />
-      <item itemvalue="JUnit.DateChangeTest.formatDate" />
-      <item itemvalue="JUnit.DateChangeTest.aa" />
-      <item itemvalue="JUnit.DateChangeTest.check" />
+      <item itemvalue="Application.DeapLock" />
+      <item itemvalue="Application.ConnectionTest" />
+      <item itemvalue="Application.ThreadPoolException" />
+      <item itemvalue="JUnit.StreamLearnImpl.partitioningBy01" />
+      <item itemvalue="JUnit.StreamLearnImpl.groupByAndSort01" />
       <item itemvalue="Maven.myJavaProject [clean,install,-DskipTests]" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DateChangeTest.check" />
-        <item itemvalue="JUnit.DateChangeTest.aa" />
-        <item itemvalue="JUnit.DateChangeTest.formatDate" />
-        <item itemvalue="JUnit.DateChangeTest.compare" />
-        <item itemvalue="Application.JingDianPaiXu" />
+        <item itemvalue="JUnit.StreamLearnImpl.groupByAndSort01" />
+        <item itemvalue="JUnit.StreamLearnImpl.partitioningBy01" />
+        <item itemvalue="Application.ThreadPoolException" />
+        <item itemvalue="Application.ConnectionTest" />
+        <item itemvalue="Application.DeapLock" />
       </list>
     </recent_temporary>
   </component>
@@ -526,6 +259,30 @@
       <workItem from="1608781429591" duration="8375000" />
       <workItem from="1608804848506" duration="2581000" />
       <workItem from="1608809303748" duration="4788000" />
+      <workItem from="1609835853900" duration="620000" />
+      <workItem from="1609899009530" duration="881000" />
+      <workItem from="1610508928272" duration="625000" />
+      <workItem from="1610590960330" duration="8736000" />
+      <workItem from="1610674731249" duration="4500000" />
+      <workItem from="1610683352976" duration="1177000" />
+      <workItem from="1610697413045" duration="1700000" />
+      <workItem from="1610702326737" duration="592000" />
+      <workItem from="1610847277841" duration="3980000" />
+      <workItem from="1610934220693" duration="505000" />
+      <workItem from="1610949181839" duration="179000" />
+      <workItem from="1610949529163" duration="8188000" />
+      <workItem from="1610978540980" duration="521000" />
+      <workItem from="1611020958696" duration="2180000" />
+      <workItem from="1611036396500" duration="655000" />
+      <workItem from="1611044131347" duration="2359000" />
+      <workItem from="1611301113246" duration="705000" />
+      <workItem from="1611405704989" duration="5000" />
+      <workItem from="1611559955109" duration="49000" />
+      <workItem from="1611560379496" duration="917000" />
+      <workItem from="1611561896557" duration="1166000" />
+      <workItem from="1611625232976" duration="542000" />
+      <workItem from="1611824085256" duration="1198000" />
+      <workItem from="1612513547521" duration="110000" />
     </task>
     <task id="LOCAL-00001" summary="fetch">
       <created>1596693840756</created>
@@ -548,526 +305,126 @@
       <option name="project" value="LOCAL" />
       <updated>1607579134068</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add">
+      <created>1610866279944</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610866279944</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="DateChangeTest_check - 2020.12.24 at 16h 29m 30s.xml">
-      <configuration name="DateChangeTest.check" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DateChangeTest_check - 2020.12.24 at 16h 33m 05s.xml">
-      <configuration name="DateChangeTest.check" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DateChangeTest_check - 2020.12.24 at 16h 33m 16s.xml">
-      <configuration name="DateChangeTest.check" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DateChangeTest_check - 2020.12.24 at 16h 35m 00s.xml">
-      <configuration name="DateChangeTest.check" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DateChangeTest_check - 2020.12.24 at 16h 38m 07s.xml">
-      <configuration name="DateChangeTest.check" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DateChangeTest_check - 2020.12.24 at 16h 39m 09s.xml">
-      <configuration name="DateChangeTest.check" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DateChangeTest_check - 2020.12.24 at 16h 40m 10s.xml">
-      <configuration name="DateChangeTest.check" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DateChangeTest_check - 2020.12.24 at 18h 25m 15s.xml">
-      <configuration name="DateChangeTest.check" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DateChangeTest_check - 2020.12.24 at 18h 26m 42s.xml">
-      <configuration name="DateChangeTest.check" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DateChangeTest_check - 2020.12.24 at 18h 27m 21s.xml">
-      <configuration name="DateChangeTest.check" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="203999000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-5" y="-5" width="1551" height="839" extended-state="7" />
-    <layout>
-      <window_info id="Designer" order="0" />
-      <window_info id="Image Layers" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.36424732" />
-      <window_info id="JRebel" order="6" side_tool="true" />
-      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32844576" />
-      <window_info anchor="bottom" id="SonarLint" order="4" />
-      <window_info anchor="bottom" id="Database Changes" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49831876" weight="0.32551318" />
-      <window_info anchor="bottom" id="JRebel Executor" order="7" />
-      <window_info anchor="bottom" id="JRebel Console" order="8" sideWeight="0.5016812" side_tool="true" weight="0.32650074" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="9" />
-      <window_info anchor="bottom" id="Message" order="10" />
-      <window_info anchor="bottom" id="Find" order="11" weight="0.32991204" />
-      <window_info active="true" anchor="bottom" id="Run" order="12" sideWeight="0.49899125" visible="true" weight="0.25953078" />
-      <window_info anchor="bottom" id="Debug" order="13" weight="0.3991228" />
-      <window_info anchor="bottom" id="Cvs" order="14" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="16" />
-      <window_info anchor="bottom" id="Thumbnails" order="17" weight="0.32988167" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Mybatis datasource" order="2" side_tool="true" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.32977018" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Designer" order="0" />
-      <window_info id="Image Layers" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.27101547" />
-      <window_info id="JRebel" order="6" side_tool="true" />
-      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32962137" />
-      <window_info anchor="bottom" id="SonarLint" order="4" />
-      <window_info anchor="bottom" id="Database Changes" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="6" />
-      <window_info anchor="bottom" id="JRebel Executor" order="7" />
-      <window_info anchor="bottom" id="JRebel Console" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="9" />
-      <window_info anchor="bottom" id="Message" order="10" />
-      <window_info anchor="bottom" id="Find" order="11" />
-      <window_info active="true" anchor="bottom" id="Run" order="12" visible="true" weight="0.21260998" />
-      <window_info anchor="bottom" id="Debug" order="13" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="14" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="16" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Mybatis datasource" order="2" side_tool="true" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.32977018" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fetch" />
     <MESSAGE value="add" />
     <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/songj/java8About/stream/StreamLearnImpl.java</url>
-          <line>83</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="483" column="70" selection-start-line="483" selection-start-column="27" selection-end-line="483" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/cache/localCache/CaffeineCacheTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/java8About/stream/StreamLearn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1274">
-          <caret line="66" column="9" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/socket/TCPClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/socket/TCPServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/socket/LengthCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="32" column="31" selection-start-line="29" selection-start-column="12" selection-end-line="32" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/java8About/stream/StreamLearnImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-74">
-          <caret line="80" column="13" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/mysqlKey/GetMySqlKeyDemo1.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/oddNumbers/OrderNumberUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="87" column="29" selection-start-line="87" selection-start-column="29" selection-end-line="87" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/WorkSpace/WorkCodeSpace/gaosi/aijianzi/Mgr-web/src/main/java/com/aijianzi/login/service/LoginRemoteService.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/bean/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/ThreadPool/demo1/ThreadPoolDemoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/ThreadPool/demo1/RejectedExecutionExceptionText01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_88.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1090">
-          <caret line="115" column="27" selection-start-line="115" selection-start-column="27" selection-end-line="115" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2178">
-          <caret line="99" column="68" selection-start-line="99" selection-start-column="68" selection-end-line="99" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="733" column="16" selection-start-line="733" selection-start-column="16" selection-end-line="733" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/Thread01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/GuavaListenableFutureLearn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/javaBasis/reflect/Robot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-          <folding>
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/javaBasis/reflect/ReflectSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo04/OrderServiceImplWithLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo01/singleThread/MyRunnable_01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo01/singleThread/MyThread01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo01/singleThread/MainThreadDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="31" column="16" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/javaBasis/BodyA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="113" column="31" selection-start-line="113" selection-start-column="3" selection-end-line="113" selection-end-column="31" />
-          <folding>
-            <element signature="e#22786#22787#0" expanded="true" />
-            <element signature="e#22821#22822#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="420" column="16" lean-forward="true" selection-start-line="420" selection-start-column="16" selection-end-line="420" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/CustomExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/collectionAbout/ListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4444">
-          <caret line="211" column="30" selection-start-line="211" selection-start-column="30" selection-end-line="212" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/IpToInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1034">
-          <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/langAbout/StringAbout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/StringBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="264" column="42" lean-forward="true" selection-start-line="264" selection-start-column="42" selection-end-line="264" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/mathAbout/MathAboutTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/ThreadPool/Submit_execute_Demo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/ThreadPool/getresult/MainThreadDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_135.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1838">
-          <caret line="99" column="41" selection-start-line="99" selection-start-column="41" selection-end-line="99" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4790#4791#0" expanded="true" />
-            <element signature="e#4830#4831#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/JianzhiOffer/Topic_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="70" column="19" lean-forward="true" selection-start-line="70" selection-start-column="14" selection-end-line="70" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="135" column="29" selection-start-line="135" selection-start-column="29" selection-end-line="135" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/力扣算法目录.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2332">
-          <caret line="106" column="1" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_912.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/sort/JingDianPaiXu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3036">
-          <caret line="138" column="13" selection-start-line="138" selection-start-column="13" selection-end-line="138" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/JianzhiOffer/剑指Offer目录.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/JianzhiOffer/Topic_25.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/collectionAbout/ArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1232">
-          <caret line="60" column="29" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/liKou/Topic_a1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/dateAbout/DateChangeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="109" column="71" selection-start-line="98" selection-start-column="8" selection-end-line="109" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="561" y="-760" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1609899054618">
+      <screen x="-595" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="561" y="-760" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.25.1440.807/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1609899054618" />
+    <state x="148" y="-1014" key="CommitChangelistDialog2" timestamp="1610866420887">
+      <screen x="-595" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="148" y="-1014" key="CommitChangelistDialog2/0.25.1440.804/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610866420887" />
+    <state x="148" y="-1014" key="CommitChangelistDialog2/0.25.1440.815/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1609838930715" />
+    <state width="459" height="466" key="DebuggerActiveHint" timestamp="1610678326202">
+      <screen x="-595" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="459" height="466" key="DebuggerActiveHint/0.25.1440.809/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610678326202" />
+    <state width="1667" height="194" key="GridCell.Tab.0.bottom" timestamp="1611561327538">
+      <screen x="-595" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="1446" height="263" key="GridCell.Tab.0.bottom/0.25.1440.799/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1611047577554" />
+    <state width="1667" height="194" key="GridCell.Tab.0.bottom/0.25.1440.801/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1611561327538" />
+    <state width="1446" height="263" key="GridCell.Tab.0.bottom/0.25.1440.804/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1611059215721" />
+    <state width="1922" height="324" key="GridCell.Tab.0.bottom/0.25.1440.805/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610975689252" />
+    <state width="1922" height="324" key="GridCell.Tab.0.bottom/0.25.1440.807/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610957514658" />
+    <state width="1922" height="263" key="GridCell.Tab.0.bottom/0.25.1440.809/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610955719870" />
+    <state width="1922" height="263" key="GridCell.Tab.0.bottom/0.25.1440.813/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610955706409" />
+    <state width="1398" height="144" key="GridCell.Tab.0.bottom/0.25.1440.813/-595.-1415.2560.1415@0.25.1440.813" timestamp="1610633050745" />
+    <state width="1189" height="263" key="GridCell.Tab.0.bottom/0.25.1440.814/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610959788886" />
+    <state width="1398" height="331" key="GridCell.Tab.0.bottom/0.25.1440.815/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610854759352" />
+    <state width="1667" height="194" key="GridCell.Tab.0.center" timestamp="1611561327537">
+      <screen x="-595" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="1446" height="263" key="GridCell.Tab.0.center/0.25.1440.799/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1611047577552" />
+    <state width="1667" height="194" key="GridCell.Tab.0.center/0.25.1440.801/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1611561327537" />
+    <state width="1446" height="263" key="GridCell.Tab.0.center/0.25.1440.804/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1611059215719" />
+    <state width="1922" height="324" key="GridCell.Tab.0.center/0.25.1440.805/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610975689251" />
+    <state width="1922" height="324" key="GridCell.Tab.0.center/0.25.1440.807/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610957514653" />
+    <state width="1922" height="263" key="GridCell.Tab.0.center/0.25.1440.809/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610955719868" />
+    <state width="1922" height="263" key="GridCell.Tab.0.center/0.25.1440.813/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610955706408" />
+    <state width="1398" height="144" key="GridCell.Tab.0.center/0.25.1440.813/-595.-1415.2560.1415@0.25.1440.813" timestamp="1610633050745" />
+    <state width="1189" height="263" key="GridCell.Tab.0.center/0.25.1440.814/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610959788885" />
+    <state width="1398" height="331" key="GridCell.Tab.0.center/0.25.1440.815/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610854759351" />
+    <state width="1667" height="194" key="GridCell.Tab.0.left" timestamp="1611561327537">
+      <screen x="-595" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="1446" height="263" key="GridCell.Tab.0.left/0.25.1440.799/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1611047577551" />
+    <state width="1667" height="194" key="GridCell.Tab.0.left/0.25.1440.801/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1611561327537" />
+    <state width="1446" height="263" key="GridCell.Tab.0.left/0.25.1440.804/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1611059215717" />
+    <state width="1922" height="324" key="GridCell.Tab.0.left/0.25.1440.805/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610975689251" />
+    <state width="1922" height="324" key="GridCell.Tab.0.left/0.25.1440.807/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610957514646" />
+    <state width="1922" height="263" key="GridCell.Tab.0.left/0.25.1440.809/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610955719867" />
+    <state width="1922" height="263" key="GridCell.Tab.0.left/0.25.1440.813/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610955706406" />
+    <state width="1398" height="144" key="GridCell.Tab.0.left/0.25.1440.813/-595.-1415.2560.1415@0.25.1440.813" timestamp="1610633050745" />
+    <state width="1189" height="263" key="GridCell.Tab.0.left/0.25.1440.814/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610959788884" />
+    <state width="1398" height="331" key="GridCell.Tab.0.left/0.25.1440.815/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610854759351" />
+    <state width="1667" height="194" key="GridCell.Tab.0.right" timestamp="1611561327538">
+      <screen x="-595" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="1446" height="263" key="GridCell.Tab.0.right/0.25.1440.799/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1611047577553" />
+    <state width="1667" height="194" key="GridCell.Tab.0.right/0.25.1440.801/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1611561327538" />
+    <state width="1446" height="263" key="GridCell.Tab.0.right/0.25.1440.804/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1611059215720" />
+    <state width="1922" height="324" key="GridCell.Tab.0.right/0.25.1440.805/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610975689252" />
+    <state width="1922" height="324" key="GridCell.Tab.0.right/0.25.1440.807/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610957514656" />
+    <state width="1922" height="263" key="GridCell.Tab.0.right/0.25.1440.809/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610955719869" />
+    <state width="1922" height="263" key="GridCell.Tab.0.right/0.25.1440.813/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610955706409" />
+    <state width="1398" height="144" key="GridCell.Tab.0.right/0.25.1440.813/-595.-1415.2560.1415@0.25.1440.813" timestamp="1610633050745" />
+    <state width="1189" height="263" key="GridCell.Tab.0.right/0.25.1440.814/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610959788885" />
+    <state width="1398" height="331" key="GridCell.Tab.0.right/0.25.1440.815/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610854759352" />
+    <state width="1922" height="324" key="GridCell.Tab.1.bottom" timestamp="1610975689253">
+      <screen x="-595" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="1922" height="324" key="GridCell.Tab.1.bottom/0.25.1440.805/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610975689253" />
+    <state width="1398" height="237" key="GridCell.Tab.1.bottom/0.25.1440.809/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610678493532" />
+    <state width="1922" height="324" key="GridCell.Tab.1.center" timestamp="1610975689252">
+      <screen x="-595" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="1922" height="324" key="GridCell.Tab.1.center/0.25.1440.805/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610975689252" />
+    <state width="1398" height="237" key="GridCell.Tab.1.center/0.25.1440.809/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610678493532" />
+    <state width="1922" height="324" key="GridCell.Tab.1.left" timestamp="1610975689252">
+      <screen x="-595" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="1922" height="324" key="GridCell.Tab.1.left/0.25.1440.805/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610975689252" />
+    <state width="1398" height="237" key="GridCell.Tab.1.left/0.25.1440.809/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610678493531" />
+    <state width="1922" height="324" key="GridCell.Tab.1.right" timestamp="1610975689253">
+      <screen x="-595" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="1922" height="324" key="GridCell.Tab.1.right/0.25.1440.805/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610975689253" />
+    <state width="1398" height="237" key="GridCell.Tab.1.right/0.25.1440.809/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610678493532" />
+    <state x="842" y="-1175" key="Vcs.Push.Dialog.v2" timestamp="1610866282076">
+      <screen x="-595" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="842" y="-1175" key="Vcs.Push.Dialog.v2/0.25.1440.804/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610866282076" />
+    <state x="942" y="-1151" width="600" height="474" key="find.popup" timestamp="1610953827086">
+      <screen x="-595" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="942" y="-1151" width="600" height="474" key="find.popup/0.25.1440.809/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610953827086" />
+    <state x="951" y="-1119" key="git4idea.merge.GitPullDialog" timestamp="1610866142710">
+      <screen x="-595" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="951" y="-1119" key="git4idea.merge.GitPullDialog/0.25.1440.804/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610866142710" />
+    <state x="527" y="-968" width="670" height="676" key="search.everywhere.popup" timestamp="1610854335659">
+      <screen x="-595" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="527" y="-968" width="670" height="676" key="search.everywhere.popup/0.25.1440.815/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610854335659" />
   </component>
   <component name="masterDetails">
     <states>
