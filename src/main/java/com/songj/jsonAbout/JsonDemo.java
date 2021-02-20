@@ -34,6 +34,12 @@ public interface JsonDemo {
     public void stringToObject3();
 
     /**
+     * @Description: 字符串转对象（多层嵌套，或者泛型<泛型>）
+     *
+     **/
+    public void stringToObject4();
+
+    /**
      * @Description: 字符串转json，获取嵌套属性。
      **/
     public void stringToJSON();

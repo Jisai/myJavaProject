@@ -86,6 +86,19 @@ public class JsonDemoImpl implements JsonDemo {
         System.out.println("employee name is " + employee.getName());
     }
 
+
+    /**
+     * @Description: 字符串转对象（多层嵌套，或者泛型<泛型>）
+     *
+     *
+     **/
+    @Test
+    @Override
+    public void stringToObject4(){
+        //Gson gson = new Gson();
+        //要转换的对象类型 result = gson.fromJson(jsonResult, new TypeToken<要转换的对象类型>(){}.getType());
+    }
+
     /**
      * @Description: 字符串转json，获取嵌套属性。
      **/
