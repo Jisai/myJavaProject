@@ -19,6 +19,17 @@ public class StringAbout {
 
 
     @Test
+    public void length(){
+        String a = "你好";
+        String b = "你好！";
+        String c = "你 好";
+        System.out.println(a.length());
+        System.out.println(b.length());
+        System.out.println(c.length());
+    }
+
+
+    @Test
     public void startsWith(){
 //        String a = "5/6/428/1100569/";
 //        String b = "5/6/428/1100569/1100573/";

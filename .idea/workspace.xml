@@ -2,10 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a52c36b-ff85-41a6-b58a-50b82624537f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_binarywang_java_emoji_converter_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vdurmont_emoji_java_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_10_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_core_5_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_http_5_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/songj/util/EmojiUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/jsonAbout/JsonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/jsonAbout/JsonDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myJavaProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/myJavaProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/collectionAbout/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/collectionAbout/ArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/dateAbout/DateChangeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/dateAbout/DateChangeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/javaBasis/langAbout/StringAbout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/javaBasis/langAbout/StringAbout.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/jsonAbout/JsonDemoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/jsonAbout/JsonDemoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/otherAbout/TestOneMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/otherAbout/TestOneMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +44,8 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/MyLibrary/maven/apache-maven-3.5.0" />
-        <option name="userSettingsFile" value="D:\MyLibrary\maven\apache-maven-3.5.0\conf\gaosi_aixuexi_settings.xml" />
+        <option name="mavenHome" value="$USER_HOME$/Jisai/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/Jisai/apache-maven-3.6.3/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -55,26 +74,23 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="JUnit.ListTest.reorderListByAge">
-    <configuration name="DateChangeTest.isEffectiveDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.GuavaListenableFutureLearn.guavaFutureTest">
+    <configuration name="EmojiUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.songj.util.EmojiUtil" />
       <module name="myJavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.songj.dateAbout.*" />
+          <option name="PATTERN" value="com.songj.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.songj.dateAbout" />
-      <option name="MAIN_CLASS_NAME" value="com.songj.dateAbout.DateChangeTest" />
-      <option name="METHOD_NAME" value="isEffectiveDate" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest.reorderListByAge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ArrayTest.arrayToList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myJavaProject" />
       <extension name="coverage">
         <pattern>
@@ -83,56 +99,56 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.songj.collectionAbout" />
-      <option name="MAIN_CLASS_NAME" value="com.songj.collectionAbout.ListTest" />
-      <option name="METHOD_NAME" value="reorderListByAge" />
+      <option name="MAIN_CLASS_NAME" value="com.songj.collectionAbout.ArrayTest" />
+      <option name="METHOD_NAME" value="arrayToList" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamLearnImpl.groupByAndSort01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GuavaListenableFutureLearn.guavaFutureTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myJavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.songj.java8About.stream.*" />
+          <option name="PATTERN" value="com.songj.threadAbout.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.songj.java8About.stream" />
-      <option name="MAIN_CLASS_NAME" value="com.songj.java8About.stream.StreamLearnImpl" />
-      <option name="METHOD_NAME" value="groupByAndSort01" />
+      <option name="PACKAGE_NAME" value="com.songj.threadAbout" />
+      <option name="MAIN_CLASS_NAME" value="com.songj.threadAbout.GuavaListenableFutureLearn" />
+      <option name="METHOD_NAME" value="guavaFutureTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamLearnImpl.partitioningBy01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestOneMain.emojiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myJavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.songj.java8About.stream.*" />
+          <option name="PATTERN" value="com.songj.otherAbout.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.songj.java8About.stream" />
-      <option name="MAIN_CLASS_NAME" value="com.songj.java8About.stream.StreamLearnImpl" />
-      <option name="METHOD_NAME" value="partitioningBy01" />
+      <option name="PACKAGE_NAME" value="com.songj.otherAbout" />
+      <option name="MAIN_CLASS_NAME" value="com.songj.otherAbout.TestOneMain" />
+      <option name="METHOD_NAME" value="emojiTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamLearnImpl.peek01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestOneMain.testToAlias" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myJavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.songj.java8About.stream.*" />
+          <option name="PATTERN" value="com.songj.otherAbout.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.songj.java8About.stream" />
-      <option name="MAIN_CLASS_NAME" value="com.songj.java8About.stream.StreamLearnImpl" />
-      <option name="METHOD_NAME" value="peek01" />
+      <option name="PACKAGE_NAME" value="com.songj.otherAbout" />
+      <option name="MAIN_CLASS_NAME" value="com.songj.otherAbout.TestOneMain" />
+      <option name="METHOD_NAME" value="testToAlias" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -166,20 +182,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.StreamLearnImpl.partitioningBy01" />
-      <item itemvalue="JUnit.StreamLearnImpl.groupByAndSort01" />
-      <item itemvalue="JUnit.DateChangeTest.isEffectiveDate" />
-      <item itemvalue="JUnit.StreamLearnImpl.peek01" />
-      <item itemvalue="JUnit.ListTest.reorderListByAge" />
+      <item itemvalue="Application.EmojiUtil" />
+      <item itemvalue="JUnit.ArrayTest.arrayToList" />
+      <item itemvalue="JUnit.TestOneMain.emojiTest" />
+      <item itemvalue="JUnit.TestOneMain.testToAlias" />
+      <item itemvalue="JUnit.GuavaListenableFutureLearn.guavaFutureTest" />
       <item itemvalue="Maven.myJavaProject [clean,install,-DskipTests]" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ListTest.reorderListByAge" />
-        <item itemvalue="JUnit.StreamLearnImpl.peek01" />
-        <item itemvalue="JUnit.DateChangeTest.isEffectiveDate" />
-        <item itemvalue="JUnit.StreamLearnImpl.groupByAndSort01" />
-        <item itemvalue="JUnit.StreamLearnImpl.partitioningBy01" />
+        <item itemvalue="JUnit.GuavaListenableFutureLearn.guavaFutureTest" />
+        <item itemvalue="JUnit.TestOneMain.emojiTest" />
+        <item itemvalue="JUnit.TestOneMain.testToAlias" />
+        <item itemvalue="Application.EmojiUtil" />
+        <item itemvalue="JUnit.ArrayTest.arrayToList" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +307,22 @@
       <workItem from="1613629295121" duration="4308000" />
       <workItem from="1613698498075" duration="597000" />
       <workItem from="1613705736480" duration="596000" />
-      <workItem from="1613785471228" duration="10329000" />
+      <workItem from="1613785471228" duration="10822000" />
+      <workItem from="1613957991596" duration="69000" />
+      <workItem from="1613978052642" duration="35000" />
+      <workItem from="1614067441900" duration="641000" />
+      <workItem from="1614150951242" duration="1383000" />
+      <workItem from="1614217471491" duration="1150000" />
+      <workItem from="1614324383885" duration="5249000" />
+      <workItem from="1614562714016" duration="7853000" />
+      <workItem from="1614649137633" duration="3814000" />
+      <workItem from="1614668112015" duration="535000" />
+      <workItem from="1614678136005" duration="407000" />
+      <workItem from="1614738438483" duration="5158000" />
+      <workItem from="1614775125342" duration="13000" />
+      <workItem from="1614822035308" duration="7875000" />
+      <workItem from="1614908326890" duration="2024000" />
+      <workItem from="1615169657183" duration="1504000" />
     </task>
     <task id="LOCAL-00001" summary="fetch">
       <created>1596693840756</created>
@@ -328,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613475799787</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add">
+      <created>1613818778998</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1613818778998</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,13 +378,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="159" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614678461042">
+      <screen x="0" y="25" width="1393" height="875" />
+    </state>
+    <state x="159" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1393.875/-595.-1415.2560.1415@0.25.1393.875" timestamp="1614678461042" />
     <state x="561" y="-760" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1609899054618">
       <screen x="-595" y="-1415" width="2560" height="1415" />
     </state>
     <state x="561" y="-760" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.25.1440.807/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1609899054618" />
-    <state x="404" y="36" key="CommitChangelistDialog2" timestamp="1613475799500">
-      <screen x="0" y="25" width="1393" height="875" />
+    <state x="403" y="36" key="CommitChangelistDialog2" timestamp="1613818778763">
+      <screen x="0" y="25" width="1391" height="875" />
     </state>
+    <state x="403" y="36" key="CommitChangelistDialog2/0.25.1391.875/-595.-1415.2560.1415@0.25.1391.875" timestamp="1613818778763" />
     <state x="404" y="36" key="CommitChangelistDialog2/0.25.1393.875@0.25.1393.875" timestamp="1613475799500" />
     <state x="148" y="-1014" key="CommitChangelistDialog2/0.25.1440.804/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610866420887" />
     <state x="148" y="-1014" key="CommitChangelistDialog2/0.25.1440.815/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1609838930715" />
@@ -354,12 +397,16 @@
       <screen x="-595" y="-1415" width="2560" height="1415" />
     </state>
     <state width="459" height="466" key="DebuggerActiveHint/0.25.1440.809/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610678326202" />
-    <state width="1349" height="218" key="GridCell.Tab.0.bottom" timestamp="1613647362339">
+    <state width="1349" height="218" key="GridCell.Tab.0.bottom" timestamp="1614858907381">
       <screen x="0" y="25" width="1391" height="875" />
     </state>
-    <state width="1349" height="218" key="GridCell.Tab.0.bottom/0.25.1391.875/-595.-1415.2560.1415@0.25.1391.875" timestamp="1613647362339" />
-    <state width="1349" height="194" key="GridCell.Tab.0.bottom/0.25.1393.875/-595.-1415.2560.1415@0.25.1393.875" timestamp="1613635905276" />
+    <state width="1349" height="218" key="GridCell.Tab.0.bottom/0.25.1391.875/-595.-1415.2560.1415@0.25.1391.875" timestamp="1614823928764" />
+    <state width="1349" height="218" key="GridCell.Tab.0.bottom/0.25.1391.875@0.25.1391.875" timestamp="1614858907381" />
+    <state width="1737" height="218" key="GridCell.Tab.0.bottom/0.25.1393.875/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1614770748256" />
+    <state width="1351" height="218" key="GridCell.Tab.0.bottom/0.25.1393.875/-595.-1415.2560.1415@0.25.1393.875" timestamp="1614775094808" />
     <state width="1349" height="194" key="GridCell.Tab.0.bottom/0.25.1394.875/-595.-1415.2560.1415@0.25.1394.875" timestamp="1613635784540" />
+    <state width="1349" height="218" key="GridCell.Tab.0.bottom/0.25.1395.875/-595.-1415.2560.1415@0.25.1395.875" timestamp="1614844741294" />
+    <state width="1348" height="218" key="GridCell.Tab.0.bottom/0.25.1396.875@0.25.1396.875" timestamp="1614172830328" />
     <state width="1446" height="263" key="GridCell.Tab.0.bottom/0.25.1440.799/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1611047577554" />
     <state width="1667" height="194" key="GridCell.Tab.0.bottom/0.25.1440.801/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1611561327538" />
     <state width="1446" height="263" key="GridCell.Tab.0.bottom/0.25.1440.804/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1611059215721" />
@@ -370,12 +417,16 @@
     <state width="1398" height="144" key="GridCell.Tab.0.bottom/0.25.1440.813/-595.-1415.2560.1415@0.25.1440.813" timestamp="1610633050745" />
     <state width="1189" height="263" key="GridCell.Tab.0.bottom/0.25.1440.814/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610959788886" />
     <state width="1398" height="331" key="GridCell.Tab.0.bottom/0.25.1440.815/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610854759352" />
-    <state width="1349" height="218" key="GridCell.Tab.0.center" timestamp="1613647362338">
+    <state width="1349" height="218" key="GridCell.Tab.0.center" timestamp="1614858907380">
       <screen x="0" y="25" width="1391" height="875" />
     </state>
-    <state width="1349" height="218" key="GridCell.Tab.0.center/0.25.1391.875/-595.-1415.2560.1415@0.25.1391.875" timestamp="1613647362338" />
-    <state width="1349" height="194" key="GridCell.Tab.0.center/0.25.1393.875/-595.-1415.2560.1415@0.25.1393.875" timestamp="1613635905275" />
+    <state width="1349" height="218" key="GridCell.Tab.0.center/0.25.1391.875/-595.-1415.2560.1415@0.25.1391.875" timestamp="1614823928763" />
+    <state width="1349" height="218" key="GridCell.Tab.0.center/0.25.1391.875@0.25.1391.875" timestamp="1614858907380" />
+    <state width="1737" height="218" key="GridCell.Tab.0.center/0.25.1393.875/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1614770748255" />
+    <state width="1351" height="218" key="GridCell.Tab.0.center/0.25.1393.875/-595.-1415.2560.1415@0.25.1393.875" timestamp="1614775094807" />
     <state width="1349" height="194" key="GridCell.Tab.0.center/0.25.1394.875/-595.-1415.2560.1415@0.25.1394.875" timestamp="1613635784538" />
+    <state width="1349" height="218" key="GridCell.Tab.0.center/0.25.1395.875/-595.-1415.2560.1415@0.25.1395.875" timestamp="1614844741293" />
+    <state width="1348" height="218" key="GridCell.Tab.0.center/0.25.1396.875@0.25.1396.875" timestamp="1614172830328" />
     <state width="1446" height="263" key="GridCell.Tab.0.center/0.25.1440.799/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1611047577552" />
     <state width="1667" height="194" key="GridCell.Tab.0.center/0.25.1440.801/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1611561327537" />
     <state width="1446" height="263" key="GridCell.Tab.0.center/0.25.1440.804/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1611059215719" />
@@ -386,12 +437,16 @@
     <state width="1398" height="144" key="GridCell.Tab.0.center/0.25.1440.813/-595.-1415.2560.1415@0.25.1440.813" timestamp="1610633050745" />
     <state width="1189" height="263" key="GridCell.Tab.0.center/0.25.1440.814/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610959788885" />
     <state width="1398" height="331" key="GridCell.Tab.0.center/0.25.1440.815/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610854759351" />
-    <state width="1349" height="218" key="GridCell.Tab.0.left" timestamp="1613647362338">
+    <state width="1349" height="218" key="GridCell.Tab.0.left" timestamp="1614858907380">
       <screen x="0" y="25" width="1391" height="875" />
     </state>
-    <state width="1349" height="218" key="GridCell.Tab.0.left/0.25.1391.875/-595.-1415.2560.1415@0.25.1391.875" timestamp="1613647362338" />
-    <state width="1349" height="194" key="GridCell.Tab.0.left/0.25.1393.875/-595.-1415.2560.1415@0.25.1393.875" timestamp="1613635905275" />
+    <state width="1349" height="218" key="GridCell.Tab.0.left/0.25.1391.875/-595.-1415.2560.1415@0.25.1391.875" timestamp="1614823928763" />
+    <state width="1349" height="218" key="GridCell.Tab.0.left/0.25.1391.875@0.25.1391.875" timestamp="1614858907380" />
+    <state width="1737" height="218" key="GridCell.Tab.0.left/0.25.1393.875/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1614770748254" />
+    <state width="1351" height="218" key="GridCell.Tab.0.left/0.25.1393.875/-595.-1415.2560.1415@0.25.1393.875" timestamp="1614775094807" />
     <state width="1349" height="194" key="GridCell.Tab.0.left/0.25.1394.875/-595.-1415.2560.1415@0.25.1394.875" timestamp="1613635784537" />
+    <state width="1349" height="218" key="GridCell.Tab.0.left/0.25.1395.875/-595.-1415.2560.1415@0.25.1395.875" timestamp="1614844741292" />
+    <state width="1348" height="218" key="GridCell.Tab.0.left/0.25.1396.875@0.25.1396.875" timestamp="1614172830327" />
     <state width="1446" height="263" key="GridCell.Tab.0.left/0.25.1440.799/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1611047577551" />
     <state width="1667" height="194" key="GridCell.Tab.0.left/0.25.1440.801/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1611561327537" />
     <state width="1446" height="263" key="GridCell.Tab.0.left/0.25.1440.804/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1611059215717" />
@@ -402,12 +457,16 @@
     <state width="1398" height="144" key="GridCell.Tab.0.left/0.25.1440.813/-595.-1415.2560.1415@0.25.1440.813" timestamp="1610633050745" />
     <state width="1189" height="263" key="GridCell.Tab.0.left/0.25.1440.814/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610959788884" />
     <state width="1398" height="331" key="GridCell.Tab.0.left/0.25.1440.815/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610854759351" />
-    <state width="1349" height="218" key="GridCell.Tab.0.right" timestamp="1613647362338">
+    <state width="1349" height="218" key="GridCell.Tab.0.right" timestamp="1614858907381">
       <screen x="0" y="25" width="1391" height="875" />
     </state>
-    <state width="1349" height="218" key="GridCell.Tab.0.right/0.25.1391.875/-595.-1415.2560.1415@0.25.1391.875" timestamp="1613647362338" />
-    <state width="1349" height="194" key="GridCell.Tab.0.right/0.25.1393.875/-595.-1415.2560.1415@0.25.1393.875" timestamp="1613635905276" />
+    <state width="1349" height="218" key="GridCell.Tab.0.right/0.25.1391.875/-595.-1415.2560.1415@0.25.1391.875" timestamp="1614823928764" />
+    <state width="1349" height="218" key="GridCell.Tab.0.right/0.25.1391.875@0.25.1391.875" timestamp="1614858907381" />
+    <state width="1737" height="218" key="GridCell.Tab.0.right/0.25.1393.875/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1614770748256" />
+    <state width="1351" height="218" key="GridCell.Tab.0.right/0.25.1393.875/-595.-1415.2560.1415@0.25.1393.875" timestamp="1614775094807" />
     <state width="1349" height="194" key="GridCell.Tab.0.right/0.25.1394.875/-595.-1415.2560.1415@0.25.1394.875" timestamp="1613635784540" />
+    <state width="1349" height="218" key="GridCell.Tab.0.right/0.25.1395.875/-595.-1415.2560.1415@0.25.1395.875" timestamp="1614844741294" />
+    <state width="1348" height="218" key="GridCell.Tab.0.right/0.25.1396.875@0.25.1396.875" timestamp="1614172830328" />
     <state width="1446" height="263" key="GridCell.Tab.0.right/0.25.1440.799/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1611047577553" />
     <state width="1667" height="194" key="GridCell.Tab.0.right/0.25.1440.801/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1611561327538" />
     <state width="1446" height="263" key="GridCell.Tab.0.right/0.25.1440.804/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1611059215720" />
@@ -438,9 +497,15 @@
     </state>
     <state width="1922" height="324" key="GridCell.Tab.1.right/0.25.1440.805/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610975689253" />
     <state width="1398" height="237" key="GridCell.Tab.1.right/0.25.1440.809/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610678493532" />
-    <state x="593" y="173" key="Vcs.Push.Dialog.v2" timestamp="1613475802276">
-      <screen x="0" y="25" width="1393" height="875" />
+    <state x="-220" y="-1297" key="SettingsEditor" timestamp="1614740819538">
+      <screen x="-595" y="-1415" width="2560" height="1415" />
     </state>
+    <state x="-220" y="-1297" key="SettingsEditor/0.25.1393.875/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1614740819538" />
+    <state x="204" y="98" key="SettingsEditor/0.25.1393.875/-595.-1415.2560.1415@0.25.1393.875" timestamp="1614738459512" />
+    <state x="591" y="173" key="Vcs.Push.Dialog.v2" timestamp="1613818780537">
+      <screen x="0" y="25" width="1391" height="875" />
+    </state>
+    <state x="591" y="173" key="Vcs.Push.Dialog.v2/0.25.1391.875/-595.-1415.2560.1415@0.25.1391.875" timestamp="1613818780537" />
     <state x="593" y="173" key="Vcs.Push.Dialog.v2/0.25.1393.875@0.25.1393.875" timestamp="1613475802276" />
     <state x="842" y="-1175" key="Vcs.Push.Dialog.v2/0.25.1440.804/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610866282076" />
     <state x="826" y="188" width="567" height="474" key="find.popup" timestamp="1613635835648">
@@ -448,9 +513,10 @@
     </state>
     <state x="826" y="188" width="567" height="474" key="find.popup/0.25.1393.875/-595.-1415.2560.1415@0.25.1393.875" timestamp="1613635835648" />
     <state x="942" y="-1151" width="600" height="474" key="find.popup/0.25.1440.809/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610953827086" />
-    <state x="951" y="-1119" key="git4idea.merge.GitPullDialog" timestamp="1610866142710">
-      <screen x="-595" y="-1415" width="2560" height="1415" />
+    <state x="807" y="208" key="git4idea.merge.GitPullDialog" timestamp="1613818760927">
+      <screen x="0" y="25" width="1391" height="875" />
     </state>
+    <state x="807" y="208" key="git4idea.merge.GitPullDialog/0.25.1391.875/-595.-1415.2560.1415@0.25.1391.875" timestamp="1613818760927" />
     <state x="951" y="-1119" key="git4idea.merge.GitPullDialog/0.25.1440.804/-595.-1415.2560.1415@-595.-1415.2560.1415" timestamp="1610866142710" />
     <state x="527" y="-968" width="670" height="676" key="search.everywhere.popup" timestamp="1610854335659">
       <screen x="-595" y="-1415" width="2560" height="1415" />

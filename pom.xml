@@ -148,8 +148,9 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>16.0.1</version>
+            <version>23.0</version>
         </dependency>
+
 
         <!-- https://mvnrepository.com/artifact/com.github.ben-manes.caffeine/caffeine -->
         <dependency>
@@ -157,6 +158,19 @@
             <artifactId>caffeine</artifactId>
             <version>2.7.0</version>
         </dependency>
+        <!-- 表情包 -->
+        <dependency>
+            <groupId>com.github.binarywang</groupId>
+            <artifactId>java-emoji-converter</artifactId>
+            <version>1.0.1</version>
+        </dependency>
+        <!-- 表情包 -->
+        <dependency>
+            <groupId>com.vdurmont</groupId>
+            <artifactId>emoji-java</artifactId>
+            <version>4.0.0</version>
+        </dependency>
+
 
     </dependencies>
 

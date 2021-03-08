@@ -47,7 +47,10 @@ public class JsonDemoImpl implements JsonDemo {
     /**
      * @Description: 字符串转对象，然后取出属性值。
      * 方法一：导入谷歌的Gson包
-     *
+     *项目中用到了Gson实例化实体时时间格式转换在不同的服务器上会发行改变，所以当我在本地可以正常运行时，
+     * 发布到线上就不能用了（linux）,当时我还很纳闷为何报错，
+     * 后来百度这个错误后才发现Gson在不同服务器上解析的时间格式不一样，所以在一开始就应该以下列方式来创建Gson对象。
+     *  Gson gson = new GsonBuilder().setDateFormat("yyyy-MM-dd HH:mm:ss").create();
      **/
     @Test
     @Override
