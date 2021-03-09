@@ -1,4 +1,4 @@
-package com.songj.threadAbout.ThreadPool;
+package com.songj.threadAbout.threadPool;
 
 
 import org.slf4j.Logger;

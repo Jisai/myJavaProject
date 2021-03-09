@@ -50,11 +50,17 @@ public class StringAbout {
     @Test
     public void split(){
         String a = "a;b;c;d";
-        String b = "1;2;3;4";
+        String b = "1;2;3;4;; ";
+        String c = "1;2;3;4;;";
         String[] arr_a = a.split(";");
         String[] arr_b = b.split(";");
+        String[] arr_c = c.split(";");
+        System.out.println(arr_a.length);//4
         System.out.println(JSON.toJSONString(arr_a));
+        System.out.println(arr_b.length);//6
         System.out.println(JSON.toJSONString(arr_b));
+        System.out.println(arr_c.length);//4
+        System.out.println(JSON.toJSONString(arr_c));
     }
 
     @Test

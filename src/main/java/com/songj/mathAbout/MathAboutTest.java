@@ -67,6 +67,12 @@ public class MathAboutTest {
 
     @Test
     public void method02(){
+        Integer a = 1;
+        Long b = 1L;
+        BigDecimal c = new BigDecimal(1);
+        System.out.println(a.toString());
+        System.out.println(b.toString());
+        System.out.println(c.toString());
         System.out.println( "== " + String.class.toString());
     }
 
