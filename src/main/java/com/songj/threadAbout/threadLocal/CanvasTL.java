@@ -19,4 +19,7 @@ public class CanvasTL {
         map.set(content);
     }
 
+    public void remove() {
+        map.remove();
+    }
 }

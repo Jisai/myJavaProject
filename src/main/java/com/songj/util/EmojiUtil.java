@@ -1,7 +1,9 @@
 package com.songj.util;
 
 import com.github.binarywang.java.emoji.EmojiConverter;
+import com.songj.jsonAbout.JSONUtil;
 import org.apache.commons.lang3.StringUtils;
+import org.apache.log4j.Logger;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;
@@ -20,7 +22,7 @@ import java.util.regex.Pattern;
  * @Version: v1.0
  */
 public class EmojiUtil {
-
+    private static Logger logger = Logger.getLogger(EmojiUtil.class);
     private static EmojiConverter emojiConverter = EmojiConverter.getInstance();
 
     /**
@@ -89,6 +91,7 @@ public class EmojiUtil {
             try {
                 matcher.appendReplacement(sb, "[[" + URLEncoder.encode(matcher.group(1), "UTF-8") + "]]");
             } catch (UnsupportedEncodingException e) {
+                logger.error("转义失败 emojiConverterUnicodeStr# param = "+str+", E = " + JSONUtil.objectToJSON(e));
                 System.out.println(e);
                 throw e;
             }
@@ -116,6 +119,7 @@ public class EmojiUtil {
             try {
                 matcher.appendReplacement(sb, URLDecoder.decode(matcher.group(1), "UTF-8"));
             } catch (UnsupportedEncodingException e) {
+                logger.error("转义失败 emojiRecovery2# param = "+str+", E = " + JSONUtil.objectToJSON(e));
                 System.out.println(e);
                 throw e;
             }

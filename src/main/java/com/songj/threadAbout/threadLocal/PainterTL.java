@@ -1,9 +1,9 @@
 package com.songj.threadAbout.threadLocal;
 
 /**
- * @ClassName: Painter
+ * @ClassName: PainterTL
  * @BelongPackage: com.songj.threadAbout.threadLocal
- * @Description: 画家类
+ * @Description: 画家类（ThreadLocal）
  * @Author: Jisai
  * @Date: 2021/3/9 下午2:11
  * @Version: v1.0
