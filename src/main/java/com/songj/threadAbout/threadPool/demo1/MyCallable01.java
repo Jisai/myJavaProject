@@ -1,4 +1,4 @@
-package com.songj.threadAbout.ThreadPool.demo1;
+package com.songj.threadAbout.threadPool.demo1;
 
 import java.util.concurrent.Callable;
 

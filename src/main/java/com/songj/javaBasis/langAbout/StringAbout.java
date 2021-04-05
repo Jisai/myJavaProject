@@ -1,10 +1,9 @@
-package com.songj.langAbout;
+package com.songj.javaBasis.langAbout;
 
 import com.alibaba.fastjson.JSON;
 import org.apache.commons.collections4.CollectionUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.junit.Test;
-import sun.security.util.Length;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -17,6 +16,17 @@ import java.util.List;
  * @Version: 1.0
  **/
 public class StringAbout {
+
+
+    @Test
+    public void length(){
+        String a = "你好";
+        String b = "你好！";
+        String c = "你 好";
+        System.out.println(a.length());
+        System.out.println(b.length());
+        System.out.println(c.length());
+    }
 
 
     @Test
@@ -40,11 +50,17 @@ public class StringAbout {
     @Test
     public void split(){
         String a = "a;b;c;d";
-        String b = "1;2;3;4";
+        String b = "1;2;3;4;; ";
+        String c = "1;2;3;4;;";
         String[] arr_a = a.split(";");
         String[] arr_b = b.split(";");
+        String[] arr_c = c.split(";");
+        System.out.println(arr_a.length);//4
         System.out.println(JSON.toJSONString(arr_a));
+        System.out.println(arr_b.length);//6
         System.out.println(JSON.toJSONString(arr_b));
+        System.out.println(arr_c.length);//4
+        System.out.println(JSON.toJSONString(arr_c));
     }
 
     @Test

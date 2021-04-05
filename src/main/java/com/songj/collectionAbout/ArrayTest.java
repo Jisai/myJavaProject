@@ -45,7 +45,7 @@ public class ArrayTest {
 
     @Test
     public void arrayToList(){
-        String testString = ",a,b,c,d,e,f";
+        String testString = "a,b,c,d,e,f";
         String[] arr = testString.split(",");
         System.out.println("arr >> " + JSON.toJSONString(arr));
         List<String> list = Arrays.asList(testString.split(","));
