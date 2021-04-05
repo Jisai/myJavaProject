@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a52c36b-ff85-41a6-b58a-50b82624537f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4cc2f2c8e080e37f773c6d08d16d7de7c468b8c0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4cc2f2c8e080e37f773c6d08d16d7de7c468b8c0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/62b4c77f990d55aeb3f305f17e551c01de2c3df1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/62b4c77f990d55aeb3f305f17e551c01de2c3df1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b179b99da63b50fe982d11d1f681575a634c316" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b179b99da63b50fe982d11d1f681575a634c316" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7eeee53772b8f657a301523e60459b68424e46ed" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7eeee53772b8f657a301523e60459b68424e46ed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c864f6b92159fe7e91c84fca9dad680655c6b502" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c864f6b92159fe7e91c84fca9dad680655c6b502" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d0104d83c136780b58aa894e98209c0601fe2fe6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d0104d83c136780b58aa894e98209c0601fe2fe6" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/dateAbout/DateChangeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/dateAbout/DateChangeTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/dateAbout/DateChangeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="109" column="71" selection-start-line="98" selection-start-column="8" selection-end-line="109" selection-end-column="71" />
+            <state relative-caret-position="187">
+              <caret line="104" column="53" selection-start-line="104" selection-start-column="53" selection-end-line="104" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -178,11 +183,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="y" value="-7" />
-    <option name="width" value="1939" />
-    <option name="height" value="1049" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -190,6 +195,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,6 +238,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="songj" type="462c0819:PsiDirectoryNode" />
               <item name="dateAbout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="songj" type="462c0819:PsiDirectoryNode" />
+              <item name="enumAbout" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
@@ -293,15 +309,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608807529250" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608816658706" />
     <property name="last_opened_file_path" value="C:/WorkSpace/WorkCodeSpace/aizhikang/ol_base_server" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -525,7 +539,9 @@
       <workItem from="1608775819553" duration="60000" />
       <workItem from="1608781429591" duration="8375000" />
       <workItem from="1608804848506" duration="2581000" />
-      <workItem from="1608809303748" duration="4788000" />
+      <workItem from="1608809303748" duration="5388000" />
+      <workItem from="1608860235735" duration="177000" />
+      <workItem from="1615719521583" duration="1734000" />
     </task>
     <task id="LOCAL-00001" summary="fetch">
       <created>1596693840756</created>
@@ -548,7 +564,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607579134068</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add">
+      <created>1608816141443</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608816141443</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -584,17 +607,17 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="203999000" />
+    <option name="totallyTimeSpent" value="206510000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="-5" width="1551" height="839" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Image Layers" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.36424732" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2797579" />
       <window_info id="JRebel" order="6" side_tool="true" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
@@ -605,7 +628,7 @@
       <window_info anchor="bottom" id="Database Changes" order="5" />
       <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49831876" weight="0.32551318" />
       <window_info anchor="bottom" id="JRebel Executor" order="7" />
-      <window_info anchor="bottom" id="JRebel Console" order="8" sideWeight="0.5016812" side_tool="true" weight="0.32650074" />
+      <window_info anchor="bottom" id="JRebel Console" order="8" sideWeight="0.5016812" side_tool="true" visible="true" weight="0.32697946" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="9" />
       <window_info anchor="bottom" id="Message" order="10" />
       <window_info anchor="bottom" id="Find" order="11" weight="0.32991204" />
@@ -685,20 +708,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="483" column="70" selection-start-line="483" selection-start-column="27" selection-end-line="483" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/cache/localCache/CaffeineCacheTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/java8About/stream/StreamLearn.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1274">
@@ -1061,10 +1070,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/dateAbout/DateChangeTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/enumAbout/DataEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/enumAbout/FirstEnum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="109" column="71" selection-start-line="98" selection-start-column="8" selection-end-line="109" selection-end-column="71" />
+          <caret line="35" column="5" lean-forward="true" selection-start-line="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/dateAbout/DateChangeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="104" column="53" selection-start-line="104" selection-start-column="53" selection-end-line="104" selection-end-column="53" />
         </state>
       </provider>
     </entry>
