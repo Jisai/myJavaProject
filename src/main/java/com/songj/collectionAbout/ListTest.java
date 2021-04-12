@@ -101,10 +101,10 @@ public class ListTest {
 
     @Test
     public void test(){
-        Set<String> stringSet = new HashSet<>();
-        stringSet.add("");
-        System.out.println(CollectionUtils.isEmpty(stringSet));
-
+        List<String> list1 = Arrays.asList("aa", "bb", "cc", "dd");
+        List<String> list2 = Arrays.asList("bb","aa", "ac", "dd","cc");
+        System.out.println(list1.containsAll(list2));
+        System.out.println(list2.containsAll(list1));
 
 
     }

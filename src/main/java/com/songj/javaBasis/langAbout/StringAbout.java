@@ -113,6 +113,14 @@ public class StringAbout {
         }
     }
 
+    @Test
+    public void testEquals(){
+        String a = null;
+        System.out.println(a.equals(""));
+
+    }
+
+
 
 
 }

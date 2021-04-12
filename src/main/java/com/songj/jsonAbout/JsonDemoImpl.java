@@ -2,11 +2,16 @@ package com.songj.jsonAbout;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
-import com.google.gson.Gson;
+import com.google.gson.*;
+import com.google.gson.reflect.TypeToken;
 import com.songj.bean.Employee;
 import org.json.JSONArray;
 import org.junit.Test;
 
+import java.lang.reflect.Type;
+import java.text.DateFormat;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.*;
 
 /**
@@ -57,6 +62,19 @@ public class JsonDemoImpl implements JsonDemo {
     public void stringToObject1(){
         String testStr = "{'code':403,'status':'error','message':'invalid userId or videoId.','data':''}";
         Gson gson = new Gson();
+//        Gson gson = new GsonBuilder()
+//                .setDateFormat("yyyy-MM-dd HH:mm:ss")
+//                .registerTypeAdapter(Date.class, new JsonDeserializer<Date>() {
+//                    DateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm");
+//                    @Override
+//                    public Date deserialize(final JsonElement json, final Type typeOfT, final JsonDeserializationContext context) throws JsonParseException {
+//                        try {
+//                            return df.parse(json.getAsString());
+//                        } catch (ParseException e) {
+//                            return null;
+//                        }
+//                    }
+//                }).create();
         Map map = gson.fromJson(testStr, Map.class);
         System.out.println(map.get("status"));
     }
@@ -98,8 +116,9 @@ public class JsonDemoImpl implements JsonDemo {
     @Test
     @Override
     public void stringToObject4(){
-        //Gson gson = new Gson();
-        //要转换的对象类型 result = gson.fromJson(jsonResult, new TypeToken<要转换的对象类型>(){}.getType());
+        String json = "{'id':'1','name':'21\uD83D\uDE2F\uD83D\uDE2F'}";
+        Gson gson = new Gson();
+        Employee result = gson.fromJson(json, new TypeToken<Employee>(){}.getType());
     }
 
     /**
