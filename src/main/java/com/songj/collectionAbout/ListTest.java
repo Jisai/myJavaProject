@@ -275,7 +275,8 @@ public class ListTest {
 //        System.out.println("并集结果: " + list2_2);
         //2.0 交集
         List<Integer> list2_2 = new ArrayList<>(list2);
-        List<Integer> list3_2 = new ArrayList<>(list3);
+//        List<Integer> list3_2 = new ArrayList<>(list3);
+        List<Integer> list3_2 = new ArrayList<>();
         System.out.println("交集: " + list2_2.retainAll(list3_2));
         System.out.println("交集结果: " + list2_2);
         System.out.println(CollectionUtils.isEmpty(list2_2));

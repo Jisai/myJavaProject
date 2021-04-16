@@ -28,6 +28,16 @@ public class StringAbout {
         System.out.println(c.length());
     }
 
+    @Test
+    public void replace(){
+        String template = "[用户名模板]";
+        String target = "宋吉赛";
+        String msg = "[用户名模板]你好，我是活动20210414165220200250000000640011推广素材信息 。";
+        msg = msg.replace(template, target);
+        System.out.println(msg);
+
+    }
+
 
     @Test
     public void startsWith(){
