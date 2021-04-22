@@ -101,10 +101,10 @@ public class ListTest {
 
     @Test
     public void test(){
-        Set<String> stringSet = new HashSet<>();
-        stringSet.add("");
-        System.out.println(CollectionUtils.isEmpty(stringSet));
-
+        List<String> list1 = Arrays.asList("aa", "bb", "cc", "dd");
+        List<String> list2 = Arrays.asList("bb","aa", "ac", "dd","cc");
+        System.out.println(list1.containsAll(list2));
+        System.out.println(list2.containsAll(list1));
 
 
     }
@@ -275,7 +275,8 @@ public class ListTest {
 //        System.out.println("并集结果: " + list2_2);
         //2.0 交集
         List<Integer> list2_2 = new ArrayList<>(list2);
-        List<Integer> list3_2 = new ArrayList<>(list3);
+//        List<Integer> list3_2 = new ArrayList<>(list3);
+        List<Integer> list3_2 = new ArrayList<>();
         System.out.println("交集: " + list2_2.retainAll(list3_2));
         System.out.println("交集结果: " + list2_2);
         System.out.println(CollectionUtils.isEmpty(list2_2));

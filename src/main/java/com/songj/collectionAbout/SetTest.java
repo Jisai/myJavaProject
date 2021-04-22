@@ -1,5 +1,6 @@
 package com.songj.collectionAbout;
 
+import com.songj.jsonAbout.JSONUtil;
 import org.junit.Test;
 
 import java.util.ArrayList;
@@ -41,20 +42,31 @@ public class SetTest {
         System.out.println(set.toString());
     }
 
+    @Test
     public void  test03(){
         Set<Integer> set1 = new HashSet<>();
         set1.add(1);
         set1.add(4);
         set1.add(5);
-        Set<Integer> set2 = new HashSet<>();
-        set2.add(4);
-        set2.add(5);
-        set2.add(6);
-        set2.add(7);
-        set2.add(8);
-        set2.add(9);
+        Set<Integer> set2 = set1;
+        System.out.println("set1: " + set1.hashCode());
+        System.out.println("set2: " + set2.hashCode());
+        Set<String> set3 = null;
+        System.out.println(set3.contains("a"));
+    }
 
-
+    @Test
+    public void test04(){
+        Set<String> set1 = new HashSet<>();
+        set1.add("aa");
+        set1.add("bb");
+        set1.add("cc");
+        Set<String> set2 = new HashSet<>();
+        set2.add("aa");
+        set2.add("dd");
+        set2.add("ee");
+        set2.removeAll(set1);
+        System.out.println(JSONUtil.objectToJSON(set2));
     }
 
 

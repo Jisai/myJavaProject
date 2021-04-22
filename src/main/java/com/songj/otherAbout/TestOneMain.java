@@ -42,16 +42,16 @@ public class TestOneMain {
      */
     @Test
     public void emojiTest() throws Exception{
-        String str = "😜 🤪 🤨 emoji😸🛩🚆表情😁😁输入🙅 🙆 💑An 😀😃测试😁😂";
+        String str = "😜 🤪 🤨 emoji😸🛩🚆表情😁😁输入🙅 🙆 💑An 😀😃测试😁😂\uD83C\uDDF9 \uD83C\uDDF7 \uD83C\uDDF0 \uD83C\uDDEB";
 
         //  第一种方式 [部分表情不支持转义]
-        System.out.println(">>>  第一种方式");
-
-        System.out.println("原始字符为： " + str);
-        System.out.println("to aliases 之后： " + EmojiParser.parseToAliases(str));
-
-        str = EmojiParser.parseToAliases(str);
-        System.out.println("还原： " + EmojiParser.parseToUnicode(str));
+//        System.out.println(">>>  第一种方式");
+//
+//        System.out.println("原始字符为： " + str);
+//        System.out.println("to aliases 之后： " + EmojiParser.parseToAliases(str));
+//
+//        str = EmojiParser.parseToAliases(str);
+//        System.out.println("还原： " + EmojiParser.parseToUnicode(str));
 
         //  第二种方式
         System.out.println(">>>  第二种方式");
@@ -62,12 +62,12 @@ public class TestOneMain {
         System.out.println("还原： " + EmojiUtil.emojiRecovery2(str));
 
         //  第三种方式 [可能存在新表情转义报错]
-        System.out.println(">>>  第三种方式");
-        System.out.println("原始字符为： " + str);
-        System.out.println("to aliases 之后： " + EmojiUtil.emojiConverterToAlias(str));
-
-        str = EmojiUtil.emojiConverterToAlias(str);
-        System.out.println("还原： " + EmojiUtil.emojiConverterUnicodeStr(str));
+//        System.out.println(">>>  第三种方式");
+//        System.out.println("原始字符为： " + str);
+//        System.out.println("to aliases 之后： " + EmojiUtil.emojiConverterToAlias(str));
+//
+//        str = EmojiUtil.emojiConverterToAlias(str);
+//        System.out.println("还原： " + EmojiUtil.emojiConverterUnicodeStr(str));
 
         //  第四种方式
         System.out.println(">>>  第四种方式");
@@ -128,6 +128,17 @@ public class TestOneMain {
             a = a + 10;
             return a;
 
+        }
+    }
+
+    @Test
+    public void testFor(){
+        for(int i = 0; i < 4; i++){
+            System.out.println("i=" + i);
+            for(int j = 0; j < 4; j++){
+                System.out.println("j=" + j);
+                break;
+            }
         }
     }
 
