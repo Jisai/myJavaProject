@@ -1,6 +1,7 @@
 package com.songj.javaBasis.langAbout;
 
 import java.math.BigDecimal;
+import java.util.concurrent.atomic.AtomicLong;
 
 /**
  * @ClassName: LangTest
@@ -21,6 +22,11 @@ public class LongTest {
 
     }
 
+    public void atomicLongTest(){
+        AtomicLong al = new AtomicLong();
+
+
+    }
 
     /**
      *

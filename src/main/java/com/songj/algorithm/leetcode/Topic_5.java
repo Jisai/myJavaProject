@@ -1,10 +1,7 @@
-package com.songj.algorithm.liKou;
+package com.songj.algorithm.leetcode;
 
 import com.alibaba.fastjson.JSON;
 import org.junit.Test;
-
-import java.util.ArrayList;
-import java.util.List;
 
 /**
  * @ClassNamee: Topic_5

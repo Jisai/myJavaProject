@@ -1,4 +1,4 @@
-package com.songj.algorithm.liKou;
+package com.songj.algorithm.leetcode;
 
 import java.util.Arrays;
 

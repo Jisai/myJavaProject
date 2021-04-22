@@ -17,13 +17,20 @@ import static java.util.stream.Collectors.toMap;
  */
 public class MapTest {
 
+
+    public void testHashTable(){
+        HashMap<Integer, String> hashMap = new HashMap<>();
+        Hashtable<Integer, String> hashtable = new Hashtable<>();
+    }
+
+
     /**
      * 验证Map 的 containsKey 方法可以查询几层？
      * 结果只循环最外层。
      * @return
      */
     @Test
-    public void test01(){
+    public void containsKeyTest(){
         Map<String, Object> map1 = new HashMap<String, Object>();
         map1.put("1","1");
         map1.put("2","2");
@@ -40,7 +47,7 @@ public class MapTest {
      * 验证List强转Map,key是什么
      */
     @Test
-    public void test02(){
+    public void listToMapTest(){
         List<String> testList = Lists.newArrayList();
         testList.add("我是数组元素01");
         testList.add("我是数组元素02");
@@ -61,7 +68,7 @@ public class MapTest {
      *  不报错，覆盖掉原来的数据。
      */
     @Test
-    public void test03(){
+    public void putTest(){
         Map<String, String> map = new HashMap<>();
         map.put("a","a");
         map.put("b","b");
