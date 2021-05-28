@@ -18,11 +18,13 @@ public class ReflectSample {
         Robot robot = (Robot) cl.newInstance();
         System.out.println("Class name is " + cl.getName());
 
+        //getDeclaredMethod 可以获取该类的所有方法，不能获取该类继承和所实现接口的方法。方法私有方法时，调用需要使用setAccessible(true)
         Method eye = cl.getDeclaredMethod("eye", String.class);
         eye.setAccessible(true);
         Object obj = eye.invoke(robot,"robot_1" );
         System.out.println("private method eye result is " + obj);
 
+        //getMethod 可以获取该类的所有的public方法，包括该类继承和所实现接口的方法，不能获取非public方法。
         Method sayHello = cl.getMethod("sayHello", String.class);
         sayHello.invoke(robot, "robot_2");
 

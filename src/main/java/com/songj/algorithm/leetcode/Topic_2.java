@@ -11,7 +11,6 @@ import org.junit.Test;
  **/
 public class Topic_2 {
 
-
     public static void main(String[] args) {
         Integer[] l1 = {2, 4, 3};
         Integer[] l2 = {5, 6, 4};
@@ -27,8 +26,8 @@ public class Topic_2 {
 
     }
 
-    @Test
     // {"next":{"next":{"val":3},"val":4},"val":2}
+    @Test
     public void getListNode() {
         ListNode node1 = new ListNode();
         ListNode node2 = new ListNode();
