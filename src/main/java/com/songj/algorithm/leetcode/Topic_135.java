@@ -6,7 +6,7 @@ import org.junit.Test;
 import java.util.Arrays;
 
 /**
- * @ClassNamee: Topic_135  https://leetcode-cn.com/problems/candy/solution/fen-fa-tang-guo-by-leetcode/
+ * @ClassNamee: Topic_135  https://leetcode-cn.com/problems/candy/
  * @Description: 分发糖果
  * 输入描述:  0,1,0     输出描述:  4
  * 输入: [1,2,2]   输出描述: 4
@@ -21,6 +21,28 @@ public class Topic_135 {
     public void main() {
         int[] ratings = new int[]{3,4,5,6};
         System.out.println(candy(ratings));
+    }
+
+    public int candy0(int[] ratings) {
+        int n = ratings.length;
+        int[] left = new int[n];
+        for (int i = 0; i < n; i++) {
+            if (i > 0 && ratings[i] > ratings[i - 1]) {
+                left[i] = left[i - 1] + 1;
+            } else {
+                left[i] = 1;
+            }
+        }
+        int right = 0, ret = 0;
+        for (int i = n - 1; i >= 0; i--) {
+            if (i < n - 1 && ratings[i] > ratings[i + 1]) {
+                right++;
+            } else {
+                right = 1;
+            }
+            ret += Math.max(left[i], right);
+        }
+        return ret;
     }
 
     /**
@@ -114,6 +136,37 @@ public class Topic_135 {
         sum += candies[ratings.length-1];
         System.out.println(JSON.toJSONString(candies));
         return sum;
+    }
+
+    /**
+     * @Description:
+     * 时间复杂度：O(n)，其中 n 是孩子的数量。我们需要遍历两次数组以分别计算满足左规则或右规则的最少糖果数量。
+     *
+     * 空间复杂度：O(1)。我们只需要常数的空间保存若干变量。
+     *
+     */
+    public int candy4(int[] ratings) {
+        int n = ratings.length;
+        int ret = 1;
+        int inc = 1, dec = 0;
+        //前一个同学分得的糖果数量为 \textit{pre}pre：
+        int pre = 1;
+        for (int i = 1; i < n; i++) {
+            if (ratings[i] >= ratings[i - 1]) {
+                dec = 0;
+                pre = ratings[i] == ratings[i - 1] ? 1 : pre + 1;
+                ret += pre;
+                inc = pre;
+            } else {
+                dec++;
+                if (dec == inc) {
+                    dec++;
+                }
+                ret += dec;
+                pre = 1;
+            }
+        }
+        return ret;
     }
 
     /**

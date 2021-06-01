@@ -7,6 +7,9 @@ import com.vdurmont.emoji.EmojiParser;
 import org.junit.Assert;
 import org.junit.Test;
 
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
 /**
  * @ClassName: TestOneMain
  * @Description: TODO
@@ -141,6 +144,14 @@ public class TestOneMain {
             }
         }
     }
+
+
+    @Test
+    public void test05(){
+
+    }
+
+
 
 
 }

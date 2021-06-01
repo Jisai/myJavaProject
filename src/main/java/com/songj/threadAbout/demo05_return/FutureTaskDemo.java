@@ -14,6 +14,7 @@ public class FutureTaskDemo {
     public static void main(String[] args) throws Exception{
         FutureTask<String> task = new FutureTask<String>(new MyCallable());
         new Thread(task).start();
+
         if( !task.isDone()){
             System.out.println("任务未完成，请继续等待。。。");
         }
