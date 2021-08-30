@@ -1,0 +1,8 @@
+
+[squid:UselessImportCheck"+Remove this unused import 'org.junit.Test'.(ùžøèøÿÿÿÿ8ŸÀ«æ«/
+`squid:UselessImportCheck"6Remove this unused import 'com.alibaba.fastjson.JSON'.(Ö¢å$8ŸÀ«æ«/
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Úæðò
+_squid:UselessImportCheck"4Remove this unused import 'com.songj.bean.ListNode'.(ŠÓ´Ñ8ŸÀ«æ«/
+Wsquid:UnusedPrivateMethod;"+Remove this unused private "getMap" method.(Š£€ü8Ñ”…ñ«/
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(œ™À8Ñ´Œë«/

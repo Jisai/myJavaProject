@@ -1,0 +1,11 @@
+
+Jsquid:S1481"'Remove this unused "sr" local variable.(ÚÀ—ûúÿÿÿÿ8”‚÷”¬/
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(±Û®žüÿÿÿÿ
+Hsquid:S1481"*Remove this unused "image" local variable.(Êªèñ8”‚÷”¬/
+Wsquid:S1854"9Remove this useless assignment to local variable "image".(Êªèñ8”‚÷”¬/
+Psquid:S1481"-Remove this unused "newColor" local variable.(ÚÀ—ûúÿÿÿÿ8”‚÷”¬/
+_squid:S1854"<Remove this useless assignment to local variable "newColor".(ÚÀ—ûúÿÿÿÿ8”‚÷”¬/
+Isquid:S1659"&Declare "newColor" on a separate line.(ÚÀ—ûúÿÿÿÿ8”‚÷”¬/
+Csquid:S1659" Declare "sc" on a separate line.(ÚÀ—ûúÿÿÿÿ8”‚÷”¬/
+Jsquid:S1481"'Remove this unused "sc" local variable.(ÚÀ—ûúÿÿÿÿ8”‚÷”¬/
+asquid:UselessImportCheck"1Remove this unused import 'java.io.Serializable'.(èãîÂÿÿÿÿÿ8ìõ¥”¬/

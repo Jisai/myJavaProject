@@ -1,0 +1,27 @@
+
+Bsquid:S00108ë")Either remove or fill this block of code.(å¥‡
+gsquid:S00100·"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ü—é
+osquid:S00117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©³ûşÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ä´²å
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óîÿüşÿÿÿÿ
+U
+squid:S106œ"9Replace this use of System.out or System.err by a logger.(†™©üÿÿÿÿ
+osquid:S00117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”·È—úÿÿÿÿ
+O
+squid:S106)"9Replace this use of System.out or System.err by a logger.(“ı
+6squid:S1659u"Declare "q" on a separate line.(Ï–û‡
+Jsquid:S1199ï"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S3776·"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(²Ü—é
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ã¥ê™ùÿÿÿÿ
+>squid:S1659:""Declare "tail" on a separate line.(“—ıÿÿÿÿ
+osquid:S00117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÄ‡ˆıÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(»°°½ùÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(“ı
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ó²«¢
+9squid:S1659u""Declare "curr" on a separate line.(Ï–û‡
+esquid:S00100s"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÿè\
+lsquid:S00100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï››üÿÿÿÿ
+Xsquid:S22590"AA "NullPointerException" could be thrown; "arr" is nullable here.(Õ¿¨

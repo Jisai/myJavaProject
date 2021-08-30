@@ -1,0 +1,6 @@
+
+ysquid:S14880"[Immediately return this expression instead of assigning it to the temporary variable "sum".(Ïíñ˜8æ¶ô•¬/
+esquid:S00101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õÒÑ³
+Gsquid:S1481")Remove this unused "grid" local variable.(Ã£Ê§8¼ý¼•¬/
+Vsquid:S1854"8Remove this useless assignment to local variable "grid".(Ã£Ê§8©ë˜•¬/

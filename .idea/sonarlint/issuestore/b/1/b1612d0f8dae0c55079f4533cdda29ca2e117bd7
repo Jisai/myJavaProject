@@ -1,0 +1,12 @@
+
+|squid:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(†şğ’ıÿÿÿÿ8Òˆü¾¬/
+Fsquid:S16598"#Declare "left2" on a separate line.(õœÅøÿÿÿÿ8Òˆü¾¬/
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(€Š»¯
+Fsquid:S16597"#Declare "node1" on a separate line.(œÔÌñşÿÿÿÿ8Òˆü¾¬/
+usquid:S3776("RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(”Äíıÿÿÿÿ8Òˆü¾¬/
+Fsquid:S16597"#Declare "node2" on a separate line.(œÔÌñşÿÿÿÿ8Òˆü¾¬/
+Gsquid:S16598"$Declare "right1" on a separate line.(õœÅøÿÿÿÿ8Òˆü¾¬/
+rsquid:S00100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Äíıÿÿÿÿ8Ø˜ƒ¿¬/
+Gsquid:S16598"$Declare "right2" on a separate line.(õœÅøÿÿÿÿ8Òˆü¾¬/
+|squid:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(£ş†µüÿÿÿÿ8Òˆü¾¬/
+wsquid:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(»èÑ…8Òˆü¾¬/

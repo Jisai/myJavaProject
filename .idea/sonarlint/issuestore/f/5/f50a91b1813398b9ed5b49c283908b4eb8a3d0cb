@@ -1,0 +1,7 @@
+
+jsquid:S00101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶Ø˜ùÿÿÿÿ
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ”Ñ…8¹Ï¯Êª/
+Lsquid:S1481".Remove this unused "topic_977" local variable.(ñ”Ñ…8¹Ï¯Êª/
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³„òÎùÿÿÿÿ8¢ Êª/
+[squid:S1854"=Remove this useless assignment to local variable "topic_977".(ñ”Ñ…8¹Ï¯Êª/

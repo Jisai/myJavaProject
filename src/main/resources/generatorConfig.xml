@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE generatorConfiguration
+  PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+  "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+
+<generatorConfiguration>
+	<context id="testTables" targetRuntime="MyBatis3">
+		<commentGenerator>
+			<!-- 是否去除自动生成的注释 true：是 ： false:否 -->
+			<property name="suppressAllComments" value="true" />
+			<!-- 生成的Java文件的编码 -->
+			<property name="javaFileEncoding" value="UTF-8"/>
+			<!-- 格式化java代码 -->
+			<property name="javaFormatter" value="org.mybatis.generator.api.dom.DefaultJavaFormatter"/>
+			<!-- 格式化XML代码 -->
+			<property name="xmlFormatter" value="org.mybatis.generator.api.dom.DefaultXmlFormatter"/>
+		</commentGenerator>
+		<!--数据库连接的信息：驱动类、连接地址、用户名、密码 -->
+		<jdbcConnection driverClass="com.mysql.jdbc.Driver"
+			connectionURL="jdbc:mysql:replication://mysql.aixuexi.com:3306,mysql.aixuexi.com:3306/crm" userId="test"
+			password="test123">
+		</jdbcConnection>
+
+
+		<!-- java类型处理器
+         用于处理DB中的类型到Java中的类型，默认使用JavaTypeResolverDefaultImpl；
+         注意一点，默认会先尝试使用Integer，Long，Short等来对应DECIMAL和 NUMERIC数据类型；
+         <javaTypeResolver  type="org.mybatis.generator.internal.types.JavaTypeResolverDefaultImpl">
+             <property name="forceBigDecimals" value="false" />
+         </javaTypeResolver>
+     -->
+		<!-- 用自定义的 -->
+		<javaTypeResolver  type="com.songj.mybatis.generator.MyJavaTypeResolverDefaultImpl">
+		</javaTypeResolver>
+		<!-- targetProject:生成PO类的位置 -->
+		<javaModelGenerator targetPackage="com.songj.mybatis.model"
+							targetProject=".\src\main\java">
+			<!-- enableSubPackages:是否让schema作为包的后缀 -->
+			<property name="enableSubPackages" value="false" />
+			<!-- 从数据库返回的值被清理前后的空格 -->
+			<property name="trimStrings" value="true" />
+		</javaModelGenerator>
+        <!-- targetProject:mapper映射文件生成的位置 -->
+		<sqlMapGenerator targetPackage="com.songj.mybatis.sql"
+						 targetProject=".\src\main\java">
+			<!-- enableSubPackages:是否让schema作为包的后缀 -->
+			<property name="enableSubPackages" value="false" />
+		</sqlMapGenerator>
+		<!-- targetPackage：mapper接口生成的位置 -->
+		<javaClientGenerator type="XMLMAPPER"
+							 targetPackage="com.songj.mybatis.mapper"
+							 targetProject=".\src\main\java">
+			<!-- enableSubPackages:是否让schema作为包的后缀 -->
+			<property name="enableSubPackages" value="false" />
+		</javaClientGenerator>
+		<!-- 指定数据库表 -->
+		<table tableName="dictionary" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
+		<table tableName="ins_portrait_field" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
+		<table tableName="ins_portrait" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
+		<table tableName="ins_campus" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
+		<table tableName="ins_subject_teacher" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
+		<table tableName="ins_subject_material" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
+		<table tableName="ins_organization" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
+		<table tableName="ins_kp" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
+		<table tableName="ins_teacher_age_info" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
+		<table tableName="ins_student_num_info" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
+		<table tableName="ins_portrait_finish_rate" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
+
+	</context>
+</generatorConfiguration>
