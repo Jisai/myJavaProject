@@ -1,4 +1,4 @@
-package com.songj.java8About.stream;
+package com.songj.java8.stream;
 
 import com.songj.bean.User;
 

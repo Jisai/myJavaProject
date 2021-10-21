@@ -1,15 +1,11 @@
-package com.songj.java8About.stream;
+package com.songj.java8.stream;
 
-import com.alibaba.fastjson.JSON;
 import com.songj.bean.Employee;
 import com.songj.bean.People;
 import com.songj.jsonAbout.JSONUtil;
-import org.apache.commons.collections4.CollectionUtils;
-import org.apache.commons.lang.StringUtils;
 import org.junit.Test;
 
 import java.util.*;
-import java.util.function.Function;
 import java.util.function.Supplier;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
@@ -25,6 +21,14 @@ import java.util.stream.Stream;
 
 public class StreamLearnImpl implements StreamLearn {
 
+
+
+    @Test
+    @Override
+    public void parallelStream(){
+        List<Employee> employeeList = getEmployeeDemoList(5);
+        employeeList.parallelStream().filter(item -> item.getId().intValue()%2==0).forEach(item -> System.out.println(item.getId()));
+    }
 
     @Test
     @Override

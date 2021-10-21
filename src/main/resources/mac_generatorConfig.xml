@@ -17,8 +17,8 @@
 		</commentGenerator>
 		<!--数据库连接的信息：驱动类、连接地址、用户名、密码 -->
 		<jdbcConnection driverClass="com.mysql.jdbc.Driver"
-			connectionURL="jdbc:mysql://rm-2zee7orv657rc2xsy.mysql.rds.aliyuncs.com:3306/c10-touch-sit?useUnicode=true&amp;characterEncoding=utf8&amp;useSSL=false&amp;allowMultiQueries=true"
-						userId="dbadmin"
+			connectionURL="jdbc:mysql://10.31.98.208:3306/c10-touch-sit?useUnicode=true&amp;characterEncoding=utf8&amp;useSSL=false&amp;allowMultiQueries=true"
+						userId="appadmin"
 						password="1qaz!QAZ">
 		</jdbcConnection>
 

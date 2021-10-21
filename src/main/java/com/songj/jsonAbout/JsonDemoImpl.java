@@ -2,17 +2,14 @@ package com.songj.jsonAbout;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
-import com.google.gson.*;
+import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import com.songj.bean.Employee;
 import org.json.JSONArray;
 import org.junit.Test;
 
-import java.lang.reflect.Type;
-import java.text.DateFormat;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
 import java.util.*;
+import java.util.stream.Collectors;
 
 /**
  * @ClassName: JsonTest01
@@ -175,6 +172,25 @@ public class JsonDemoImpl implements JsonDemo {
         Map<String, Object> map = new HashMap<>();
         //
         map = (Map<String, Object>) JSON.parse(testStr2);
+        System.out.println(map);
+    }
+
+    @Test
+    @Override
+    public void stringToMap4(){
+        String  testStr3  = "[{'channelCode':'aa', 'strategyCode':'AA'},{'channelCode':'bb', 'strategyCode':'BB'}]";
+        Map<String, String> map = cn.hutool.json.JSONUtil.parseArray(testStr3).stream().filter(Objects::nonNull).collect(
+                Collectors.toMap(
+                        object -> {
+                            cn.hutool.json.JSONObject item = (cn.hutool.json.JSONObject) object;
+                            return item.get("channelCode", String.class);
+                        },
+                        object -> {
+                            cn.hutool.json.JSONObject item = (cn.hutool.json.JSONObject) object;
+                            return item.get("strategyCode", String.class);
+                        }
+                )
+        );
         System.out.println(map);
     }
 

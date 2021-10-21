@@ -1,4 +1,4 @@
-package com.songj.java8About.optional;
+package com.songj.java8.optional;
 
 import lombok.Data;
 import org.junit.Test;
@@ -7,7 +7,7 @@ import java.util.Optional;
 
 /**
  * @Classname OptionalLearn
- * @Description TODO
+ * @Description https://zhuanlan.zhihu.com/p/112109825
  * @Date 2021/9/10 上午9:00
  * @Created by admin
  */

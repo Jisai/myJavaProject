@@ -1,4 +1,4 @@
-package com.songj.java8About.stream;
+package com.songj.java8.stream;
 
 import java.util.List;
 
@@ -11,6 +11,7 @@ import java.util.List;
  **/
 public interface StreamLearn {
 
+    void parallelStream();
 
     /**
      * 循环

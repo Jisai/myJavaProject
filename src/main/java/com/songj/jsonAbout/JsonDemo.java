@@ -58,6 +58,10 @@ public interface JsonDemo {
      * @Description: String转Map
      **/
     public void stringToMap3();
+    /**
+     * @Description: String转Map
+     **/
+    public void stringToMap4();
 
     /**
      * @Description: json字符串转Array
