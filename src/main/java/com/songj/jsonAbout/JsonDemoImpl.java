@@ -199,7 +199,7 @@ public class JsonDemoImpl implements JsonDemo {
 
     @Test
     @Override
-    public void mapToBean(){
+    public void mapToBean1(){
         String  testStr3  = "[{'key':'id', 'value':'123'},{'key':'name', 'value':'BB'}]";
         Map<String, String> map = cn.hutool.json.JSONUtil.parseArray(testStr3).stream().filter(Objects::nonNull).collect(
                 Collectors.toMap(
@@ -207,8 +207,7 @@ public class JsonDemoImpl implements JsonDemo {
                             cn.hutool.json.JSONObject item = (cn.hutool.json.JSONObject) object;
                             return item.get("key", String.class);
                         },
-                        object -> {
-                            cn.hutool.json.JSONObject item = (cn.hutool.json.JSONObject) object;
+                        object -> { cn.hutool.json.JSONObject item = (cn.hutool.json.JSONObject) object;
                             return item.get("value", String.class);
                         }
                 )
@@ -222,6 +221,27 @@ public class JsonDemoImpl implements JsonDemo {
         } catch (InvocationTargetException e) {
             e.printStackTrace();
         }
+        System.out.println("employee: " + cn.hutool.json.JSONUtil.toJsonStr(employee));
+
+    }
+    @Test
+    @Override
+    public void mapToBean2(){
+        String  testStr3  = "[{'key':'id', 'value':'123'},{'key':'name', 'value':'BB'}]";
+        Map<String, String> map = cn.hutool.json.JSONUtil.parseArray(testStr3).stream().filter(Objects::nonNull).collect(
+                Collectors.toMap(
+                        object -> {
+                            cn.hutool.json.JSONObject item = (cn.hutool.json.JSONObject) object;
+                            return item.get("key", String.class);
+                        },
+                        object -> { cn.hutool.json.JSONObject item = (cn.hutool.json.JSONObject) object;
+                            return item.get("value", String.class);
+                        }
+                )
+        );
+        System.out.println("map" + map);
+        Employee employee = new Employee();
+
         System.out.println("employee: " + cn.hutool.json.JSONUtil.toJsonStr(employee));
 
     }

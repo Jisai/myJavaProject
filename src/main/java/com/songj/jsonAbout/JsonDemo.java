@@ -67,7 +67,12 @@ public interface JsonDemo {
     /**
      * @Description: String转Map，再转bean
      **/
-    public void mapToBean();
+    public void mapToBean1();
+
+    /**
+     * @Description: String转Map，再转bean
+     **/
+    public void mapToBean2();
 
     /**
      * @Description: json字符串转Array
