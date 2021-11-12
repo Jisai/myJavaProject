@@ -1,5 +1,7 @@
 package com.songj.dateAbout;
 
+import cn.hutool.core.date.DateTime;
+import cn.hutool.core.date.DateUtil;
 import org.junit.Test;
 
 import java.text.ParseException;
@@ -18,6 +20,14 @@ import java.util.Date;
  * @Version: 1.0
  */
 public class DateChangeTest {
+
+
+    @Test
+    public void hutoolDateUtil(){
+        //时间加减
+        System.out.println(DateUtil.offsetDay(new Date(), -3));;
+    }
+
 
     @Test
     public void getYesterday(){

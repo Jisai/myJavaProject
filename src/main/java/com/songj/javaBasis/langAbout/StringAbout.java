@@ -1,12 +1,15 @@
 package com.songj.javaBasis.langAbout;
 
+import cn.hutool.core.util.StrUtil;
 import com.alibaba.fastjson.JSON;
 import org.apache.commons.collections4.CollectionUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.junit.Test;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 /**
  * @ClassNamee: StringAbout
@@ -18,6 +21,12 @@ import java.util.List;
 public class StringAbout {
 
     public static void main(String[] args) {
+        String table = "first_table";
+        String tableCamelCase = StrUtil.toCamelCase(table);
+        System.out.println("tableCamelCase： " + tableCamelCase);
+        String tableFirstAndAddPre = StrUtil.upperFirstAndAddPre(tableCamelCase, "");
+        System.out.println("tableFirstAndAddPre： " + tableFirstAndAddPre);
+
         String s1 = "anhgdkifg";
         String s2 = "abcdefghijkl";
         System.out.println( (s1.charAt(5) - 'a') );
@@ -25,7 +34,23 @@ public class StringAbout {
     }
 
 
+    /**
+     * 不够位数的在前面补0，保留num的长度位数字
+     *
+     */
+    @Test
+    public void autoGenericCode() {
+        String code = "1234";
+        int num = 6;
+        String result = "";
+        // 保留num的位数
+        // 0 代表前面补充0
+        // num 代表长度为4
+        // d 代表参数为正数型
+        result = String.format("%0" + num + "d", Integer.parseInt(code));
 
+        System.out.println(result);;
+    }
 
     @Test
     public void testNew(){
@@ -57,8 +82,18 @@ public class StringAbout {
         String target = "宋吉赛";
         String msg = "[用户名模板]你好，我是活动20210414165220200250000000640011推广素材信息 。";
         msg = msg.replace(template, target);
-        System.out.println(msg);
+//        System.out.println(msg);
 
+
+        String target2 = "你好啊，我叫#Param1#， 我今年#Param2#岁了，我来自#Param3#，我得家乡#Param3#很美！";
+        Map<String, String> paramMap2 = new HashMap<>();
+        paramMap2.put("#Param1#", "小明");
+        paramMap2.put("#Param2#", "11");
+        paramMap2.put("#Param3#", "青岛");
+        for(String key : paramMap2.keySet()){
+            StrUtil.replaceChars(target2, key, paramMap2.get(key));
+        }
+        System.out.println(target2);
     }
 
 
@@ -98,6 +133,9 @@ public class StringAbout {
 
     @Test
     public void subString(){
+        String str = "TX20211011023051";
+        System.out.println(str.substring(12, 18));
+
         String testStr1 = "爱学习教育集团/平台事业部/平台营销中心/分公司销售部/长沙销售组/";
         String testStr2 = "爱学习教育集团/平台事业部/平台营销中心/分公司销售部/长沙销售组/ ";
         String [] strArr1 = testStr1.split("/");

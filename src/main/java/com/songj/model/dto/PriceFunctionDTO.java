@@ -1,4 +1,4 @@
-package com.songj.bean;
+package com.songj.model.dto;
 
 import lombok.Data;
 import lombok.experimental.Accessors;

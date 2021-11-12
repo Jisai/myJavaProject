@@ -1,6 +1,6 @@
 package com.songj.sortAbout.myComparatorPractice;
 
-import com.songj.bean.Employee;
+import com.songj.model.po.Employee;
 
 import java.util.ArrayList;
 import java.util.Comparator;

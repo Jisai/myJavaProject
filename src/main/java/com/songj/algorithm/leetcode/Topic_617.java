@@ -1,6 +1,6 @@
 package com.songj.algorithm.leetcode;
 
-import com.songj.bean.TreeNode;
+import com.songj.model.po.TreeNode;
 
 import java.util.LinkedList;
 import java.util.Queue;

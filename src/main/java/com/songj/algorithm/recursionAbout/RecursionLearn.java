@@ -1,8 +1,7 @@
 package com.songj.algorithm.recursionAbout;
 
 import com.alibaba.fastjson.JSON;
-import com.songj.bean.Node;
-import com.songj.bean.People;
+import com.songj.model.po.Node;
 import org.apache.commons.collections4.CollectionUtils;
 import org.junit.Test;
 

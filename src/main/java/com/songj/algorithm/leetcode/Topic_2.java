@@ -2,7 +2,7 @@ package com.songj.algorithm.leetcode;
 
 
 import com.alibaba.fastjson.JSON;
-import com.songj.bean.ListNode;
+import com.songj.model.po.ListNode;
 import org.junit.Test;
 
 /**

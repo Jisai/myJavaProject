@@ -1,6 +1,6 @@
 package com.songj.java8.stream;
 
-import com.songj.bean.User;
+import com.songj.model.po.User;
 
 import java.util.ArrayList;
 import java.util.Comparator;

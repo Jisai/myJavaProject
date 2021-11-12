@@ -1,4 +1,4 @@
-package com.songj.bean;
+package com.songj.model.po;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
@@ -16,6 +16,9 @@ public class User extends Parent {
 
 	@ApiModelProperty(value = "人员姓名")
 	private String userName;
+
+	@ApiModelProperty(value = "信息")
+	private String info;
 
 	@ApiModelProperty(value = "人员年龄")
 	private Integer userAge;
@@ -40,6 +43,15 @@ public class User extends Parent {
 
 	@ApiModelProperty(value = "ID集合")
 	List<Long> idList;
+
+	public User() {
+	}
+
+	public User(Integer userId, String userName, String info) {
+		this.userId = userId;
+		this.userName = userName;
+		this.info = info;
+	}
 
 	@Override
 	public String toString() {

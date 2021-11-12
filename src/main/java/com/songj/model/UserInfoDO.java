@@ -1,12 +1,10 @@
-package com.songj.bean;
+package com.songj.model;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
 
 import java.io.Serializable;
-import java.util.List;
-import java.util.Set;
 
 @Data
 @ApiModel(description = "用户信息类")

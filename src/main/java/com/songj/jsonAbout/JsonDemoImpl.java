@@ -1,13 +1,16 @@
 package com.songj.jsonAbout;
 
+import cn.hutool.core.bean.BeanUtil;
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-import com.songj.bean.Employee;
+import com.songj.model.po.Employee;
+import org.apache.commons.beanutils.BeanUtils;
 import org.json.JSONArray;
 import org.junit.Test;
 
+import java.lang.reflect.InvocationTargetException;
 import java.util.*;
 import java.util.stream.Collectors;
 
@@ -192,6 +195,35 @@ public class JsonDemoImpl implements JsonDemo {
                 )
         );
         System.out.println(map);
+    }
+
+    @Test
+    @Override
+    public void mapToBean(){
+        String  testStr3  = "[{'key':'id', 'value':'123'},{'key':'name', 'value':'BB'}]";
+        Map<String, String> map = cn.hutool.json.JSONUtil.parseArray(testStr3).stream().filter(Objects::nonNull).collect(
+                Collectors.toMap(
+                        object -> {
+                            cn.hutool.json.JSONObject item = (cn.hutool.json.JSONObject) object;
+                            return item.get("key", String.class);
+                        },
+                        object -> {
+                            cn.hutool.json.JSONObject item = (cn.hutool.json.JSONObject) object;
+                            return item.get("value", String.class);
+                        }
+                )
+        );
+        System.out.println("map" + map);
+        Employee employee = new Employee();
+        try {
+            BeanUtils.populate(employee, map);
+        } catch (IllegalAccessException e) {
+            e.printStackTrace();
+        } catch (InvocationTargetException e) {
+            e.printStackTrace();
+        }
+        System.out.println("employee: " + cn.hutool.json.JSONUtil.toJsonStr(employee));
+
     }
 
 

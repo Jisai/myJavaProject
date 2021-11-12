@@ -1,5 +1,6 @@
 package com.songj.java8.optional;
 
+import com.songj.model.po.User;
 import lombok.Data;
 import org.junit.Test;
 
@@ -17,6 +18,7 @@ public class OptionalLearn {
     class Good{
         private Integer id;
         private String name;
+        private Good next;
 
         public Good() {
         }
@@ -55,7 +57,7 @@ public class OptionalLearn {
 
     /**
      *
-     * 判断对象是否存在
+     * 判断对象是否存在，仅对 null 做检查，空对象检测不出。
     **/
     @Test
     public void isPresent(){
@@ -68,6 +70,13 @@ public class OptionalLearn {
 
         //判断是否为null，输出false
         System.out.println(op_good_2.isPresent());
+    }
+
+
+    @Test
+    public void orElse(){
+        User user = null;
+//        User result = Optional.ofNullable(user).orElse(() -> {System.out.print("");});
     }
 
 

@@ -55,6 +55,11 @@ public interface StreamLearn {
     void flatMap01();
 
     /**
+     *实现集合的并、交、差操作
+     */
+    void flatMap02();
+
+    /**
      * 过滤器，把符合条件的筛选出来。
      * 例：将偶数筛选出来，且转换为数组
      **/
@@ -63,7 +68,7 @@ public interface StreamLearn {
 
     /**
      * peek 对每个元素执行操作并返回一个新的 Stream。
-     *
+     *  peek接收一个没有返回值的λ表达式，可以做一些输出，外部处理等。map接收一个有返回值的λ表达式，之后Stream的泛型类型将转换为map参数λ表达式返回的类型。
      **/
     void peek01();
 
@@ -94,6 +99,12 @@ public interface StreamLearn {
      * 对数组排序前可以先对Stream进行各类的map，filter，limit，skip甚至distinct来处理后，再排序。
      **/
     void sort01();
+
+    /**
+     * 对Stream排序通过sort进行。
+     * 对数组排序前可以先对Stream进行各类的map，filter，limit，skip甚至distinct来处理后，再排序。
+     **/
+    void sort02();
 
 
 
@@ -138,4 +149,8 @@ public interface StreamLearn {
     void groupByAndSort01();
 
 
+    /**
+     * 统计
+     */
+    void summaryStatistics01();
 }

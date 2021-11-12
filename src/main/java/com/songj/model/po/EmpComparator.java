@@ -1,4 +1,4 @@
-package com.songj.bean;
+package com.songj.model.po;
 
 import java.util.Comparator;
 

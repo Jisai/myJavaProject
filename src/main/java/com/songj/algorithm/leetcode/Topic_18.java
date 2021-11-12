@@ -1,6 +1,6 @@
 package com.songj.algorithm.leetcode;
 
-import com.songj.bean.ListNode;
+import com.songj.model.po.ListNode;
 
 /**
  * @ClassNamee: Topic_18  https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/

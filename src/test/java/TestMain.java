@@ -1,4 +1,4 @@
-import com.songj.bean.User;
+import com.songj.model.po.User;
 import org.apache.poi.hssf.usermodel.HSSFCell;
 import org.apache.poi.hssf.usermodel.HSSFRow;
 import org.apache.poi.hssf.usermodel.HSSFSheet;

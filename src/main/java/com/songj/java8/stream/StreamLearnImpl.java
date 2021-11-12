@@ -1,7 +1,10 @@
 package com.songj.java8.stream;
 
-import com.songj.bean.Employee;
-import com.songj.bean.People;
+import com.google.common.collect.Lists;
+import com.google.common.collect.Maps;
+import com.songj.model.po.Employee;
+import com.songj.model.po.People;
+import com.songj.model.po.User;
 import com.songj.jsonAbout.JSONUtil;
 import org.junit.Test;
 
@@ -10,6 +13,8 @@ import java.util.function.Supplier;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
+
+import static org.junit.Assert.assertEquals;
 
 /**
  * @ClassName: StreamLearnImpl
@@ -114,6 +119,49 @@ public class StreamLearnImpl implements StreamLearn {
         outputStream.forEach(System.out::println);
     }
 
+
+
+    @Test
+    @Override
+    public void flatMap02(){
+        Map<Integer, List<User>> map = Maps.newHashMap();
+        List<User> aClassList1 = Lists.newArrayList();
+        User aClass = new User(1, "zhuoli1", "haha1");
+        aClassList1.add(aClass);
+        aClassList1.add(new User(2, "zhuoli2", "haha2"));
+        aClassList1.add(new User(3, "zhuoli3", "haha3"));
+
+        List<User> aClassList2 = Lists.newArrayList();
+        aClassList2.add(aClass);
+        aClassList2.add(new User(5, "zhuoli5", "haha5"));
+        aClassList2.add(new User(6, "zhuoli6", "haha6"));
+
+        /*交集*/
+        /*[User(id=1, name=zhuoli1, description=haha1)]*/
+        List<User> intersectResult = aClassList1.stream().filter(aClassList2::contains).collect(Collectors.toList());
+        System.out.println(intersectResult);
+
+        /*并集*/
+        List<User> unionResult = Stream.of(aClassList1, aClassList2).flatMap(Collection::stream).distinct().collect(Collectors.toList());
+        assertEquals(unionResult.size(), 5);
+        System.out.println(unionResult);
+
+        /*差集*/
+        /*[User(id=2, name=zhuoli2, description=haha2), AClass(id=3, name=zhuoli3, description=haha3)]*/
+        List<User> differenceResult = aClassList1.stream().filter(x -> !aClassList2.contains(x)).collect(Collectors.toList());
+        System.out.println(differenceResult);
+
+        map.put(1, new ArrayList<>(aClassList1));
+        map.put(2, new ArrayList<>(aClassList2));
+
+        /*合并多个list*/
+        List<User> aClassListResult = map.values().stream().flatMap(item -> item.stream()).collect(Collectors.toList());
+        /*注意跟并集的区别*/
+        assertEquals(aClassListResult.size(), 6);
+        System.out.println(aClassListResult);
+
+    }
+
     @Test
     @Override
     public void filter01(){
@@ -191,6 +239,16 @@ public class StreamLearnImpl implements StreamLearn {
         employeeList.stream().sorted(Comparator.comparing(Employee::getLevel)).forEach(System.out::println);
     }
 
+    @Test
+    @Override
+    public void sort02(){
+        List<Employee> employeeList = getEmployeeDemoList(5);
+        foreachPrintln01(employeeList);
+        System.out.println("=================");
+        employeeList.stream()
+                .sorted((x,y) -> x.getLevel() - y.getLevel())
+                .forEach(System.out::println);
+    }
 
     @Test
     @Override
@@ -270,7 +328,18 @@ public class StreamLearnImpl implements StreamLearn {
         System.out.println(JSONUtil.objectToString(treeMap2));
     }
 
+    @Test
+    @Override
+    public  void summaryStatistics01(){
+        List<Integer> numbers = Arrays.asList(3, 2, 2, 3, 7, 3, 5);
 
+        IntSummaryStatistics stats = numbers.stream().mapToInt((x) -> x).summaryStatistics();
+
+        System.out.println("列表中最大的数 : " + stats.getMax());
+        System.out.println("列表中最小的数 : " + stats.getMin());
+        System.out.println("所有数之和 : " + stats.getSum());
+        System.out.println("平均数 : " + stats.getAverage());
+    }
 
     // ====================== 》》》 私有方法 《《《 ========================
     /**

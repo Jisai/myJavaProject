@@ -1,4 +1,4 @@
-package com.songj.bean;
+package com.songj.model.po;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
