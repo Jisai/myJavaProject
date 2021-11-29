@@ -10,6 +10,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  * @ClassNamee: StringAbout
@@ -31,6 +33,17 @@ public class StringAbout {
         String s2 = "abcdefghijkl";
         System.out.println( (s1.charAt(5) - 'a') );
         System.out.println( (s2.charAt(5) - 'a') );
+    }
+
+    @Test
+    public void stringBuffer(){
+        StringBuffer sb = new StringBuffer();
+        sb.append("你好");
+        System.out.println("1");
+        sb.append("，我是小明");
+        System.out.println("2");
+        System.out.println(sb.toString());
+
     }
 
 
@@ -103,7 +116,7 @@ public class StringAbout {
 //        String b = "5/6/428/1100569/1100573/";
 //        System.out.println(a.startsWith(b));
 //        System.out.println(b.startsWith(a));
-        String str1 = "abcdafea";
+        String str1 = "YX0220211124000002";
         str1.length();
         str1.toCharArray();
 
@@ -133,8 +146,8 @@ public class StringAbout {
 
     @Test
     public void subString(){
-        String str = "TX20211011023051";
-        System.out.println(str.substring(12, 18));
+        String str = "YX0220211124000002";
+        System.out.println(str.substring(str.length() -6, str.length()));
 
         String testStr1 = "爱学习教育集团/平台事业部/平台营销中心/分公司销售部/长沙销售组/";
         String testStr2 = "爱学习教育集团/平台事业部/平台营销中心/分公司销售部/长沙销售组/ ";
@@ -191,6 +204,19 @@ public class StringAbout {
 
     }
 
+    @Test
+    public void testContains(){
+        String str = "adhbfjs5678你好s{";
+        System.out.println(isSpecialChar(str));
+        
+
+    }
+    public static boolean isSpecialChar(String str) {
+        String regEx = "[ _`~!@#$%^&*()+=|{}':;',\\[\\].<>/?~！@#￥%……&*（）——+|{}【】‘；：”“’。，、？]|\n|\r|\t";
+        Pattern p = Pattern.compile(regEx);
+        Matcher m = p.matcher(str);
+        return m.find();
+    }
 
 
 

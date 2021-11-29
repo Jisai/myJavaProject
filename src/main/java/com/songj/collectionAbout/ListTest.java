@@ -92,7 +92,8 @@ public class ListTest {
                     }
                 }
                 my2 = StringUtils.join(name1, "；");
-                System.out.println(my2);
+                System.out.println("my2=" + my2);
+                System.out.println("param=" + StringUtils.join(param, ";"));
             }
         }
     }
