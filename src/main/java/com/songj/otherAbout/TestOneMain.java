@@ -1,10 +1,17 @@
 package com.songj.otherAbout;
 
+import cn.hutool.core.date.DateUtil;
+import cn.hutool.http.HttpRequest;
+import cn.hutool.json.JSONUtil;
 import com.github.binarywang.java.emoji.EmojiConverter;
 import com.songj.util.EmojiUtil;
 import com.songj.util.EmojiUtil2;
 import org.junit.Assert;
 import org.junit.Test;
+
+import java.util.Date;
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * @ClassName: TestOneMain
@@ -17,6 +24,7 @@ public class TestOneMain {
 
     public static void main(String[] args) {
 
+//        System.out.println(DateUtil.parseDate(DateUtil.format(new Date(), "yyyy-MM-dd")));
 
     }
 

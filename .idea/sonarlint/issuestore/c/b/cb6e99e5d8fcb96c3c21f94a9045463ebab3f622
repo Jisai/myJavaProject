@@ -1,0 +1,22 @@
+
+O
+java:S1854":Remove this useless assignment to local variable "result".(¯¥ğW
+Q	java:S125!"<This block of commented-out lines of code should be removed.(ÓñÚ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(¦Ú“Î
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(İ‘ø¬üÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(àíçÿÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ÖòÉÿÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(È‹Õÿÿÿÿÿ
+O
+java:S1854d":Remove this useless assignment to local variable "result".(¯¥ğW
+C
+java:S11440"-Remove this unused private "method01" method.(ÜÊ‘°
+B
+java:S1144J"-Remove this unused private "method02" method.(Ëö…	
+H
+java:S1144c"-Remove this unused private "method03" method.(Èÿ¶Äüÿÿÿÿ
+`
+java:S21846"ECast one of the operands of this subtraction operation to a "double".(ÇŠ‹Ìşÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾¡‘
+z
+java:S4165@"dRemove this useless assignment; "result" already holds the assigned value along all execution paths.(Âö³

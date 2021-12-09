@@ -1,0 +1,44 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¯©Ê
+[	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(‹¸’Œ
+[	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(èÍ¢“
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¯©Ê
+G
+java:S3599",Use another way to initialize this instance.(‘•õúÿÿÿÿ
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(Şê‰
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(¯éÅôúÿÿÿÿ
+g
+java:S3457#"Q%n should be used in place of \n to produce the platform-specific line separator.(ñÓíÏ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ñÓíÏ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ıØ±üÿÿÿÿ
+‚
+java:S1130*"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(‹¸’Œ
+G
+java:S3599+",Use another way to initialize this instance.(‘•õúÿÿÿÿ
+t
+java:S1171,"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(Şê‰
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ıØ±üÿÿÿÿ
+g
+java:S34576"Q%n should be used in place of \n to produce the platform-specific line separator.(ñÓíÏ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(ñÓíÏ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ıØ±üÿÿÿÿ
+‚
+java:S1130>"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(èÍ¢“
+G
+java:S3599?",Use another way to initialize this instance.(‘•õúÿÿÿÿ
+t
+java:S1171@"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+g
+java:S3457Q"Q%n should be used in place of \n to produce the platform-specific line separator.(ñÓíÏ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(ñÓíÏ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(ıØ±üÿÿÿÿ
+y
+java:S1192&"^Define a constant instead of duplicating this literal "=============================" 4 times.(ıØ±üÿÿÿÿ
+f
+java:S1192#"PDefine a constant instead of duplicating this literal "%d\t%d\t%d\t%d
+" 3 times.(ñÓíÏ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ç÷¨µ

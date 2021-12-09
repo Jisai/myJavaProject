@@ -1,30 +1,19 @@
 
-Isquid:S1135"2Complete the task associated to this TODO comment.(Üğ£Å
-[
-squid:S106&"9Replace this use of System.out or System.err by a logger.(ù¦èùÿÿÿÿ8çÂæï«/
-[
-squid:S106;"9Replace this use of System.out or System.err by a logger.(¤íÇïüÿÿÿÿ8å­æï«/
-V
-squid:S106H"9Replace this use of System.out or System.err by a logger.(À’8å­æï«/
-V
-squid:S106Q"9Replace this use of System.out or System.err by a logger.(ïÍØƒ8å­æï«/
-V
-squid:S106O"9Replace this use of System.out or System.err by a logger.(ªş§·8å­æï«/
-[
-squid:S1069"9Replace this use of System.out or System.err by a logger.(åôÀéúÿÿÿÿ8å­æï«/
-|squid:S11490"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(£†ùA8å­æï«/
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üÈãÇÿÿÿÿÿ
-T
-squid:S106="9Replace this use of System.out or System.err by a logger.(Å®N8å­æï«/
-[
-squid:S106%"9Replace this use of System.out or System.err by a logger.(Úã üÿÿÿÿ8å­æï«/
-N
-squid:S106"9Replace this use of System.out or System.err by a logger.(î‘ĞI
-[
-squid:S106#"9Replace this use of System.out or System.err by a logger.(´ÜŸêøÿÿÿÿ8å­æï«/
-U
-squid:S1067"9Replace this use of System.out or System.err by a logger.(ÙÅ†%8å­æï«/
-[
-squid:S106?"9Replace this use of System.out or System.err by a logger.(¤íÇïüÿÿÿÿ8å­æï«/
-[
-squid:S106F"9Replace this use of System.out or System.err by a logger.(µ†›ùÿÿÿÿ8å­æï«/
+{
+java:S11490"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(£†ùA8®ÎêâÉ/
+O
+java:S1135"2Complete the task associated to this TODO comment.(Üğ£Å8¯ÎêâÉ/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(î‘ĞI8²ÎêâÉ/
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(´ÜŸêøÿÿÿÿ8³ÎêâÉ/
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(Úã üÿÿÿÿ8³ÎêâÉ/
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ù¦èùÿÿÿÿ8´ÎêâÉ/
+T	java:S1067"9Replace this use of System.out or System.err by a logger.(ÙÅ†%8µÎêâÉ/
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(åôÀéúÿÿÿÿ8¶ÎêâÉ/
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(¤íÇïüÿÿÿÿ8¶ÎêâÉ/
+S	java:S106="9Replace this use of System.out or System.err by a logger.(Å®N8¶ÎêâÉ/
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(¤íÇïüÿÿÿÿ8·ÎêâÉ/
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(µ†›ùÿÿÿÿ8éÎêâÉ/
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(À’8êÎêâÉ/
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(ªş§·8ëÎêâÉ/
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(ïÍØƒ8ëÎêâÉ/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üÈãÇÿÿÿÿÿ8÷ÎêâÉ/

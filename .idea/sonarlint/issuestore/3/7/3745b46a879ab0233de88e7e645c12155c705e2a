@@ -1,0 +1,14 @@
+
+^
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(ŞÄãÔúÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÉÓ­èùÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ú¥øÿüÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(€Şˆ€
+C	java:S1081")Either remove or fill this block of code.(¡»¢üùÿÿÿÿ
+C
+java:S1604"(Make this anonymous inner class a lambda(Ãî¬üÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅìŒû
+Y
+java:S35180"CMake sure this expression can't be zero before doing this division.(€Şˆ€

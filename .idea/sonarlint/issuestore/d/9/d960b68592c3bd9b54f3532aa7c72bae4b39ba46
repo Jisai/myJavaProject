@@ -1,0 +1,18 @@
+
+K
+java:S3740¡"/Provide the parametrized type for this generic.(³æˆ¹ıÿÿÿÿ
+F
+java:S3740°"/Provide the parametrized type for this generic.(Í†›‹
+F
+java:S3740°"/Provide the parametrized type for this generic.(Í†›‹
+U
+java:S1118":Add a private constructor to hide the implicit public one.(¾·©ıÿÿÿÿ
+G
+java:S3011P",This accessibility bypass should be removed.(şãØÂøÿÿÿÿ
+B
+java:S3011c",This accessibility update should be removed.(˜ÂÓ˜
+C
+java:S3011Œ",This accessibility update should be removed.(Ó«§¯
+i
+java:S11929"NDefine a constant instead of duplicating this literal "] on target [" 3 times.(šôşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Öœ©€ùÿÿÿÿ

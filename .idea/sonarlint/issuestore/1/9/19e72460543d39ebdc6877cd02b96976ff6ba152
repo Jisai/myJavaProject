@@ -1,6 +1,4 @@
 
-o
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(„–¬ª
 Y
 java:S2147)"DCombine this catch with the one at line 39, which has the same body.(‚þÀ'
 Z
@@ -9,5 +7,7 @@ Z
 java:S21479"DCombine this catch with the one at line 53, which has the same body.(ä ¹€
 t
 java:S21429"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(„–¬ª
 i
 java:S22594"NA "NullPointerException" could be thrown; "myBatisGenerator" is nullable here.(ËÖŸÝüÿÿÿÿ

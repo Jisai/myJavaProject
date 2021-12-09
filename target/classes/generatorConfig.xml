@@ -17,7 +17,9 @@
 		</commentGenerator>
 		<!--数据库连接的信息：驱动类、连接地址、用户名、密码 -->
 		<jdbcConnection driverClass="com.mysql.jdbc.Driver"
-			connectionURL="jdbc:mysql://10.31.98.208:3306/c10-touch-sit?useUnicode=true&amp;useSSL=false&amp;characterEncoding=utf8" userId="appadmin" password="1qaz!QAZ">
+			connectionURL="jdbc:mysql://rm-2zee7orv657rc2xsy.mysql.rds.aliyuncs.com:3306/c10-touch-sit?useUnicode=true&amp;characterEncoding=utf8&amp;useSSL=false&amp;allowMultiQueries=true"
+						userId="dbadmin"
+						password="1qaz!QAZ">
 		</jdbcConnection>
 
 
@@ -53,8 +55,7 @@
 			<property name="enableSubPackages" value="false" />
 		</javaClientGenerator>
 		<!-- 指定数据库表 -->
-		<table tableName="touch_info_task" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
-		<table tableName="touch_record_examine" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
+		<table tableName="touch_info_content_template" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
 
 	</context>
 </generatorConfiguration>

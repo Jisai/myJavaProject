@@ -1,0 +1,53 @@
+
+J
+java:S3740N"/Provide the parametrized type for this generic.(ƒ¡”ƒüÿÿÿÿ
+y
+java:S4144­"]Update this method so that its implementation is not identical to "stringToMap2" on line 160.(§ûƒƒÿÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ß¨í¥øÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(º„İÆıÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(”£»ú
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(’¸éûÿÿÿÿ
+[
+java:S3252/"@Use static access with "com.alibaba.fastjson.JSON" for "toJSON".(’¸éûÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(¿×‡
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(Õùˆ«
+Q	java:S125C"<This block of commented-out lines of code should be removed.(ßûúĞ
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(Òšßı
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(é—Æğúÿÿÿÿ
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(¼¡¨ò
+N	java:S106k"9Replace this use of System.out or System.err by a logger.(Üàˆ—
+O
+java:S1854y":Remove this useless assignment to local variable "result".(ŸàÁR
+@
+java:S1481y"+Remove this unused "result" local variable.(ŸàÁR
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(ú“û…úÿÿÿÿ
+O	java:S106‡"9Replace this use of System.out or System.err by a logger.(ñšÔ
+S
+java:S1854"<Remove this useless assignment to local variable "testStr1".(ÇˆË¨
+D
+java:S1481"-Remove this unused "testStr1" local variable.(ÇˆË¨
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(ºÀ¬è
+N
+java:S1854¢"7Remove this useless assignment to local variable "map".(ƒ¢Œó
+O	java:S106¥"9Replace this use of System.out or System.err by a logger.(µˆœÑ
+N
+java:S1854¯"7Remove this useless assignment to local variable "map".(ƒ¢Œó
+O	java:S106²"9Replace this use of System.out or System.err by a logger.(µˆœÑ
+O	java:S106Å"9Replace this use of System.out or System.err by a logger.(µˆœÑ
+O	java:S106×"9Replace this use of System.out or System.err by a logger.(›Š²ó
+\
+java:S2147İ"ECombine this catch with the one at line 219, which has the same body.(åşáÿ
+T	java:S106à"9Replace this use of System.out or System.err by a logger.(–“á¹ùÿÿÿÿ
+O	java:S106ò"9Replace this use of System.out or System.err by a logger.(›Š²ó
+T	java:S106õ"9Replace this use of System.out or System.err by a logger.(–“á¹ùÿÿÿÿ
+O
+java:S1854"8Remove this useless assignment to local variable "list".(öéãØ
+Z
+java:S3252‚"DUse static access with "com.alibaba.fastjson.JSON" for "parseArray".(Š—«i
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+O	java:S106¦"9Replace this use of System.out or System.err by a logger.(—’¶ƒ
+V
+java:S1128"9Remove this unused import 'cn.hutool.core.bean.BeanUtil'.(ÓÃÍá8ç¹Ñ/
+˜
+java:S1192‘"Define a constant instead of duplicating this literal "{'code':100,'msg':'i am msg.','desc':'i am desc.','trance':null}" 3 times.(°ñ•
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·—Ó

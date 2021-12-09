@@ -1,0 +1,14 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éÐØ¢ùÿÿÿÿ
+N
+java:S1854-"8Remove this useless assignment to local variable "list".(é³¶á
+s
+java:S32523"XUse static access with "cn.hutool.core.text.CharSequenceUtil" for "upperFirstAndAddPre".(Œ¬àïÿÿÿÿÿ
+k
+java:S32523"PUse static access with "cn.hutool.core.text.CharSequenceUtil" for "toCamelCase".(Œ¬àïÿÿÿÿÿ
+M	java:S1064"9Replace this use of System.out or System.err by a logger.(×äÚ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(Žæêí
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(‹°’
+A
+java:S5960/"+Remove this assertion from production code.(ž´×ô
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Öœ©€ùÿÿÿÿ
