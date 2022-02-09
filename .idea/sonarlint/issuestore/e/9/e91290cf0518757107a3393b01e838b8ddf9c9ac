@@ -1,0 +1,42 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(Ü®¯–
+E
+java:S3740"/Provide the parametrized type for this generic.(Ü®¯–
+E
+java:S3740"/Provide the parametrized type for this generic.(º†ƒ—
+E
+java:S3740"/Provide the parametrized type for this generic.(º†ƒ—
+J
+java:S3740"/Provide the parametrized type for this generic.(“í½Íÿÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(“í½Íÿÿÿÿÿ
+J
+java:S3740:"/Provide the parametrized type for this generic.(òÕ£òøÿÿÿÿ
+J
+java:S3740:"/Provide the parametrized type for this generic.(òÕ£òøÿÿÿÿ
+J
+java:S3740:"/Provide the parametrized type for this generic.(òÕ£òøÿÿÿÿ
+J
+java:S3740E"/Provide the parametrized type for this generic.(Í¶Œûÿÿÿÿ
+{
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ü®¯–
+=
+java:S1659"'Declare "fianltask" on a separate line.(º†ƒ—
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(¥–…ûÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ëØ›çÿÿÿÿÿ
+L
+java:S2696;"6Make the enclosing method "static" or remove this set.(Î¤Üš
+K
+java:S2209<"5Change this instance-reference to a static reference.(ù¦úÜ
+‡
+java:S1130B"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ
+G
+java:S1602M",Remove useless curly braces around statement(ÿ¶Àüÿÿÿÿ
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(»£Ì×
+V	java:S125N"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+Q	java:S125P"<This block of commented-out lines of code should be removed.(Ú˜·×
+B
+java:S1602T",Remove useless curly braces around statement(Š¹÷Õ
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(¤¹¿
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÛÄÀè

@@ -1,7 +1,7 @@
 package com.songj.sortAbout;
 
-import com.songj.bean.EmpComparator;
-import com.songj.bean.Employee;
+import com.songj.model.po.EmpComparator;
+import com.songj.model.po.Employee;
 import org.junit.Test;
 
 import java.util.ArrayList;

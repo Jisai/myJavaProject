@@ -1,0 +1,104 @@
+
+K
+java:S3740‰"/Provide the parametrized type for this generic.(Üò óÿÿÿÿÿ
+F
+java:S3740Š"/Provide the parametrized type for this generic.(’ö³‰
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬¦»äşÿÿÿÿ
+M	java:S106 "9Replace this use of System.out or System.err by a logger.(üç
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(œ”³
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(×€Åùÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ôÆõÍúÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(“á¦É
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ôÆõÍúÿÿÿÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(“á¦É
+Q	java:S125;"<This block of commented-out lines of code should be removed.(ìğ±
+h
+java:S3776H"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ç§²”
+R
+java:S1854O"7Remove this useless assignment to local variable "my2".(ÀÀ¦Üşÿÿÿÿ
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(Ûÿ½€ÿÿÿÿÿ
+;
+java:S2129O" Remove this "String" constructor(ÀÀ¦Üşÿÿÿÿ
+T
+java:S1612X"9Replace this lambda with method reference 'nameMap::get'.(óßŸùÿÿÿÿ
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(€Æ‹Ê
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(¼Õ·®
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(±í¿üÿÿÿÿ
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(Ö—€–şÿÿÿÿ
+2
+java:S3626‰"Remove this redundant jump.(ÉŠ©ƒ
+N	java:S106q"9Replace this use of System.out or System.err by a logger.(¢Ïİû
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(ÊÂ§êşÿÿÿÿ
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(Äòöÿÿÿÿÿ
+V	java:S125u"<This block of commented-out lines of code should be removed.(Ú¥çäşÿÿÿÿ
+V	java:S125w"<This block of commented-out lines of code should be removed.(ç›ûÓÿÿÿÿÿ
+Q	java:S125|"<This block of commented-out lines of code should be removed.(€…ìù
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ŞßÆÿÿÿÿÿ
+i
+java:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ïæáß
+O	java:S106¡"9Replace this use of System.out or System.err by a logger.(çŠ„‡
+N	java:S106±"9Replace this use of System.out or System.err by a logger.(İæÈp
+O	java:S106º"9Replace this use of System.out or System.err by a logger.(ù˜ˆ
+O	java:S106Â"9Replace this use of System.out or System.err by a logger.(ù˜ˆ
+T	java:S106Ï"9Replace this use of System.out or System.err by a logger.(ğ‚Èâùÿÿÿÿ
+R
+java:S1854à"6Remove this useless assignment to local variable "b3".(¼ó‹¸ûÿÿÿÿ
+R
+java:S1854İ"6Remove this useless assignment to local variable "b2".(½©Áİıÿÿÿÿ
+M
+java:S1854Ú"6Remove this useless assignment to local variable "b1".(Ô®Ûº
+T
+java:S1612Û"=Replace this lambda with method reference 'Integer::valueOf'.(åÇåŸ
+Y
+java:S1612Ş"=Replace this lambda with method reference 'Integer::valueOf'.(ä©Ÿüÿÿÿÿ
+Y
+java:S1612á"=Replace this lambda with method reference 'Integer::valueOf'.(Äµî„üÿÿÿÿ
+T	java:S106â"9Replace this use of System.out or System.err by a logger.(¿ÑıÍøÿÿÿÿ
+O	java:S106ã"9Replace this use of System.out or System.err by a logger.(…£óĞ
+T	java:S106ä"9Replace this use of System.out or System.err by a logger.(ÉÎûøÿÿÿÿ
+T	java:S106ì"9Replace this use of System.out or System.err by a logger.(òáŒüÿÿÿÿ
+O	java:S106í"9Replace this use of System.out or System.err by a logger.(êİ”Œ
+O	java:S106ö"9Replace this use of System.out or System.err by a logger.(¾€—™
+O	java:S106÷"9Replace this use of System.out or System.err by a logger.(êİ”Œ
+P
+java:S1854Š"9Remove this useless assignment to local variable "list3".(’ö³‰
+P
+java:S1854ˆ"9Remove this useless assignment to local variable "list1".(§®ÓÜ
+A
+java:S1481ˆ"*Remove this unused "list1" local variable.(§®ÓÜ
+A
+java:S1481Š"*Remove this unused "list3" local variable.(’ö³‰
+W	java:S125"<This block of commented-out lines of code should be removed.(©“¼úÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(×Ç·îüÿÿÿÿ
+T	java:S106—"9Replace this use of System.out or System.err by a logger.(Ê©¼ÿÿÿÿÿ
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(œşÔà
+T	java:S106™"9Replace this use of System.out or System.err by a logger.(ØâÉëúÿÿÿÿ
+W	java:S125›"<This block of commented-out lines of code should be removed.(é³½•ÿÿÿÿÿ
+T	java:S106¬"9Replace this use of System.out or System.err by a logger.(¦Îà›úÿÿÿÿ
+T	java:S106´"9Replace this use of System.out or System.err by a logger.(¦Îà›úÿÿÿÿ
+T	java:S106Î"9Replace this use of System.out or System.err by a logger.(Ç¨¾‘ûÿÿÿÿ
+[	java:S106Õ"9Replace this use of System.out or System.err by a logger.(Ç¨¾‘ûÿÿÿÿ8àÈˆêÒ/
+B
+java:S1168™"+Return an empty collection instead of null.(¥¹ï
+B
+java:S1168¶"+Return an empty collection instead of null.(¥¹ï
+u
+java:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(’¿¸¬ıÿÿÿÿ
+u
+java:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(’¿¸¬ıÿÿÿÿ
+p
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(›ññ¥
+u
+java:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(’¿¸¬ıÿÿÿÿ
+g	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¶öé
+l	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÌõóıÿÿÿÿ
+g	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÕ”
+D
+java:S1604ï"(Make this anonymous inner class a lambda(ëŞ¹ƒùÿÿÿÿ
+Z
+java:S1155˜">Use isEmpty() to check whether the collection is empty or not.(¿”Óÿÿÿÿÿ
+Z
+java:S1155µ">Use isEmpty() to check whether the collection is empty or not.(¿”Óÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üÈãÇÿÿÿÿÿ
+\
+java:S2259á"@A "NullPointerException" could be thrown; "a3" is nullable here.(Äµî„üÿÿÿÿ

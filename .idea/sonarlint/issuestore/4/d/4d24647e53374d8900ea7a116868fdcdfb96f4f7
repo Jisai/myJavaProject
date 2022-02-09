@@ -1,26 +1,28 @@
 
-rsquid:S1192"VDefine a constant instead of duplicating this literal "redis è¿æ¥æˆåŠŸï¼" 4 times.(»ƒØüıÿÿÿÿ
-O
-squid:S106."9Replace this use of System.out or System.err by a logger.(‘¦’Ğ
-asquid:S1192"JDefine a constant instead of duplicating this literal "localhost" 3 times.(î›§™
-Zsquid:S20955"CUse try-with-resources or close this "Jedis" in a "finally" clause.(’”‘¸
-Zsquid:S2095F"CUse try-with-resources or close this "Jedis" in a "finally" clause.(î›§™
-T
-squid:S1066"9Replace this use of System.out or System.err by a logger.(»ƒØüıÿÿÿÿ
-O
-squid:S106>"9Replace this use of System.out or System.err by a logger.( Éå¯
-T
-squid:S106M"9Replace this use of System.out or System.err by a logger.(Ã¸¬¤ùÿÿÿÿ
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ò¸Îïûÿÿÿÿ
-T
-squid:S106("9Replace this use of System.out or System.err by a logger.(»ƒØüıÿÿÿÿ
-Zsquid:S2095"CUse try-with-resources or close this "Jedis" in a "finally" clause.(î›§™
-fsquid:S11928"JDefine a constant instead of duplicating this literal "site-list" 4 times.(–­‡îüÿÿÿÿ
-fsquid:S1192*"JDefine a constant instead of duplicating this literal "runoobkey" 4 times.(å‡÷öüÿÿÿÿ
-Zsquid:S2095'"CUse try-with-resources or close this "Jedis" in a "finally" clause.(î›§™
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(»ƒØüıÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(•©’ şÿÿÿÿ
-T
-squid:S106G"9Replace this use of System.out or System.err by a logger.(»ƒØüıÿÿÿÿ
+L
+java:S3740J"/Provide the parametrized type for this generic.(£¥·Ê8¿®òïÆ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(»ƒØüıÿÿÿÿ8É®òïÆ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(•©’ şÿÿÿÿ8É®òïÆ/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(»ƒØüıÿÿÿÿ8Ë®òïÆ/
+U	java:S106."9Replace this use of System.out or System.err by a logger.(‘¦’Ğ8Ì®òïÆ/
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(»ƒØüıÿÿÿÿ8Í®òïÆ/
+U	java:S106>"9Replace this use of System.out or System.err by a logger.( Éå¯8Î®òïÆ/
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(»ƒØüıÿÿÿÿ8Ï®òïÆ/
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(Ã¸¬¤ùÿÿÿÿ8Ñ®òïÆ/
+g
+java:S1192"JDefine a constant instead of duplicating this literal "localhost" 3 times.(î›§™8Ñ®òïÆ/
+x
+java:S1192"VDefine a constant instead of duplicating this literal "redis è¿æ¥æˆåŠŸï¼" 4 times.(»ƒØüıÿÿÿÿ8Ñ®òïÆ/
+l
+java:S1192*"JDefine a constant instead of duplicating this literal "runoobkey" 4 times.(å‡÷öüÿÿÿÿ8Ò®òïÆ/
+l
+java:S11928"JDefine a constant instead of duplicating this literal "site-list" 4 times.(–­‡îüÿÿÿÿ8Ò®òïÆ/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ò¸Îïûÿÿÿÿ8Ô®òïÆ/
+`
+java:S20955"CUse try-with-resources or close this "Jedis" in a "finally" clause.(’”‘¸8â®òïÆ/
+`
+java:S2095'"CUse try-with-resources or close this "Jedis" in a "finally" clause.(î›§™8ß®òïÆ/
+`
+java:S2095"CUse try-with-resources or close this "Jedis" in a "finally" clause.(î›§™8à®òïÆ/
+`
+java:S2095F"CUse try-with-resources or close this "Jedis" in a "finally" clause.(î›§™8ä®òïÆ/

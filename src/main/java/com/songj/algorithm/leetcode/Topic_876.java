@@ -1,6 +1,6 @@
 package com.songj.algorithm.leetcode;
 
-import com.songj.bean.ListNode;
+import com.songj.model.po.ListNode;
 
 /**
  * @ClassNamee: Topic_876   https://leetcode-cn.com/problems/middle-of-the-linked-list/submissions/

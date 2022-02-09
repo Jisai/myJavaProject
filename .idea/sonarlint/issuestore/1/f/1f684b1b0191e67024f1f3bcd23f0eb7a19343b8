@@ -1,0 +1,17 @@
+
+Q
+java:S1854"6Remove this useless assignment to local variable "t3".(ºµ®üÿÿÿÿ
+L
+java:S1854"6Remove this useless assignment to local variable "t2".(Èú“
+N	java:S106"9Replace this use of System.out or System.err by a logger.(şÛˆæ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(÷×³¨ùÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(–¼€€
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹í‰şÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Æ§–P
+=
+java:S1481"'Remove this unused "t2" local variable.(Èú“
+B
+java:S1481"'Remove this unused "t3" local variable.(ºµ®üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰ñÍĞşÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºßËª

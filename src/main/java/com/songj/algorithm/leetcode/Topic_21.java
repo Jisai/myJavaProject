@@ -1,6 +1,6 @@
 package com.songj.algorithm.leetcode;
 
-import com.songj.bean.ListNode;
+import com.songj.model.po.ListNode;
 
 /**
  * @ClassNamee: Topic_21    https://leetcode-cn.com/problems/merge-two-sorted-lists/

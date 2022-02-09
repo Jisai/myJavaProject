@@ -60,6 +60,21 @@ public interface JsonDemo {
     public void stringToMap3();
 
     /**
+     * @Description: String转Map
+     **/
+    public void stringToMap4();
+
+    /**
+     * @Description: String转Map，再转bean
+     **/
+    public void mapToBean1();
+
+    /**
+     * @Description: String转Map，再转bean
+     **/
+    public void mapToBean2();
+
+    /**
      * @Description: json字符串转Array
      **/
     public void jsonStringToList();

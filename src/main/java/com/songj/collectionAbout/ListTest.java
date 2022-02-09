@@ -1,9 +1,7 @@
 package com.songj.collectionAbout;
 
 import com.alibaba.fastjson.JSON;
-import com.songj.bean.User;
-import lombok.Getter;
-import lombok.Setter;
+import com.songj.model.po.User;
 import org.apache.commons.collections4.CollectionUtils;
 import org.apache.commons.lang.StringUtils;
 import org.junit.Test;
@@ -94,7 +92,8 @@ public class ListTest {
                     }
                 }
                 my2 = StringUtils.join(name1, "；");
-                System.out.println(my2);
+                System.out.println("my2=" + my2);
+                System.out.println("param=" + StringUtils.join(param, ";"));
             }
         }
     }

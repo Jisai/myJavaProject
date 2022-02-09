@@ -1,114 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68f3316f-6cf2-410b-b3c7-7bf3c4b3d953" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="68f3316f-6cf2-410b-b3c7-7bf3c4b3d953" name="Default Changelist" comment="+">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/otherAbout/TestOneMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/otherAbout/TestOneMain.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/javaBasis/BodyA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="814">
-              <caret line="39" column="54" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/javaBasis/BodyB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-              <folding>
-                <element signature="e#216#217#0" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/力扣算法目录.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1276">
-              <caret line="58" column="11" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/redisAbout/RedisBeUsedJava.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/otherAbout/TestOneMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_18.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_206.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" selection-start-line="13" selection-end-line="20" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_278.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_876.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="48" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -117,200 +16,48 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>二分</find>
-      <find>new int</find>
-      <find>快</find>
-      <find>[</find>
-      <find>t2</find>
-      <find>maopao</find>
-      <find>maop</find>
-      <find>静态方法</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>root2</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>F:\WorkSpace\own\myJavaProject\src\main\java\com\songj\designPattern</dir>
-      <dir>F:\WorkSpace\own\myJavaProject\src\main\java\com\songj</dir>
-    </dirStrings>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_977.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_704.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_278.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_35.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_189.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_912.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_283.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_167.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_344.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_557.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/collectionAbout/ArrayTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/javaBasis/langAbout/StringAbout.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_567.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_733.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_695.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_217.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_53.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_617.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_116.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/bean/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_542.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/bean/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_21.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo01/singleThread/MyThread01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_19.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_876.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_206.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/力扣算法目录.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_18.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/otherAbout/TestOneMain.java" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/MyLibrary/maven/apache-maven-3.5.0" />
-        <option name="userSettingsFile" value="D:\MyLibrary\maven\apache-maven-3.5.0\conf\gaosi_aixuexi_settings.xml" />
+        <option name="mavenHome" value="$USER_HOME$/MyTools/apache-maven-3.8.2" />
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="1935" />
-    <option name="height" value="1040" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="songj" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="songj" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="songj" type="462c0819:PsiDirectoryNode" />
-              <item name="javaBasis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="songj" type="462c0819:PsiDirectoryNode" />
-              <item name="otherAbout" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="songj" type="462c0819:PsiDirectoryNode" />
-              <item name="redisAbout" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1xUImOeBvxAWhQuQBDYJcBBbCjN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1629362532477" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../organization" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.songj.algorithm.leetcode" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.TestOneMain">
-    <configuration name="BodyA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.songj.javaBasis.BodyA" />
-      <module name="myJavaProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.songj.javaBasis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestOneMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.songj.otherAbout.TestOneMain" />
       <module name="myJavaProject" />
@@ -324,41 +71,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Topic_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.songj.algorithm.leetcode.Topic_18" />
+    <configuration name="DateChangeTest.hutoolDateUtil" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myJavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.songj.algorithm.leetcode.*" />
+          <option name="PATTERN" value="com.songj.dateAbout.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.songj.dateAbout" />
+      <option name="MAIN_CLASS_NAME" value="com.songj.dateAbout.DateChangeTest" />
+      <option name="METHOD_NAME" value="hutoolDateUtil" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Topic_206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.songj.algorithm.leetcode.Topic_206" />
+    <configuration name="ListTest.separation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myJavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.songj.algorithm.leetcode.*" />
+          <option name="PATTERN" value="com.songj.collectionAbout.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.songj.collectionAbout" />
+      <option name="MAIN_CLASS_NAME" value="com.songj.collectionAbout.ListTest" />
+      <option name="METHOD_NAME" value="separation" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Topic_876" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.songj.algorithm.leetcode.Topic_876" />
+    <configuration name="StringAbout.subString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myJavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.songj.algorithm.leetcode.*" />
+          <option name="PATTERN" value="com.songj.javaBasis.langAbout.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.songj.javaBasis.langAbout" />
+      <option name="MAIN_CLASS_NAME" value="com.songj.javaBasis.langAbout.StringAbout" />
+      <option name="METHOD_NAME" value="subString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringAbout.testContains" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.songj.javaBasis.langAbout.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.songj.javaBasis.langAbout" />
+      <option name="MAIN_CLASS_NAME" value="com.songj.javaBasis.langAbout.StringAbout" />
+      <option name="METHOD_NAME" value="testContains" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -366,10 +138,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.TestOneMain" />
-        <item itemvalue="Application.Topic_18" />
-        <item itemvalue="Application.BodyA" />
-        <item itemvalue="Application.Topic_206" />
-        <item itemvalue="Application.Topic_876" />
+        <item itemvalue="JUnit.StringAbout.testContains" />
+        <item itemvalue="JUnit.StringAbout.subString" />
+        <item itemvalue="JUnit.DateChangeTest.hutoolDateUtil" />
+        <item itemvalue="JUnit.ListTest.separation" />
       </list>
     </recent_temporary>
   </component>
@@ -422,418 +194,311 @@
       <workItem from="1629779159497" duration="772000" />
       <workItem from="1629795363106" duration="207000" />
       <workItem from="1630330880661" duration="849000" />
+      <workItem from="1630403400555" duration="354000" />
+      <workItem from="1630407185194" duration="16000" />
+      <workItem from="1630572745854" duration="26000" />
+      <workItem from="1630589452332" duration="1490000" />
+      <workItem from="1630592961823" duration="2001000" />
+      <workItem from="1630631987535" duration="576000" />
+      <workItem from="1630980260128" duration="443000" />
+      <workItem from="1630993921332" duration="1783000" />
+      <workItem from="1630999139068" duration="1221000" />
+      <workItem from="1631235579774" duration="2117000" />
+      <workItem from="1631252022490" duration="10000" />
+      <workItem from="1631259172070" duration="1368000" />
+      <workItem from="1631617181578" duration="416000" />
+      <workItem from="1631755537048" duration="182000" />
+      <workItem from="1631771002626" duration="51000" />
+      <workItem from="1632362896438" duration="1550000" />
+      <workItem from="1632623151160" duration="2224000" />
+      <workItem from="1632735155767" duration="612000" />
+      <workItem from="1633932033361" duration="1879000" />
+      <workItem from="1633957399645" duration="602000" />
+      <workItem from="1634000524986" duration="552000" />
+      <workItem from="1634645678559" duration="855000" />
+      <workItem from="1634691410755" duration="39000" />
+      <workItem from="1634691740736" duration="3560000" />
+      <workItem from="1634778768442" duration="1427000" />
+      <workItem from="1634783770297" duration="4000" />
+      <workItem from="1634886605557" duration="5648000" />
+      <workItem from="1634897964873" duration="341000" />
+      <workItem from="1635123391045" duration="2154000" />
+      <workItem from="1635128890637" duration="617000" />
+      <workItem from="1635249257634" duration="609000" />
+      <workItem from="1635305541652" duration="637000" />
+      <workItem from="1635400346073" duration="1550000" />
+      <workItem from="1635908747488" duration="379000" />
+      <workItem from="1635919025316" duration="1041000" />
+      <workItem from="1635993799029" duration="613000" />
+      <workItem from="1636009444727" duration="617000" />
+      <workItem from="1636025181598" duration="3122000" />
+      <workItem from="1636115533797" duration="725000" />
+      <workItem from="1636275868677" duration="746000" />
+      <workItem from="1636334669965" duration="192000" />
+      <workItem from="1636359176154" duration="239000" />
+      <workItem from="1636359431356" duration="271000" />
+      <workItem from="1636596683277" duration="2167000" />
+      <workItem from="1636615612235" duration="3093000" />
+      <workItem from="1636622422417" duration="3132000" />
+      <workItem from="1636680166043" duration="1014000" />
+      <workItem from="1636682531645" duration="3299000" />
+      <workItem from="1636712412747" duration="983000" />
+      <workItem from="1637113295370" duration="748000" />
+      <workItem from="1637138018320" duration="660000" />
+      <workItem from="1637141599081" duration="877000" />
+      <workItem from="1637314402686" duration="1262000" />
+      <workItem from="1637492470253" duration="248000" />
+      <workItem from="1637646373722" duration="975000" />
+      <workItem from="1637649219471" duration="1567000" />
+      <workItem from="1637722525137" duration="1518000" />
+      <workItem from="1637753724551" duration="1194000" />
+      <workItem from="1638147086497" duration="638000" />
+      <workItem from="1638350270745" duration="680000" />
+      <workItem from="1638354544211" duration="594000" />
+      <workItem from="1638519213097" duration="1376000" />
+      <workItem from="1638864277461" duration="563000" />
+      <workItem from="1638930516509" duration="142000" />
     </task>
+    <task id="LOCAL-00001" summary="+">
+      <created>1634779715567</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634779715567</updated>
+    </task>
+    <task id="LOCAL-00002" summary="+">
+      <created>1636680611687</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636680611687</updated>
+    </task>
+    <task id="LOCAL-00003" summary="+">
+      <created>1636715651612</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636715651612</updated>
+    </task>
+    <task id="LOCAL-00004" summary="+">
+      <created>1638147111086</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638147111086</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="ArrayTest_testArraysEquals - 2021.07.19 at 16h 54m 06s.xml">
-      <configuration name="ArrayTest.testArraysEquals" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayTest_testArraysEquals - 2021.07.19 at 16h 55m 05s.xml">
-      <configuration name="ArrayTest.testArraysEquals" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89661000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20847343" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="JRebel" order="3" side_tool="true" />
-      <window_info id="Image Layers" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="UI Designer" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966374" weight="0.16544656" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.18448023" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3293944" />
-      <window_info anchor="bottom" id="SonarLint" order="11" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" id="JRebel Console" order="14" sideWeight="0.5003362" side_tool="true" weight="0.19912152" />
-      <window_info anchor="bottom" id="JRebel Executor" order="15" />
-      <window_info anchor="bottom" id="Messages" order="16" sideWeight="0.49966374" weight="0.32846716" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Mybatis datasource" order="6" side_tool="true" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="right" id="Bean Validation" order="10" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_442.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_986.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_977.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_704.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_35.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_283.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_912.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_189.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_167.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_344.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_557.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/query/ErFen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="71" column="43" selection-start-line="71" selection-start-column="43" selection-end-line="71" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/javaBasis/langAbout/StringAbout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_567.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="49" column="38" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_733.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_695.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_217.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#636#645#0" expanded="true" />
-            <element signature="e#890#891#0" expanded="true" />
-            <element signature="e#965#966#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_135.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_116.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_617.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/bean/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_53.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_542.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_21.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/Thread01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-903">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="1793" column="48" lean-forward="true" selection-start-line="1793" selection-start-column="48" selection-end-line="1793" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/collectionAbout/ArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo01/singleThread/MyThread01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="54" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_test.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_a1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo01/multipleThread/MainThreadDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo01/singleThread/MainThreadDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo01/singleThread/MyRunnable_01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/query/ChaZhi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_19.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/sort/JingDianPaiXu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-770">
-          <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/bean/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="31" column="28" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/javaBasis/BodyA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="39" column="54" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/javaBasis/BodyB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <folding>
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/力扣算法目录.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1276">
-          <caret line="58" column="11" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/redisAbout/RedisBeUsedJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_18.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_206.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" selection-start-line="13" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_278.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_876.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="48" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/otherAbout/TestOneMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="+" />
+    <option name="LAST_COMMIT_MESSAGE" value="+" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="572" y="-1100" key="#com.intellij.ide.util.MemberChooser" timestamp="1634892365568">
+      <screen x="-441" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="572" y="-1100" key="#com.intellij.ide.util.MemberChooser/-441.-1415.2560.1415/0.25.1792.1019@-441.-1415.2560.1415" timestamp="1634892365568" />
+    <state x="709" y="252" key="#com.intellij.ide.util.MemberChooser/-441.-1415.2560.1415/0.25.1792.1019@0.25.1792.1019" timestamp="1631236424769" />
+    <state x="410" y="-1084" key="#xdebugger.evaluate" timestamp="1636599366246">
+      <screen x="-441" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="410" y="-1084" key="#xdebugger.evaluate/-441.-1415.2560.1415/0.25.1792.1024@-441.-1415.2560.1415" timestamp="1636599366246" />
+    <state x="480" y="100" key="CommitChangelistDialog2" timestamp="1638521426768">
+      <screen x="0" y="25" width="1792" height="1024" />
+    </state>
+    <state x="245" y="-1312" key="CommitChangelistDialog2/-441.-1415.2560.1415/0.25.1792.1024@-441.-1415.2560.1415" timestamp="1636715651365" />
+    <state x="480" y="100" key="CommitChangelistDialog2/-441.-1415.2560.1415/0.25.1792.1024@0.25.1792.1024" timestamp="1638521426768" />
+    <state x="480" y="100" key="CommitChangelistDialog2/-441.-1415.2560.1415/0.25.1792.1026@0.25.1792.1026" timestamp="1632363503723" />
+    <state x="480" y="100" key="CommitChangelistDialog2/-441.-1415.2560.1415/0.25.1792.1030@0.25.1792.1030" timestamp="1638147110784" />
+    <state width="600" height="644" key="DebuggerActiveHint" timestamp="1636683349193">
+      <screen x="-441" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="600" height="644" key="DebuggerActiveHint/-441.-1415.2560.1415/0.25.1792.1024@-441.-1415.2560.1415" timestamp="1636680544204" />
+    <state width="420" height="466" key="DebuggerActiveHint/-441.-1415.2560.1415/0.25.1792.1024@0.25.1792.1024" timestamp="1634692371769" />
+    <state width="600" height="644" key="DebuggerActiveHint/-441.-1415.2560.1415/0.25.1792.1026@-441.-1415.2560.1415" timestamp="1636683349193" />
+    <state width="420" height="466" key="DebuggerActiveHint/-441.-1415.2560.1415/0.25.1792.1026@0.25.1792.1026" timestamp="1632638071813" />
+    <state x="179" y="108" key="DiffContextDialog" timestamp="1632363501844">
+      <screen x="0" y="25" width="1792" height="1026" />
+    </state>
+    <state x="179" y="108" key="DiffContextDialog/-441.-1415.2560.1415/0.25.1792.1026@0.25.1792.1026" timestamp="1632363501844" />
+    <state width="1748" height="265" key="GridCell.Tab.0.bottom" timestamp="1638521434110">
+      <screen x="0" y="25" width="1792" height="1024" />
+    </state>
+    <state width="1443" height="342" key="GridCell.Tab.0.bottom/-441.-1415.2560.1415/0.25.1792.1017@-441.-1415.2560.1415" timestamp="1634898452939" />
+    <state width="1748" height="307" key="GridCell.Tab.0.bottom/-441.-1415.2560.1415/0.25.1792.1017@0.25.1792.1017" timestamp="1630632245919" />
+    <state width="1748" height="312" key="GridCell.Tab.0.bottom/-441.-1415.2560.1415/0.25.1792.1019@-441.-1415.2560.1415" timestamp="1634896682285" />
+    <state width="1748" height="307" key="GridCell.Tab.0.bottom/-441.-1415.2560.1415/0.25.1792.1019@0.25.1792.1019" timestamp="1631236863041" />
+    <state width="1748" height="348" key="GridCell.Tab.0.bottom/-441.-1415.2560.1415/0.25.1792.1021@0.25.1792.1021" timestamp="1637315090843" />
+    <state width="1748" height="312" key="GridCell.Tab.0.bottom/-441.-1415.2560.1415/0.25.1792.1023@-441.-1415.2560.1415" timestamp="1634888156496" />
+    <state width="1748" height="265" key="GridCell.Tab.0.bottom/-441.-1415.2560.1415/0.25.1792.1023@0.25.1792.1023" timestamp="1637753810518" />
+    <state width="1639" height="353" key="GridCell.Tab.0.bottom/-441.-1415.2560.1415/0.25.1792.1024@-441.-1415.2560.1415" timestamp="1636715703761" />
+    <state width="1748" height="265" key="GridCell.Tab.0.bottom/-441.-1415.2560.1415/0.25.1792.1024@0.25.1792.1024" timestamp="1638521434110" />
+    <state width="1809" height="398" key="GridCell.Tab.0.bottom/-441.-1415.2560.1415/0.25.1792.1026@-441.-1415.2560.1415" timestamp="1636683354490" />
+    <state width="1748" height="328" key="GridCell.Tab.0.bottom/-441.-1415.2560.1415/0.25.1792.1026@0.25.1792.1026" timestamp="1634723124559" />
+    <state width="1586" height="392" key="GridCell.Tab.0.bottom/-441.-1415.2560.1415/0.25.1792.1027@-441.-1415.2560.1415" timestamp="1636681655573" />
+    <state width="1748" height="267" key="GridCell.Tab.0.bottom/-441.-1415.2560.1415/0.25.1792.1027@0.25.1792.1027" timestamp="1638356474386" />
+    <state width="1809" height="351" key="GridCell.Tab.0.bottom/-441.-1415.2560.1415/0.25.1792.1029@-441.-1415.2560.1415" timestamp="1636708163668" />
+    <state width="1748" height="279" key="GridCell.Tab.0.bottom/-441.-1415.2560.1415/0.25.1792.1029@0.25.1792.1029" timestamp="1637117261951" />
+    <state width="1748" height="247" key="GridCell.Tab.0.bottom/-441.-1415.2560.1415/0.25.1792.1030@0.25.1792.1030" timestamp="1636630906437" />
+    <state width="1786" height="271" key="GridCell.Tab.0.bottom/-441.-1415.2560.1415/0.25.1792.1033@-441.-1415.2560.1415" timestamp="1636624756665" />
+    <state width="1748" height="244" key="GridCell.Tab.0.bottom/-441.-1415.2560.1415/0.25.1792.1033@0.25.1792.1033" timestamp="1637144443984" />
+    <state width="1748" height="244" key="GridCell.Tab.0.bottom/-441.-1415.2560.1415/0.25.1792.1034@0.25.1792.1034" timestamp="1637141896452" />
+    <state width="1748" height="309" key="GridCell.Tab.0.bottom/0.25.1792.1013@0.25.1792.1013" timestamp="1630597875928" />
+    <state width="1748" height="307" key="GridCell.Tab.0.bottom/0.25.1792.1019@0.25.1792.1019" timestamp="1631241411879" />
+    <state width="1748" height="309" key="GridCell.Tab.0.bottom/0.25.1792.1021@0.25.1792.1021" timestamp="1630594522018" />
+    <state width="1748" height="307" key="GridCell.Tab.0.bottom/0.25.1792.1023@0.25.1792.1023" timestamp="1631239102461" />
+    <state width="1748" height="265" key="GridCell.Tab.0.center" timestamp="1638521434110">
+      <screen x="0" y="25" width="1792" height="1024" />
+    </state>
+    <state width="1443" height="342" key="GridCell.Tab.0.center/-441.-1415.2560.1415/0.25.1792.1017@-441.-1415.2560.1415" timestamp="1634898452938" />
+    <state width="1748" height="307" key="GridCell.Tab.0.center/-441.-1415.2560.1415/0.25.1792.1017@0.25.1792.1017" timestamp="1630632245919" />
+    <state width="1748" height="312" key="GridCell.Tab.0.center/-441.-1415.2560.1415/0.25.1792.1019@-441.-1415.2560.1415" timestamp="1634896682285" />
+    <state width="1748" height="307" key="GridCell.Tab.0.center/-441.-1415.2560.1415/0.25.1792.1019@0.25.1792.1019" timestamp="1631236863040" />
+    <state width="1748" height="348" key="GridCell.Tab.0.center/-441.-1415.2560.1415/0.25.1792.1021@0.25.1792.1021" timestamp="1637315090842" />
+    <state width="1748" height="312" key="GridCell.Tab.0.center/-441.-1415.2560.1415/0.25.1792.1023@-441.-1415.2560.1415" timestamp="1634888156495" />
+    <state width="1748" height="265" key="GridCell.Tab.0.center/-441.-1415.2560.1415/0.25.1792.1023@0.25.1792.1023" timestamp="1637753810516" />
+    <state width="1639" height="353" key="GridCell.Tab.0.center/-441.-1415.2560.1415/0.25.1792.1024@-441.-1415.2560.1415" timestamp="1636715703760" />
+    <state width="1748" height="265" key="GridCell.Tab.0.center/-441.-1415.2560.1415/0.25.1792.1024@0.25.1792.1024" timestamp="1638521434110" />
+    <state width="1809" height="398" key="GridCell.Tab.0.center/-441.-1415.2560.1415/0.25.1792.1026@-441.-1415.2560.1415" timestamp="1636683354489" />
+    <state width="1748" height="328" key="GridCell.Tab.0.center/-441.-1415.2560.1415/0.25.1792.1026@0.25.1792.1026" timestamp="1634723124558" />
+    <state width="1586" height="392" key="GridCell.Tab.0.center/-441.-1415.2560.1415/0.25.1792.1027@-441.-1415.2560.1415" timestamp="1636681655572" />
+    <state width="1748" height="267" key="GridCell.Tab.0.center/-441.-1415.2560.1415/0.25.1792.1027@0.25.1792.1027" timestamp="1638356474385" />
+    <state width="1809" height="351" key="GridCell.Tab.0.center/-441.-1415.2560.1415/0.25.1792.1029@-441.-1415.2560.1415" timestamp="1636708163668" />
+    <state width="1748" height="279" key="GridCell.Tab.0.center/-441.-1415.2560.1415/0.25.1792.1029@0.25.1792.1029" timestamp="1637117261950" />
+    <state width="1748" height="247" key="GridCell.Tab.0.center/-441.-1415.2560.1415/0.25.1792.1030@0.25.1792.1030" timestamp="1636630906436" />
+    <state width="1786" height="271" key="GridCell.Tab.0.center/-441.-1415.2560.1415/0.25.1792.1033@-441.-1415.2560.1415" timestamp="1636624756664" />
+    <state width="1748" height="244" key="GridCell.Tab.0.center/-441.-1415.2560.1415/0.25.1792.1033@0.25.1792.1033" timestamp="1637144443983" />
+    <state width="1748" height="244" key="GridCell.Tab.0.center/-441.-1415.2560.1415/0.25.1792.1034@0.25.1792.1034" timestamp="1637141896452" />
+    <state width="1748" height="309" key="GridCell.Tab.0.center/0.25.1792.1013@0.25.1792.1013" timestamp="1630597875926" />
+    <state width="1748" height="307" key="GridCell.Tab.0.center/0.25.1792.1019@0.25.1792.1019" timestamp="1631241411879" />
+    <state width="1748" height="309" key="GridCell.Tab.0.center/0.25.1792.1021@0.25.1792.1021" timestamp="1630594522017" />
+    <state width="1748" height="307" key="GridCell.Tab.0.center/0.25.1792.1023@0.25.1792.1023" timestamp="1631239102461" />
+    <state width="1748" height="265" key="GridCell.Tab.0.left" timestamp="1638521434109">
+      <screen x="0" y="25" width="1792" height="1024" />
+    </state>
+    <state width="1443" height="342" key="GridCell.Tab.0.left/-441.-1415.2560.1415/0.25.1792.1017@-441.-1415.2560.1415" timestamp="1634898452938" />
+    <state width="1748" height="307" key="GridCell.Tab.0.left/-441.-1415.2560.1415/0.25.1792.1017@0.25.1792.1017" timestamp="1630632245918" />
+    <state width="1748" height="312" key="GridCell.Tab.0.left/-441.-1415.2560.1415/0.25.1792.1019@-441.-1415.2560.1415" timestamp="1634896682285" />
+    <state width="1748" height="307" key="GridCell.Tab.0.left/-441.-1415.2560.1415/0.25.1792.1019@0.25.1792.1019" timestamp="1631236863039" />
+    <state width="1748" height="348" key="GridCell.Tab.0.left/-441.-1415.2560.1415/0.25.1792.1021@0.25.1792.1021" timestamp="1637315090841" />
+    <state width="1748" height="312" key="GridCell.Tab.0.left/-441.-1415.2560.1415/0.25.1792.1023@-441.-1415.2560.1415" timestamp="1634888156495" />
+    <state width="1748" height="265" key="GridCell.Tab.0.left/-441.-1415.2560.1415/0.25.1792.1023@0.25.1792.1023" timestamp="1637753810516" />
+    <state width="1639" height="353" key="GridCell.Tab.0.left/-441.-1415.2560.1415/0.25.1792.1024@-441.-1415.2560.1415" timestamp="1636715703760" />
+    <state width="1748" height="265" key="GridCell.Tab.0.left/-441.-1415.2560.1415/0.25.1792.1024@0.25.1792.1024" timestamp="1638521434109" />
+    <state width="1809" height="398" key="GridCell.Tab.0.left/-441.-1415.2560.1415/0.25.1792.1026@-441.-1415.2560.1415" timestamp="1636683354489" />
+    <state width="1748" height="328" key="GridCell.Tab.0.left/-441.-1415.2560.1415/0.25.1792.1026@0.25.1792.1026" timestamp="1634723124558" />
+    <state width="1586" height="392" key="GridCell.Tab.0.left/-441.-1415.2560.1415/0.25.1792.1027@-441.-1415.2560.1415" timestamp="1636681655572" />
+    <state width="1748" height="267" key="GridCell.Tab.0.left/-441.-1415.2560.1415/0.25.1792.1027@0.25.1792.1027" timestamp="1638356474385" />
+    <state width="1809" height="351" key="GridCell.Tab.0.left/-441.-1415.2560.1415/0.25.1792.1029@-441.-1415.2560.1415" timestamp="1636708163668" />
+    <state width="1748" height="279" key="GridCell.Tab.0.left/-441.-1415.2560.1415/0.25.1792.1029@0.25.1792.1029" timestamp="1637117261950" />
+    <state width="1748" height="247" key="GridCell.Tab.0.left/-441.-1415.2560.1415/0.25.1792.1030@0.25.1792.1030" timestamp="1636630906435" />
+    <state width="1786" height="271" key="GridCell.Tab.0.left/-441.-1415.2560.1415/0.25.1792.1033@-441.-1415.2560.1415" timestamp="1636624756664" />
+    <state width="1748" height="244" key="GridCell.Tab.0.left/-441.-1415.2560.1415/0.25.1792.1033@0.25.1792.1033" timestamp="1637144443983" />
+    <state width="1748" height="244" key="GridCell.Tab.0.left/-441.-1415.2560.1415/0.25.1792.1034@0.25.1792.1034" timestamp="1637141896451" />
+    <state width="1748" height="309" key="GridCell.Tab.0.left/0.25.1792.1013@0.25.1792.1013" timestamp="1630597875923" />
+    <state width="1748" height="307" key="GridCell.Tab.0.left/0.25.1792.1019@0.25.1792.1019" timestamp="1631241411878" />
+    <state width="1748" height="309" key="GridCell.Tab.0.left/0.25.1792.1021@0.25.1792.1021" timestamp="1630594522016" />
+    <state width="1748" height="307" key="GridCell.Tab.0.left/0.25.1792.1023@0.25.1792.1023" timestamp="1631239102460" />
+    <state width="1748" height="265" key="GridCell.Tab.0.right" timestamp="1638521434110">
+      <screen x="0" y="25" width="1792" height="1024" />
+    </state>
+    <state width="1443" height="342" key="GridCell.Tab.0.right/-441.-1415.2560.1415/0.25.1792.1017@-441.-1415.2560.1415" timestamp="1634898452939" />
+    <state width="1748" height="307" key="GridCell.Tab.0.right/-441.-1415.2560.1415/0.25.1792.1017@0.25.1792.1017" timestamp="1630632245919" />
+    <state width="1748" height="312" key="GridCell.Tab.0.right/-441.-1415.2560.1415/0.25.1792.1019@-441.-1415.2560.1415" timestamp="1634896682285" />
+    <state width="1748" height="307" key="GridCell.Tab.0.right/-441.-1415.2560.1415/0.25.1792.1019@0.25.1792.1019" timestamp="1631236863040" />
+    <state width="1748" height="348" key="GridCell.Tab.0.right/-441.-1415.2560.1415/0.25.1792.1021@0.25.1792.1021" timestamp="1637315090842" />
+    <state width="1748" height="312" key="GridCell.Tab.0.right/-441.-1415.2560.1415/0.25.1792.1023@-441.-1415.2560.1415" timestamp="1634888156496" />
+    <state width="1748" height="265" key="GridCell.Tab.0.right/-441.-1415.2560.1415/0.25.1792.1023@0.25.1792.1023" timestamp="1637753810517" />
+    <state width="1639" height="353" key="GridCell.Tab.0.right/-441.-1415.2560.1415/0.25.1792.1024@-441.-1415.2560.1415" timestamp="1636715703761" />
+    <state width="1748" height="265" key="GridCell.Tab.0.right/-441.-1415.2560.1415/0.25.1792.1024@0.25.1792.1024" timestamp="1638521434110" />
+    <state width="1809" height="398" key="GridCell.Tab.0.right/-441.-1415.2560.1415/0.25.1792.1026@-441.-1415.2560.1415" timestamp="1636683354490" />
+    <state width="1748" height="328" key="GridCell.Tab.0.right/-441.-1415.2560.1415/0.25.1792.1026@0.25.1792.1026" timestamp="1634723124559" />
+    <state width="1586" height="392" key="GridCell.Tab.0.right/-441.-1415.2560.1415/0.25.1792.1027@-441.-1415.2560.1415" timestamp="1636681655572" />
+    <state width="1748" height="267" key="GridCell.Tab.0.right/-441.-1415.2560.1415/0.25.1792.1027@0.25.1792.1027" timestamp="1638356474386" />
+    <state width="1809" height="351" key="GridCell.Tab.0.right/-441.-1415.2560.1415/0.25.1792.1029@-441.-1415.2560.1415" timestamp="1636708163668" />
+    <state width="1748" height="279" key="GridCell.Tab.0.right/-441.-1415.2560.1415/0.25.1792.1029@0.25.1792.1029" timestamp="1637117261951" />
+    <state width="1748" height="247" key="GridCell.Tab.0.right/-441.-1415.2560.1415/0.25.1792.1030@0.25.1792.1030" timestamp="1636630906437" />
+    <state width="1786" height="271" key="GridCell.Tab.0.right/-441.-1415.2560.1415/0.25.1792.1033@-441.-1415.2560.1415" timestamp="1636624756665" />
+    <state width="1748" height="244" key="GridCell.Tab.0.right/-441.-1415.2560.1415/0.25.1792.1033@0.25.1792.1033" timestamp="1637144443983" />
+    <state width="1748" height="244" key="GridCell.Tab.0.right/-441.-1415.2560.1415/0.25.1792.1034@0.25.1792.1034" timestamp="1637141896452" />
+    <state width="1748" height="309" key="GridCell.Tab.0.right/0.25.1792.1013@0.25.1792.1013" timestamp="1630597875927" />
+    <state width="1748" height="307" key="GridCell.Tab.0.right/0.25.1792.1019@0.25.1792.1019" timestamp="1631241411879" />
+    <state width="1748" height="309" key="GridCell.Tab.0.right/0.25.1792.1021@0.25.1792.1021" timestamp="1630594522017" />
+    <state width="1748" height="307" key="GridCell.Tab.0.right/0.25.1792.1023@0.25.1792.1023" timestamp="1631239102461" />
+    <state width="1748" height="279" key="GridCell.Tab.1.bottom" timestamp="1637117261952">
+      <screen x="0" y="25" width="1792" height="1029" />
+    </state>
+    <state width="1748" height="392" key="GridCell.Tab.1.bottom/-441.-1415.2560.1415/0.25.1792.1024@-441.-1415.2560.1415" timestamp="1636680552787" />
+    <state width="1748" height="328" key="GridCell.Tab.1.bottom/-441.-1415.2560.1415/0.25.1792.1024@0.25.1792.1024" timestamp="1634692386457" />
+    <state width="1809" height="398" key="GridCell.Tab.1.bottom/-441.-1415.2560.1415/0.25.1792.1026@-441.-1415.2560.1415" timestamp="1636683354491" />
+    <state width="1748" height="328" key="GridCell.Tab.1.bottom/-441.-1415.2560.1415/0.25.1792.1026@0.25.1792.1026" timestamp="1634723124560" />
+    <state width="1586" height="392" key="GridCell.Tab.1.bottom/-441.-1415.2560.1415/0.25.1792.1027@-441.-1415.2560.1415" timestamp="1636681655574" />
+    <state width="1748" height="279" key="GridCell.Tab.1.bottom/-441.-1415.2560.1415/0.25.1792.1027@0.25.1792.1027" timestamp="1637113457936" />
+    <state width="1809" height="398" key="GridCell.Tab.1.bottom/-441.-1415.2560.1415/0.25.1792.1029@-441.-1415.2560.1415" timestamp="1636708163666" />
+    <state width="1748" height="279" key="GridCell.Tab.1.bottom/-441.-1415.2560.1415/0.25.1792.1029@0.25.1792.1029" timestamp="1637117261952" />
+    <state width="1748" height="330" key="GridCell.Tab.1.bottom/-441.-1415.2560.1415/0.25.1792.1030@0.25.1792.1030" timestamp="1636630889748" />
+    <state width="1748" height="279" key="GridCell.Tab.1.center" timestamp="1637117261951">
+      <screen x="0" y="25" width="1792" height="1029" />
+    </state>
+    <state width="1748" height="392" key="GridCell.Tab.1.center/-441.-1415.2560.1415/0.25.1792.1024@-441.-1415.2560.1415" timestamp="1636680552786" />
+    <state width="1748" height="328" key="GridCell.Tab.1.center/-441.-1415.2560.1415/0.25.1792.1024@0.25.1792.1024" timestamp="1634692386456" />
+    <state width="1809" height="398" key="GridCell.Tab.1.center/-441.-1415.2560.1415/0.25.1792.1026@-441.-1415.2560.1415" timestamp="1636683354490" />
+    <state width="1748" height="328" key="GridCell.Tab.1.center/-441.-1415.2560.1415/0.25.1792.1026@0.25.1792.1026" timestamp="1634723124559" />
+    <state width="1586" height="392" key="GridCell.Tab.1.center/-441.-1415.2560.1415/0.25.1792.1027@-441.-1415.2560.1415" timestamp="1636681655573" />
+    <state width="1748" height="279" key="GridCell.Tab.1.center/-441.-1415.2560.1415/0.25.1792.1027@0.25.1792.1027" timestamp="1637113457935" />
+    <state width="1809" height="398" key="GridCell.Tab.1.center/-441.-1415.2560.1415/0.25.1792.1029@-441.-1415.2560.1415" timestamp="1636708163665" />
+    <state width="1748" height="279" key="GridCell.Tab.1.center/-441.-1415.2560.1415/0.25.1792.1029@0.25.1792.1029" timestamp="1637117261951" />
+    <state width="1748" height="330" key="GridCell.Tab.1.center/-441.-1415.2560.1415/0.25.1792.1030@0.25.1792.1030" timestamp="1636630889747" />
+    <state width="1748" height="279" key="GridCell.Tab.1.left" timestamp="1637117261951">
+      <screen x="0" y="25" width="1792" height="1029" />
+    </state>
+    <state width="1748" height="392" key="GridCell.Tab.1.left/-441.-1415.2560.1415/0.25.1792.1024@-441.-1415.2560.1415" timestamp="1636680552786" />
+    <state width="1748" height="328" key="GridCell.Tab.1.left/-441.-1415.2560.1415/0.25.1792.1024@0.25.1792.1024" timestamp="1634692386456" />
+    <state width="1809" height="398" key="GridCell.Tab.1.left/-441.-1415.2560.1415/0.25.1792.1026@-441.-1415.2560.1415" timestamp="1636683354490" />
+    <state width="1748" height="328" key="GridCell.Tab.1.left/-441.-1415.2560.1415/0.25.1792.1026@0.25.1792.1026" timestamp="1634723124559" />
+    <state width="1586" height="392" key="GridCell.Tab.1.left/-441.-1415.2560.1415/0.25.1792.1027@-441.-1415.2560.1415" timestamp="1636681655573" />
+    <state width="1748" height="279" key="GridCell.Tab.1.left/-441.-1415.2560.1415/0.25.1792.1027@0.25.1792.1027" timestamp="1637113457935" />
+    <state width="1809" height="398" key="GridCell.Tab.1.left/-441.-1415.2560.1415/0.25.1792.1029@-441.-1415.2560.1415" timestamp="1636708163665" />
+    <state width="1748" height="279" key="GridCell.Tab.1.left/-441.-1415.2560.1415/0.25.1792.1029@0.25.1792.1029" timestamp="1637117261951" />
+    <state width="1748" height="330" key="GridCell.Tab.1.left/-441.-1415.2560.1415/0.25.1792.1030@0.25.1792.1030" timestamp="1636630889747" />
+    <state width="1748" height="279" key="GridCell.Tab.1.right" timestamp="1637117261952">
+      <screen x="0" y="25" width="1792" height="1029" />
+    </state>
+    <state width="1748" height="392" key="GridCell.Tab.1.right/-441.-1415.2560.1415/0.25.1792.1024@-441.-1415.2560.1415" timestamp="1636680552786" />
+    <state width="1748" height="328" key="GridCell.Tab.1.right/-441.-1415.2560.1415/0.25.1792.1024@0.25.1792.1024" timestamp="1634692386456" />
+    <state width="1809" height="398" key="GridCell.Tab.1.right/-441.-1415.2560.1415/0.25.1792.1026@-441.-1415.2560.1415" timestamp="1636683354491" />
+    <state width="1748" height="328" key="GridCell.Tab.1.right/-441.-1415.2560.1415/0.25.1792.1026@0.25.1792.1026" timestamp="1634723124559" />
+    <state width="1586" height="392" key="GridCell.Tab.1.right/-441.-1415.2560.1415/0.25.1792.1027@-441.-1415.2560.1415" timestamp="1636681655574" />
+    <state width="1748" height="279" key="GridCell.Tab.1.right/-441.-1415.2560.1415/0.25.1792.1027@0.25.1792.1027" timestamp="1637113457936" />
+    <state width="1809" height="398" key="GridCell.Tab.1.right/-441.-1415.2560.1415/0.25.1792.1029@-441.-1415.2560.1415" timestamp="1636708163665" />
+    <state width="1748" height="279" key="GridCell.Tab.1.right/-441.-1415.2560.1415/0.25.1792.1029@0.25.1792.1029" timestamp="1637117261952" />
+    <state width="1748" height="330" key="GridCell.Tab.1.right/-441.-1415.2560.1415/0.25.1792.1030@0.25.1792.1030" timestamp="1636630889748" />
+    <state x="388" y="182" key="SettingsEditor" timestamp="1630592945221">
+      <screen x="0" y="25" width="1792" height="1026" />
+    </state>
+    <state x="388" y="180" key="SettingsEditor/0.25.1792.1010@0.25.1792.1010" timestamp="1630403436910" />
+    <state x="388" y="182" key="SettingsEditor/0.25.1792.1026@0.25.1792.1026" timestamp="1630592945221" />
+    <state x="682" y="414" key="Vcs.Push.Dialog.v2" timestamp="1638147113004">
+      <screen x="0" y="25" width="1792" height="1030" />
+    </state>
+    <state x="533" y="-880" key="Vcs.Push.Dialog.v2/-441.-1415.2560.1415/0.25.1792.1024@-441.-1415.2560.1415" timestamp="1636715653554" />
+    <state x="682" y="414" key="Vcs.Push.Dialog.v2/-441.-1415.2560.1415/0.25.1792.1030@0.25.1792.1030" timestamp="1638147113004" />
+    <state x="597" y="291" width="598" height="491" key="find.popup" timestamp="1637138088507">
+      <screen x="0" y="25" width="1792" height="1024" />
+    </state>
+    <state x="597" y="291" width="597" height="490" key="find.popup/-441.-1415.2560.1415/0.25.1792.1024@0.25.1792.1024" timestamp="1635128908028" />
+    <state x="597" y="292" width="597" height="491" key="find.popup/-441.-1415.2560.1415/0.25.1792.1026@0.25.1792.1026" timestamp="1635919094160" />
+    <state x="597" y="292" width="597" height="490" key="find.popup/-441.-1415.2560.1415/0.25.1792.1027@0.25.1792.1027" timestamp="1633932842737" />
+    <state x="412" y="-1047" width="853" height="678" key="find.popup/-441.-1415.2560.1415/0.25.1792.1029@-441.-1415.2560.1415" timestamp="1636617193639" />
+    <state x="597" y="291" width="598" height="491" key="find.popup/0.25.1792.1024@0.25.1792.1024" timestamp="1637138088507" />
+    <state x="642" y="-825" key="git4idea.merge.GitPullDialog" timestamp="1634779673952">
+      <screen x="-441" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="642" y="-825" key="git4idea.merge.GitPullDialog/-441.-1415.2560.1415/0.25.1792.1024@-441.-1415.2560.1415" timestamp="1634779673952" />
   </component>
   <component name="masterDetails">
     <states>

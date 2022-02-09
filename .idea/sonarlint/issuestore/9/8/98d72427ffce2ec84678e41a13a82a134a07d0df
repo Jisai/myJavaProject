@@ -1,0 +1,40 @@
+
+E
+java:S3740>"/Provide the parametrized type for this generic.(åÁÑ
+q
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÚóÏ©úÿÿÿÿ
+X
+java:S1854"=Remove this useless assignment to local variable "hashtable".(ÚóÏ©úÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "hashMap".(°Š•éùÿÿÿÿ
+G
+java:S1481",Remove this unused "hashMap" local variable.(°Š•éùÿÿÿÿ
+I
+java:S1481".Remove this unused "hashtable" local variable.(ÚóÏ©úÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(Õå«Œøÿÿÿÿ
+D
+java:S19058")Remove this unnecessary cast to "Object".(¨¸¼ùÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(Ò–°É
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(¦§¥
+M	java:S106Q"9Replace this use of System.out or System.err by a logger.(éœD
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(ÉÄÈİşÿÿÿÿ
+\
+java:S1612S"AReplace this lambda with method reference 'removeList::contains'.(ËÃÕšıÿÿÿÿ
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(ñ·ªü
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(Í¹èï
+J
+java:S2864d"4Iterate over the "entrySet" instead of the "keySet".(ÄÖº
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(ŞÆ­Ûşÿÿÿÿ
+S	java:S106z"9Replace this use of System.out or System.err by a logger.(Âô°¦şÿÿÿÿ
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ë­Èûÿÿÿÿ
+O	java:S106‹"9Replace this use of System.out or System.err by a logger.(·«Òâ
+O	java:S106—"9Replace this use of System.out or System.err by a logger.(Äñ¼ 
+o
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(úÁşŒ
+o
+java:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶é½ä
+2
+java:S1643f"Use a StringBuilder instead.(šóàë
+2
+java:S1643i"Use a StringBuilder instead.(…Î³§
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üÈãÇÿÿÿÿÿ

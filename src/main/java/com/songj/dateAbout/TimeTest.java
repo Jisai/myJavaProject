@@ -31,8 +31,9 @@ public class TimeTest {
 
         long ms = TimeUnit.MILLISECONDS.toMillis(milliseconds)
                 - TimeUnit.SECONDS.toMillis(TimeUnit.MILLISECONDS.toSeconds(milliseconds));
+        
 
-        System.out.println("milliseconds :-" + milliseconds);
+        System.out.println("milliseconds :" + milliseconds);
         System.out.println(String.format("%d Days %d Hours %d Minutes %d Seconds %d Milliseconds", day, hours, minutes, seconds, ms));
 
     }
@@ -42,6 +43,8 @@ public class TimeTest {
         long ltime = 53235L;
         LocalTime lt2 = LocalTime.ofSecondOfDay(ltime);
         System.out.println(lt2);
+        System.out.println(System.currentTimeMillis());
+        System.out.println(System.nanoTime());
 
     }
 

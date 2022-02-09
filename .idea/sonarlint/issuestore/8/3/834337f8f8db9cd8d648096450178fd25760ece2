@@ -1,0 +1,34 @@
+
+H
+java:S1135"2Complete the task associated to this TODO comment.(Üð£Å
+]	java:S125"<This block of commented-out lines of code should be removed.(€ºî“øÿÿÿÿ8é”žªË/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¡íòµûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(íà¾¿
+S	java:S106"9Replace this use of System.out or System.err by a logger.(é«µ øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(—Ú½¶ýÿÿÿÿ
+f	java:S128/"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ
+f	java:S128-"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅÞúÿÿÿÿ
+f	java:S128+"LEnd this switch case with an unconditional break, return or throw statement.(£Þ¾Ëþÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ÞñÂÏ
+M	java:S106."9Replace this use of System.out or System.err by a logger.(¸ØïU
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(Ýè¬øÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(äö•ßÿÿÿÿÿ
+f	java:S128@"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ
+f	java:S128>"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅÞúÿÿÿÿ
+f	java:S128<"LEnd this switch case with an unconditional break, return or throw statement.(£Þ¾Ëþÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(ÞñÂÏ
+M	java:S106?"9Replace this use of System.out or System.err by a logger.(¸ØïU
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(Ýè¬øÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(ß®Þ£ýÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(äö•ßÿÿÿÿÿ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(ËÓ‚úþÿÿÿÿ
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(™¿Ä·
+C
+java:S1144("-Remove this unused private "method02" method.(¡³ëØ
+C
+java:S11449"-Remove this unused private "method03" method.(ÍàûÑ
+O
+java:S1144I"-Remove this unused private "method04" method.(†Æž™þÿÿÿÿ8ñ”žªË/
+c
+java:S1192"HDefine a constant instead of duplicating this literal "default" 3 times.(—Ú½¶ýÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥Óˆ‹

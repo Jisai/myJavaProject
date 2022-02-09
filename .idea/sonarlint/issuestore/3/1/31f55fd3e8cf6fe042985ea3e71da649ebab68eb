@@ -1,49 +1,48 @@
 
-csquid:S2184’"FCast one of the operands of this multiplication operation to a "long".(½Ëìşÿÿÿÿ
-zsquid:S1192%"cDefine a constant instead of duplicating this literal " æ¬¡æ£€æµ‹ç»“æœï¼šçº¿ç¨‹åç§° - " 3 times.(ˆô Û
-qsquid:S1192%"ZDefine a constant instead of duplicating this literal " ï¼›çº¿ç¨‹è¿è¡ŒçŠ¶æ€ - " 3 times.(ˆô Û
-psquid:S1192*"YDefine a constant instead of duplicating this literal "ä¸»çº¿ç¨‹æ‰§è¡Œå®Œæ¯•ã€‚" 3 times.(¼ø‰ñ
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(áİ˜ïüÿÿÿÿ
-gsquid:CommentedOutCodeLine]"<This block of commented-out lines of code should be removed.(—±ì„øÿÿÿÿ
-gsquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
-gsquid:CommentedOutCodeLinem"<This block of commented-out lines of code should be removed.(«ñı¹úÿÿÿÿ
-O
-squid:S106%"9Replace this use of System.out or System.err by a logger.(ˆô Û
-O
-squid:S106*"9Replace this use of System.out or System.err by a logger.(¼ø‰ñ
-O
-squid:S1065"9Replace this use of System.out or System.err by a logger.(×ŠÄ
-O
-squid:S106@"9Replace this use of System.out or System.err by a logger.(ˆô Û
-O
-squid:S106E"9Replace this use of System.out or System.err by a logger.(¼ø‰ñ
-O
-squid:S106O"9Replace this use of System.out or System.err by a logger.(ˆô Û
-O
-squid:S106T"9Replace this use of System.out or System.err by a logger.(¼ø‰ñ
-U
-squid:S106€"9Replace this use of System.out or System.err by a logger.(æ¶èÁûÿÿÿÿ
-P
-squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(Ÿ²ˆò
-O
-squid:S106”"9Replace this use of System.out or System.err by a logger.(Êâ8
-O
-squid:S106•"9Replace this use of System.out or System.err by a logger.(«•¿g
-ssquid:S1488d"\Immediately return this expression instead of assigning it to the temporary variable "list".(Ñ®å¥
-Asquid:S2140‹")Use "java.util.Random.nextInt()" instead.(ñÎ¾Ç
-Fsquid:S2140")Use "java.util.Random.nextInt()" instead.(â³í×ıÿÿÿÿ
-]squid:S2142&"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-]squid:S21426"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-]squid:S2142A"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-]squid:S2142P"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-]squid:S2142z"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-Dsquid:S1604/"(Make this anonymous inner class a lambda(ĞˆÓ˜ûÿÿÿÿ
-[squid:S1854u"?Remove this useless assignment to local variable "batchResult".(®ø†¶ÿÿÿÿÿ
-asquid:S2147|"ECombine this catch with the one at line 122, which has the same body.(åşŒóùÿÿÿÿ
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘ƒ•µüÿÿÿÿ
-?squid:S1148'"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-?squid:S11487"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-?squid:S1148B"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-?squid:S1148Q"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-?squid:S1148{"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-?squid:S1148}"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Q
+java:S3740a"/Provide the parametrized type for this generic.(‡Éëüÿÿÿÿ8ôÃ£Î/
+]	java:S125"<This block of commented-out lines of code should be removed.(áİ˜ïüÿÿÿÿ8øÃ£Î/
+{
+java:S2142&"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8üÃ£Î/
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ˆô Û8ıÃ£Î/
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(¼ø‰ñ8şÃ£Î/
+{
+java:S21426"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8€Ä£Î/
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(×ŠÄ8Ä£Î/
+{
+java:S2142A"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8‚Ä£Î/
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(ˆô Û8‚Ä£Î/
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(¼ø‰ñ8ƒÄ£Î/
+{
+java:S2142P"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8„Ä£Î/
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(ˆô Û8…Ä£Î/
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(¼ø‰ñ8†Ä£Î/
+a
+java:S1854u"?Remove this useless assignment to local variable "batchResult".(®ø†¶ÿÿÿÿÿ8‡Ä£Î/
+]	java:S125]"<This block of commented-out lines of code should be removed.(—±ì„øÿÿÿÿ8ˆÄ£Î/
+]	java:S125k"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8ŠÄ£Î/
+g
+java:S2147|"ECombine this catch with the one at line 122, which has the same body.(åşŒóùÿÿÿÿ8‹Ä£Î/
+{
+java:S2142z"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ŒÄ£Î/
+[	java:S106€"9Replace this use of System.out or System.err by a logger.(æ¶èÁûÿÿÿÿ8Ä£Î/
+V	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(Ÿ²ˆò8Ä£Î/
+G
+java:S2140‹")Use "java.util.Random.nextInt()" instead.(ñÎ¾Ç8Ä£Î/
+L
+java:S2140")Use "java.util.Random.nextInt()" instead.(â³í×ıÿÿÿÿ8Ä£Î/
+U	java:S106”"9Replace this use of System.out or System.err by a logger.(Êâ88‘Ä£Î/
+U	java:S106•"9Replace this use of System.out or System.err by a logger.(«•¿g8‘Ä£Î/
+€
+java:S1192%"cDefine a constant instead of duplicating this literal " æ¬¡æ£€æµ‹ç»“æœï¼šçº¿ç¨‹åç§° - " 3 times.(ˆô Û8’Ä£Î/
+w
+java:S1192%"ZDefine a constant instead of duplicating this literal " ï¼›çº¿ç¨‹è¿è¡ŒçŠ¶æ€ - " 3 times.(ˆô Û8’Ä£Î/
+v
+java:S1192*"YDefine a constant instead of duplicating this literal "ä¸»çº¿ç¨‹æ‰§è¡Œå®Œæ¯•ã€‚" 3 times.(¼ø‰ñ8“Ä£Î/
+J
+java:S1604/"(Make this anonymous inner class a lambda(ĞˆÓ˜ûÿÿÿÿ8”Ä£Î/
+y
+java:S1488d"\Immediately return this expression instead of assigning it to the temporary variable "list".(Ñ®å¥8•Ä£Î/
+i
+java:S2184’"FCast one of the operands of this multiplication operation to a "long".(½Ëìşÿÿÿÿ8–Ä£Î/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘ƒ•µüÿÿÿÿ8–Ä£Î/

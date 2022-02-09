@@ -1,0 +1,38 @@
+
+H
+java:S1135"2Complete the task associated to this TODO comment.(Üð£Å
+V	java:S125"<This block of commented-out lines of code should be removed.(Ž¦‰ÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÊÉùÙ
+Q
+java:S1854"6Remove this useless assignment to local variable "al".(¢ïÍšþÿÿÿÿ
+B
+java:S1481"'Remove this unused "al" local variable.(¢ïÍšþÿÿÿÿ
+7
+java:S2111&"!Use "BigDecimal.valueOf" instead.(¹¤ÏÖ
+<
+java:S2111'"!Use "BigDecimal.valueOf" instead.(³ýöŒøÿÿÿÿ
+7
+java:S2111("!Use "BigDecimal.valueOf" instead.(•þ„Å
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ÙæÚ‘
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(Ž²óÿÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(¡ŒÂßøÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(¤ÒŠüüÿÿÿÿ
+M	java:S106:"9Replace this use of System.out or System.err by a logger.(ó–â
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(®³ðä
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(×¾ŒÈýÿÿÿÿ
+E
+java:S2200E"/Only the sign of the result should be examined.(±ìƒ±
+E
+java:S2200E"/Only the sign of the result should be examined.(±ìƒ±
+E
+java:S2200E"/Only the sign of the result should be examined.(±ìƒ±
+E
+java:S2200H"/Only the sign of the result should be examined.(¦‚µ½
+E
+java:S2200K"/Only the sign of the result should be examined.(Š×÷ý
+E
+java:S2200N"/Only the sign of the result should be examined.(Õ‘°Ì
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ
+[
+java:S1144B"ERemove this unused private "isAccordWithEffectCutTimeOverLap" method.(¶äÊý
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëû´ˆÿÿÿÿÿ

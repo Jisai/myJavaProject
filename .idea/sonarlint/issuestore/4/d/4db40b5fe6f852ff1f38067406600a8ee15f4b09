@@ -1,0 +1,17 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(Ä–ØÕüÿÿÿÿ
+[
+java:S1854"@Remove this useless assignment to local variable "userListBack".(›Ÿù¢ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·Ï‚´úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(êİ”Œ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Û¹ÔÂøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÎÎ®
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Îú­Şüÿÿÿÿ
+[
+java:S1854("@Remove this useless assignment to local variable "userListBack".(›Ÿù¢ùÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(·Ï‚´úÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(êİ”Œ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(Û¹ÔÂøÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ÊÎÎ®
+N
+java:S1144"3Remove this unused private "filterMethod01" method.(„‚¾œøÿÿÿÿ

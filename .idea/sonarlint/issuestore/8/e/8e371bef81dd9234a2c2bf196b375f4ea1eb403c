@@ -1,62 +1,0 @@
-
-O
-squid:S106^"9Replace this use of System.out or System.err by a logger.(¢Øì
-[
-squid:S1063"9Replace this use of System.out or System.err by a logger.(ò‰Åÿıÿÿÿÿ8µ¢¸ğ«/
-T
-squid:S106j"9Replace this use of System.out or System.err by a logger.(‹¬¹ùÿÿÿÿ
-T
-squid:S1061"9Replace this use of System.out or System.err by a logger.(ŒÚÎ£ùÿÿÿÿ
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(İ†Ñ¯ùÿÿÿÿ8ÓÑ¼ğ«/
-V
-squid:S106`"9Replace this use of System.out or System.err by a logger.(•‹ÍÃ8µ¢¸ğ«/
-N
-squid:S106i"9Replace this use of System.out or System.err by a logger.(ö×é
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÄÉ©Ğ8µ¢¸ğ«/
->squid:S2129 " Remove this "String" constructor(ğœÂ¿8µ¢¸ğ«/
-O
-squid:S106\"9Replace this use of System.out or System.err by a logger.(ƒÑŒ¹
-osquid:S3776p"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ğš¨8µ¢¸ğ«/
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëû´ˆÿÿÿÿÿ
-isquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(Í•Ş¯8µ¢¸ğ«/
-psquid:S00117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÇÔ‘8µ¢¸ğ«/
-W
-squid:S106‘"9Replace this use of System.out or System.err by a logger.(ÉıÚğ8µ¢¸ğ«/
-[
-squid:S106M"9Replace this use of System.out or System.err by a logger.(ü…„ıÿÿÿÿ8µ¢¸ğ«/
-T
-squid:S106]"9Replace this use of System.out or System.err by a logger.(ûµÈÄşÿÿÿÿ
-isquid:S00117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¼¿º
->squid:S2129%" Remove this "String" constructor(…ƒêé8µ¢¸ğ«/
-[
-squid:S106l"9Replace this use of System.out or System.err by a logger.(çÌ§øÿÿÿÿ8µ¢¸ğ«/
-Lsquid:S2201I"/The return value of "toCharArray" must be used.(ãßó^8µ¢¸ğ«/
-Rsquid:EmptyStatementUsageCheckl"Remove this empty statement.(çÌ§øÿÿÿÿ8µ¢¸ğ«/
-\
-squid:S106"9Replace this use of System.out or System.err by a logger.(©Šä¿ûÿÿÿÿ8µ¢¸ğ«/
-\
-squid:S106˜"9Replace this use of System.out or System.err by a logger.( ´¿Áıÿÿÿÿ8µ¢¸ğ«/
-[
-squid:S106("9Replace this use of System.out or System.err by a logger.(Ú®†Œúÿÿÿÿ8µ¢¸ğ«/
-U
-squid:S106<"9Replace this use of System.out or System.err by a logger.(‚š‰18µ¢¸ğ«/
-csquid:S2259˜"?A "NullPointerException" could be thrown; "a" is nullable here.( ´¿Áıÿÿÿÿ8µ¢¸ğ«/
-O
-squid:S106k"9Replace this use of System.out or System.err by a logger.(©ş÷„
-isquid:S00117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¡÷¶
-Fsquid:S1481N"(Remove this unused "sub" local variable.(‚Éáğ8µ¢¸ğ«/
-[
-squid:S106#"9Replace this use of System.out or System.err by a logger.(şùÁûúÿÿÿÿ8µ¢¸ğ«/
-Fsquid:S2201H"*The return value of "length" must be used.(ŠïÖ¬üÿÿÿÿ
->squid:S2129%" Remove this "String" constructor(…ƒêé8µ¢¸ğ«/
-nsquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(ë¦Ú¤üÿÿÿÿ8µ¢¸ğ«/
-O
-squid:S106_"9Replace this use of System.out or System.err by a logger.(…œŒ
-T
-squid:S1062"9Replace this use of System.out or System.err by a logger.(¿ËÏ÷ıÿÿÿÿ
-Usquid:S1854N"7Remove this useless assignment to local variable "sub".(‚Éáğ8µ¢¸ğ«/
-T
-squid:S106["9Replace this use of System.out or System.err by a logger.(ÏÚÚÓÿÿÿÿÿ
-:squid:S3626†"Remove this redundant jump.(ÉŠ©ƒ8µ¢¸ğ«/

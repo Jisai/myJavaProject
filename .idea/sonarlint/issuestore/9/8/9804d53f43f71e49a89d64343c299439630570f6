@@ -1,0 +1,31 @@
+
+y
+java:S4144B"^Update this method so that its implementation is not identical to "sortMethod01_2" on line 48.(¾­ß¯şÿÿÿÿ
+c	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¼¥Î
+W
+java:S18545"<Remove this useless assignment to local variable "conditon".(Å‹€×ùÿÿÿÿ
+H
+java:S14814"2Remove this unused "compareResult" local variable.(¢Ú”š
+H
+java:S14815"-Remove this unused "conditon" local variable.(Å‹€×ùÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(Øúİüÿÿÿÿ
+W
+java:S1854G"<Remove this useless assignment to local variable "conditon".(Å‹€×ùÿÿÿÿ
+H
+java:S1481F"2Remove this unused "compareResult" local variable.(¢Ú”š
+H
+java:S1481G"-Remove this unused "conditon" local variable.(Å‹€×ùÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(Øúİüÿÿÿÿ
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(¾ù±Şùÿÿÿÿ
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(‘–œé
+>
+java:S1604"(Make this anonymous inner class a lambda(á¸¬
+>
+java:S16041"(Make this anonymous inner class a lambda(á¸¬
+>
+java:S1604C"(Make this anonymous inner class a lambda(á¸¬
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷í¤‚úÿÿÿÿ
+›
+java:S1862#"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(·¡é‹
+Z
+java:S2583#"DChange this condition so that it does not always evaluate to "false"(·¡é‹

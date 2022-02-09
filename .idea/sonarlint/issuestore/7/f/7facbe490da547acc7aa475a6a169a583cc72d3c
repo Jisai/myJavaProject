@@ -1,5 +1,4 @@
 
-isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ðòç‰8ŽÃˆµ±/
-esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ê“‹ñ
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ8ŽÃˆµ±/
+X	java:S125"<This block of commented-out lines of code should be removed.(Ðòç‰8šºŽÑ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ8ŸºŽÑ/
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ê“‹ñ8¡ºŽÑ/

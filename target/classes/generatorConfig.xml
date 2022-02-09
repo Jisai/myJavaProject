@@ -17,8 +17,9 @@
 		</commentGenerator>
 		<!--数据库连接的信息：驱动类、连接地址、用户名、密码 -->
 		<jdbcConnection driverClass="com.mysql.jdbc.Driver"
-			connectionURL="jdbc:mysql:replication://mysql.aixuexi.com:3306,mysql.aixuexi.com:3306/crm" userId="test"
-			password="test123">
+			connectionURL="jdbc:mysql://rm-2zee7orv657rc2xsy.mysql.rds.aliyuncs.com:3306/c10-touch-sit?useUnicode=true&amp;characterEncoding=utf8&amp;useSSL=false&amp;allowMultiQueries=true"
+						userId="dbadmin"
+						password="1qaz!QAZ">
 		</jdbcConnection>
 
 
@@ -54,17 +55,7 @@
 			<property name="enableSubPackages" value="false" />
 		</javaClientGenerator>
 		<!-- 指定数据库表 -->
-		<table tableName="dictionary" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
-		<table tableName="ins_portrait_field" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
-		<table tableName="ins_portrait" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
-		<table tableName="ins_campus" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
-		<table tableName="ins_subject_teacher" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
-		<table tableName="ins_subject_material" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
-		<table tableName="ins_organization" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
-		<table tableName="ins_kp" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
-		<table tableName="ins_teacher_age_info" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
-		<table tableName="ins_student_num_info" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
-		<table tableName="ins_portrait_finish_rate" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
+		<table tableName="touch_info_content_template" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
 
 	</context>
 </generatorConfiguration>

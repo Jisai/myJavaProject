@@ -11,19 +11,19 @@ public class SwitchAboutLearn {
 
     public static void main(String[] args) {
         SwitchAboutLearn object= new SwitchAboutLearn();
-//        object.method01();
+        object.method01();
 //        object.method02();
 //        object.method03();
-        object.method04();
+//        object.method04();
 
     }
 
 
     /**
-     * 输出：default
+     * 输出：0
      */
     private void method01(){
-        int i = 5;
+        int i = 0;
         switch(i){
             case 0: System.out.println("0");break;
             case 1: System.out.println("1");break;

@@ -1,6 +1,6 @@
 package com.songj.algorithm.JianzhiOffer;
 
-import com.songj.bean.ListNode;
+import com.songj.model.po.ListNode;
 
 /**
  * @ClassNamee: Topic_25

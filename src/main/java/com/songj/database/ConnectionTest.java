@@ -1,10 +1,8 @@
 package com.songj.database;
 
-import com.songj.bean.UserInfoDO;
+import com.songj.model.UserInfoDO;
 import com.songj.jsonAbout.JSONUtil;
 import com.songj.util.JDBCUtils;
-import org.junit.After;
-import org.junit.Before;
 import org.junit.Test;
 
 import java.sql.*;

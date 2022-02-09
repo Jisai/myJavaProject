@@ -1,10 +1,6 @@
 package com.songj.algorithm.leetcode;
 
 
-import com.alibaba.fastjson.JSON;
-import com.songj.bean.ListNode;
-import org.junit.Test;
-
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;

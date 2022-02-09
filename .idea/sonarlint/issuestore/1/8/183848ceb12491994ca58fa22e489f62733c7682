@@ -1,0 +1,37 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(‘…©þ
+E
+java:S3740"/Provide the parametrized type for this generic.(Ý…é½
+P	java:S125"<This block of commented-out lines of code should be removed.(¦òÑA
+2
+java:S2326"T is not used in the method.(‘…©þ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(Õ†›èùÿÿÿÿ
+O
+java:S2130("9Use "Integer.parseInt" for this string-to-int conversion.(…Ñ˜†
+T
+java:S2130)"9Use "Integer.parseInt" for this string-to-int conversion.(óÂÅ°ÿÿÿÿÿ
+N
+java:S2130="8Use "Long.parseLong" for this string-to-long conversion.(¢³þ»
+S
+java:S2130>"8Use "Long.parseLong" for this string-to-long conversion.(Þš„Òýÿÿÿÿ
+E
+java:S1197X"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ
+Q	java:S125]"<This block of commented-out lines of code should be removed.(¿å¿Ê
+G
+java:S3599z",Use another way to initialize this instance.(ž‘•õúÿÿÿÿ
+t
+java:S1171{"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+N	java:S106Š"9Replace this use of System.out or System.err by a logger.(¯ÁÆ}
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(ýØ±üÿÿÿÿ
+m
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÒñÆüÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÒñÆüÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ýØ±üÿÿÿÿ
+F
+java:S1144\"+Remove this unused private "method" method.(¬ëó†ýÿÿÿÿ
+s	java:S135 "YReduce the total number of break and continue statements in this loop to use at most one.(òÎ¤Øþÿÿÿÿ
+Q
+java:S4973J"<Strings and Boxed types should be compared using "equals()".(ˆ½,
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ç÷¨µ

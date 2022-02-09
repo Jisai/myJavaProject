@@ -1,6 +1,6 @@
 package com.songj.agent;
 
-import com.songj.bean.Employee;
+import com.songj.model.po.Employee;
 import org.junit.Test;
 
 /**
