@@ -1,5 +1,7 @@
 package com.songj.algorithm.leetcode;
 
+import org.junit.Test;
+
 import java.util.Arrays;
 
 /**
@@ -11,13 +13,27 @@ import java.util.Arrays;
  **/
 public class Topic_88 {
 
+    @Test
+    public void test(){
+        int[] arr = {1,2,3,4,5,6};
+        int i = 5;
+        System.out.println(arr[i--]);
+        System.out.println(i);
+    }
+
+
+
+
     public static void main(String[] args) {
-        int[] nums1 = {1,2,3,0,0,0};
-        int m = 3;
-        int[] nums2 = {2,5,6};
-        int n = 3;
-        System.out.println(Arrays.toString(method_1(nums1, m, nums2, n)));
+//        int[] nums1 = {1,2,3,0,0,0};
+//        int m = 3;
+        int[] nums1 = {0};
+        int m = 0;
+        int[] nums2 = {1};
+        int n = 1;
+//        System.out.println(Arrays.toString(method_1(nums1, m, nums2, n)));
 //        System.out.println(Arrays.toString(method_2(nums1, m, nums2, n)));
+        System.out.println(Arrays.toString(method_3(nums1, m, nums2, n)));
     }
 
     /**
@@ -117,6 +133,21 @@ public class Topic_88 {
         return nums1;
     }
 
-
+    public  static int[] method_4(int[] nums1, int m, int[] nums2, int n){
+        int i = m + n -1;
+        m--;
+        n--;
+        while(n >= 0){
+            if(m>=0 && nums1[m]>nums2[n]){
+                nums1[i] = nums1[m];
+                m--;
+            }else{
+                nums1[i] = nums2[n];
+                n--;
+            }
+            i--;
+        }
+        return nums1;
+    }
 
 }

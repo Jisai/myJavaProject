@@ -10,6 +10,7 @@ package com.songj.threadAbout.demo01.multipleThread;
 public class MainThreadDemo {
 
     public static void main(String[] args) {
+        System.out.println("CPU核数 = " + Runtime.getRuntime().availableProcessors());
         test1();
     }
 

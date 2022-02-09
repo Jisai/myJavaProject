@@ -22,7 +22,8 @@ public class Topic_21 {
         L2.next.next.next = new ListNode();
 
         Topic_21 solution6 = new Topic_21();
-        solution6.mergeTwoLists(L1, L2);
+//        solution6.mergeTwoLists(L1, L2);
+        solution6.mergeTwoLists_3(L1, L2);
     }
 
 
@@ -66,6 +67,7 @@ public class Topic_21 {
         ListNode prehead = new ListNode(-1);
 
         ListNode prev = prehead;
+
         while (l1 != null && l2 != null) {
             if (l1.val <= l2.val) {
                 prev.next = l1;

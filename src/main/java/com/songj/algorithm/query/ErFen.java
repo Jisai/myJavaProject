@@ -1,7 +1,5 @@
 package com.songj.algorithm.query;
 
-import org.junit.Test;
-
 import java.math.BigDecimal;
 import java.util.Map;
 
@@ -16,15 +14,6 @@ import java.util.Map;
  * @Version: 1.0
  **/
 public class ErFen {
-
-    @Test
-    public void testMain(){
-
-    }
-
-
-
-
 
 
     /**

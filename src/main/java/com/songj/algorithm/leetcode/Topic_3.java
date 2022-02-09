@@ -3,7 +3,9 @@ package com.songj.algorithm.leetcode;
 
 import com.alibaba.fastjson.JSON;
 
+import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Map;
 import java.util.Set;
 
 /**
@@ -15,49 +17,13 @@ import java.util.Set;
  **/
 public class Topic_3 {
 
-
     public static void main(String[] args) {
         //测试用例为：1. 空字符串；2. 都是一个字符的字符串；3. 随机字符串。
-        String str = "abcabcbb";
+//        String str = "abacbcbb";
 //        String str = "abcdde";
+        String str = " ";
         System.out.println(method_1(str));;
     }
-
-
-    public int lengthOfLongestSubstring(String s) {
-        Set<Character> charSet = new HashSet<>();
-        int res = 0;
-        int left = 0;
-        int right = 0;
-        while(right < s.length()){
-            char c = s.charAt(right);
-            if(charSet.contains(c)){
-                charSet.remove(s.charAt(left));
-                left ++;
-            }else{
-                charSet.add(c);
-                right ++;
-            }
-            res = Math.max(res, charSet.size());
-        }
-        return res;
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     /**
@@ -92,35 +58,19 @@ public class Topic_3 {
         return ans;
     }
 
-    //有错误，待研究
-    public static int method_2(String s){
-        StringBuffer sb = new StringBuffer();
-        int result = 0;
+    private static int method_2(String s){
+        if (s.length()==0){ return 0;}
+        HashMap<Character, Integer> map = new HashMap<Character, Integer>();
+        int max = 0;
         int left = 0;
-        int right = 0;
-        while (right < s.length()){
-            char ch = s.charAt(right);
-            if(right == 0){
-                //特殊处理只有一个字符情况。
-                result = 1;
+        for(int i = 0; i < s.length(); i ++){
+            if(map.containsKey(s.charAt(i))){
+                left = Math.max(left,map.get(s.charAt(i)) + 1);
             }
-            int start = sb.indexOf(String.valueOf(ch));
-            if(start < 0){
-                //目前没有重复
-                sb.append(ch);
-                right ++;
-            }else {
-                //出现重复
-                String str = sb.toString();
-                System.out.println(left + "||" + str);
-                String sub = str.substring(start, str.length());
-                result = Math.max(result, sub.length());
-                left ++;
-                right ++;
-            }
+            map.put(s.charAt(i),i);
+            max = Math.max(max,i-left+1);
         }
-        return result;
+        return max;
+
     }
-
-
 }
