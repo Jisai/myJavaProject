@@ -1,48 +1,54 @@
 
-`	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(¹æˆšüÿÿÿÿ
-—
-java:S1186œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(û»îX
-H
-java:S1135"2Complete the task associated to this TODO comment.(Üð£Å
-Q	java:S125"<This block of commented-out lines of code should be removed.(¬ùî
-M	java:S106B"9Replace this use of System.out or System.err by a logger.(ËÃ·6
-Q	java:S1259"<This block of commented-out lines of code should be removed.(•àáû
-S	java:S106C"9Replace this use of System.out or System.err by a logger.(³‘èêüÿÿÿÿ
-S	java:S106D"9Replace this use of System.out or System.err by a logger.(ïüì°üÿÿÿÿ
-S	java:S106G"9Replace this use of System.out or System.err by a logger.(‰±ÍÁýÿÿÿÿ
-N	java:S106R"9Replace this use of System.out or System.err by a logger.(™’¡Ð
-V	java:S125J"<This block of commented-out lines of code should be removed.(¢æíûÿÿÿÿ
-S	java:S106S"9Replace this use of System.out or System.err by a logger.(³‘èêüÿÿÿÿ
-N	java:S106T"9Replace this use of System.out or System.err by a logger.(Ûå©Æ
-N	java:S106W"9Replace this use of System.out or System.err by a logger.(÷—žÎ
-M	java:S106`"9Replace this use of System.out or System.err by a logger.(ƒÚáB
-S	java:S106a"9Replace this use of System.out or System.err by a logger.(ÿƒÿÿÿÿÿ
-S	java:S106b"9Replace this use of System.out or System.err by a logger.(Ç³´Úÿÿÿÿÿ
-M	java:S106l"9Replace this use of System.out or System.err by a logger.(ƒÚáB
-N	java:S106m"9Replace this use of System.out or System.err by a logger.(öÁ£
-S	java:S106n"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ
-S	java:S106w"9Replace this use of System.out or System.err by a logger.(’˜ÌÒúÿÿÿÿ
-S	java:S106x"9Replace this use of System.out or System.err by a logger.(ÀåçÐÿÿÿÿÿ
-S	java:S106y"9Replace this use of System.out or System.err by a logger.(éê”Šûÿÿÿÿ
-O	java:S106€"9Replace this use of System.out or System.err by a logger.(Š‰çÞ
-T	java:S106’"9Replace this use of System.out or System.err by a logger.(Ðö¶žüÿÿÿÿ
-[	java:S106”"9Replace this use of System.out or System.err by a logger.(°Áƒ‹ûÿÿÿÿ8Á«‘û×/
-L
-java:S1751•"5Remove this "break" statement or make it conditional.(›ûä·
+Ysquid:S1143Œ"5Remove this return statement from this finally block.(˜¼©¤þÿÿÿÿ8ÏÆûÈ³/
 [
-java:S1128"9Remove this unused import 'cn.hutool.core.date.DateUtil'.(‹œ‰Áýÿÿÿÿ8ÊÚû×/
-T
-java:S1128"7Remove this unused import 'cn.hutool.http.HttpRequest'.(º³øä8£ìòû×/
-Q
-java:S1128"4Remove this unused import 'cn.hutool.json.JSONUtil'.( «ý¢8¤ìòû×/
-H
-java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8ÊÚû×/
-P
-java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8¤ìòû×/
-L
-java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8¤ìòû×/
-A
-java:S5960c"+Remove this assertion from production code.(¯½òù
-Q
-java:S1143Š"5Remove this return statement from this finally block.(˜¼©¤þÿÿÿÿ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ú÷Ÿÿ
+squid:S106p"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ8ÏÆûÈ³/
+\
+squid:S106”"9Replace this use of System.out or System.err by a logger.(Ðö¶žüÿÿÿÿ8àõîÈ³/
+isquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(•àáû8àõîÈ³/
+nsquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(¢æíûÿÿÿÿ8ÏÆûÈ³/
+V
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(÷—žÎ8ÏÆûÈ³/
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8Â¨Ãƒà/
+[
+squid:S106c"9Replace this use of System.out or System.err by a logger.(ÿƒÿÿÿÿÿ8ÏÆûÈ³/
+nsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(Ä×Èìûÿÿÿÿ8ÏÆûÈ³/
+U
+squid:S106n"9Replace this use of System.out or System.err by a logger.(ƒÚáB8àõîÈ³/
+W
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(Š‰çÞ8ÏÆûÈ³/
+V
+squid:S106o"9Replace this use of System.out or System.err by a logger.(öÁ£8ÏÆûÈ³/
+nsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(¢›ÿ¾øÿÿÿÿ8ÏÆûÈ³/
+U
+squid:S106b"9Replace this use of System.out or System.err by a logger.(ƒÚáB8àõîÈ³/
+[
+squid:S106E"9Replace this use of System.out or System.err by a logger.(³‘èêüÿÿÿÿ8ÏÆûÈ³/
+Gsquid:S1135"2Complete the task associated to this TODO comment.(Üð£Å
+nsquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(ó›ÝØûÿÿÿÿ8ÏÆûÈ³/
+[
+squid:S106I"9Replace this use of System.out or System.err by a logger.(‰±ÍÁýÿÿÿÿ8ÏÆûÈ³/
+V
+squid:S106T"9Replace this use of System.out or System.err by a logger.(™’¡Ð8àõîÈ³/
+[
+squid:S106F"9Replace this use of System.out or System.err by a logger.(ïüì°üÿÿÿÿ8ÏÆûÈ³/
+U
+squid:S106D"9Replace this use of System.out or System.err by a logger.(ËÃ·68àõîÈ³/
+[
+squid:S106{"9Replace this use of System.out or System.err by a logger.(éê”Šûÿÿÿÿ8ÏÆûÈ³/
+\
+squid:S106–"9Replace this use of System.out or System.err by a logger.(°Áƒ‹ûÿÿÿÿ8ÏÆûÈ³/
+Tsquid:S1751—"5Remove this "break" statement or make it conditional.(›ûä·8ÏÆûÈ³/
+V
+squid:S106V"9Replace this use of System.out or System.err by a logger.(Ûå©Æ8ÏÆûÈ³/
+[
+squid:S106y"9Replace this use of System.out or System.err by a logger.(’˜ÌÒúÿÿÿÿ8àõîÈ³/
+[
+squid:S106d"9Replace this use of System.out or System.err by a logger.(Ç³´Úÿÿÿÿÿ8ÏÆûÈ³/
+[
+squid:S106z"9Replace this use of System.out or System.err by a logger.(ÀåçÐÿÿÿÿÿ8ÏÆûÈ³/
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ú÷Ÿÿ
+Gsquid:S1148‰"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÏÆûÈ³/
+Ÿsquid:S1186ž"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(û»îX8ÏÆûÈ³/
+[
+squid:S106U"9Replace this use of System.out or System.err by a logger.(³‘èêüÿÿÿÿ8ÏÆûÈ³/
+jsquid:S001127"FDefine and throw a dedicated exception instead of using a generic one.(¹æˆšüÿÿÿÿ8ÏÆûÈ³/

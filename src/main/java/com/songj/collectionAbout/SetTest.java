@@ -1,11 +1,9 @@
 package com.songj.collectionAbout;
 
-import com.songj.jsonAbout.JSONUtil;
+import cn.hutool.json.JSONUtil;
 import org.junit.Test;
 
-import java.util.ArrayList;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 /**
@@ -66,7 +64,7 @@ public class SetTest {
         set2.add("dd");
         set2.add("ee");
         set2.removeAll(set1);
-        System.out.println(JSONUtil.objectToJSON(set2));
+        System.out.println(JSONUtil.toJsonStr(set2));
     }
 
 

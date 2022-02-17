@@ -1,0 +1,5 @@
+
+Ksquid:EmptyStatementUsageCheck+"Remove this empty statement.(å¶ºóÿÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(òðú«ýÿÿÿÿ
+Fsquid:S00108+")Either remove or fill this block of code.(å¶ºóÿÿÿÿÿ

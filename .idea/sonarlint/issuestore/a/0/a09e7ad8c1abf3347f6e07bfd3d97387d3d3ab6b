@@ -1,14 +1,14 @@
 
 qsquid:S1192%"ZDefine a constant instead of duplicating this literal "ç¬¦åˆæ¡ä»¶çš„ä¸‹æ ‡æ˜¯ " 3 times.(¿‡ä
+jsquid:S00101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(êŞÀ–ıÿÿÿÿ
 ksquid:S1192*"TDefine a constant instead of duplicating this literal "No two sum solution" 3 times.(¥º‘˜
 O
 squid:S106%"9Replace this use of System.out or System.err by a logger.(¿‡ä
-T
-squid:S106="9Replace this use of System.out or System.err by a logger.(¦œ’¦ÿÿÿÿÿ
+ksquid:S001006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(††„Èıÿÿÿÿ
 T
 squid:S106S"9Replace this use of System.out or System.err by a logger.(¦œ’¦ÿÿÿÿÿ
-jsquid:S00101
-"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(êŞÀ–ıÿÿÿÿ
 ksquid:S00100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º“È¬øÿÿÿÿ
-ksquid:S001006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(††„Èıÿÿÿÿ
+T
+squid:S106="9Replace this use of System.out or System.err by a logger.(¦œ’¦ÿÿÿÿÿ
 esquid:S00100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½‡Á

@@ -1,7 +1,5 @@
 package com.songj.enumAbout;
 
-import com.fasterxml.jackson.annotation.JsonCreator;
-import com.fasterxml.jackson.annotation.JsonValue;
 
 import java.util.Objects;
 
@@ -27,7 +25,7 @@ public enum AgreementStatusEnum{
         return code;
     }
 
-    @JsonCreator
+
     public static AgreementStatusEnum getEnum(int code){
         if (Objects.isNull(code)) {
             return null;
@@ -40,7 +38,6 @@ public enum AgreementStatusEnum{
         return null;
     }
 
-    @JsonValue
     public int getCode() {
         return code;
     }

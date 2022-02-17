@@ -1,23 +1,10 @@
 package com.songj.encryption;
 
-import java.io.IOException;
-import java.io.UnsupportedEncodingException;
-import java.security.InvalidKeyException;
-import java.security.NoSuchAlgorithmException;
-import java.security.SecureRandom;
-import java.util.Base64;
-import java.util.Scanner;
-
-import javax.crypto.BadPaddingException;
-import javax.crypto.Cipher;
-import javax.crypto.IllegalBlockSizeException;
-import javax.crypto.KeyGenerator;
-import javax.crypto.NoSuchPaddingException;
-import javax.crypto.SecretKey;
-import javax.crypto.spec.SecretKeySpec;
-
 import sun.misc.BASE64Decoder;
 import sun.misc.BASE64Encoder;
+
+import javax.crypto.Cipher;
+import javax.crypto.spec.SecretKeySpec;
 /**
  * @Description AES 实现非对称加密解密
  * https://www.cnblogs.com/better-farther-world2099/p/13293291.html

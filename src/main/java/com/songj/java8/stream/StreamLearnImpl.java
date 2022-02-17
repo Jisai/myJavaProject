@@ -1,11 +1,11 @@
 package com.songj.java8.stream;
 
+import cn.hutool.json.JSONUtil;
 import com.google.common.collect.Lists;
 import com.google.common.collect.Maps;
 import com.songj.model.po.Employee;
 import com.songj.model.po.People;
 import com.songj.model.po.User;
-import com.songj.jsonAbout.JSONUtil;
 import org.junit.Test;
 
 import java.util.*;
@@ -321,11 +321,11 @@ public class StreamLearnImpl implements StreamLearn {
         Map<Boolean, List<Employee>> treeMap1 = employees.stream()
                 .sorted(Comparator.comparing(Employee::getLevel))
                 .collect(Collectors.groupingBy(Employee::isQuit));
-        System.out.println(JSONUtil.objectToString(treeMap1));
+        System.out.println(JSONUtil.toJsonStr(treeMap1));
         Map<Boolean, List<Employee>> treeMap2 = employees.stream()
                 .sorted(Comparator.comparing(Employee::getId))
                 .collect(Collectors.groupingBy(Employee::isQuit));
-        System.out.println(JSONUtil.objectToString(treeMap2));
+        System.out.println(JSONUtil.toJsonStr(treeMap2));
     }
 
     @Test

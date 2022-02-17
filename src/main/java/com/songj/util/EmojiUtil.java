@@ -1,7 +1,7 @@
 package com.songj.util;
 
+import cn.hutool.json.JSONUtil;
 import com.github.binarywang.java.emoji.EmojiConverter;
-import com.songj.jsonAbout.JSONUtil;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.log4j.Logger;
 
@@ -91,7 +91,7 @@ public class EmojiUtil {
             try {
                 matcher.appendReplacement(sb, "[[" + URLEncoder.encode(matcher.group(1), "UTF-8") + "]]");
             } catch (UnsupportedEncodingException e) {
-                logger.error("转义失败 emojiConverterUnicodeStr# param = "+str+", E = " + JSONUtil.objectToJSON(e));
+                logger.error("转义失败 emojiConverterUnicodeStr# param = "+str+", E = " + JSONUtil.toJsonStr(e));
                 System.out.println(e);
                 throw e;
             }
@@ -119,7 +119,7 @@ public class EmojiUtil {
             try {
                 matcher.appendReplacement(sb, URLDecoder.decode(matcher.group(1), "UTF-8"));
             } catch (UnsupportedEncodingException e) {
-                logger.error("转义失败 emojiRecovery2# param = "+str+", E = " + JSONUtil.objectToJSON(e));
+                logger.error("转义失败 emojiRecovery2# param = "+str+", E = " + JSONUtil.toJsonStr(e));
                 System.out.println(e);
                 throw e;
             }

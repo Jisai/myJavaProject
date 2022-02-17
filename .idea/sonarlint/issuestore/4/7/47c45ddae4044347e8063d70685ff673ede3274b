@@ -1,17 +1,17 @@
 
-jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñÙêÚıÿÿÿÿ
-[
-squid:S106V"9Replace this use of System.out or System.err by a logger.(ïŒÃÍüÿÿÿÿ8àÏä«/
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8¤¥·Ùİ/
+Fsquid:EmptyStatementUsageCheck"Remove this empty statement.(Í„ÔÌ
+msquid:S00100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ×£é8ä‚”´İ/
+V
+squid:S1066"9Replace this use of System.out or System.err by a logger.(½„¸Ñ8àÏä«/
+Dsquid:S1659*"!Declare "ans" on a separate line.(óóåæşÿÿÿÿ8àÏä«/
+Ysquid:UnusedPrivateMethod="-Remove this unused private "method_2" method.(õ×£é8ûİõáİ/
+wsquid:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò³¬œ8àÏä«/
+|squid:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô¡Ûöıÿÿÿÿ8Ä±“´İ/
 O
-squid:S106"9Replace this use of System.out or System.err by a logger.(Í„ÔÌ
-V
-squid:S106s"9Replace this use of System.out or System.err by a logger.(ÕêÓ8àÏä«/
-Fsquid:EmptyStatementUsageCheck"Remove this empty statement.(Í„ÔÌ
-wsquid:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò³¬œ8àÏä«/
-V
-squid:S106X"9Replace this use of System.out or System.err by a logger.(½„¸Ñ8àÏä«/
-rsquid:S00100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â”Ïğúÿÿÿÿ8àÏä«/
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾¯Äûÿÿÿÿ
-msquid:S00100`"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êˆİ´8àÏä«/
-}squid:S1149a"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8àÏä«/
-Dsquid:S1659L"!Declare "ans" on a separate line.(óóåæşÿÿÿÿ8àÏä«/
+squid:S106"9Replace this use of System.out or System.err by a logger.(Í„ÔÌ
+[
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ïŒÃÍüÿÿÿÿ8àÏä«/
+rsquid:S00100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â”Ïğúÿÿÿÿ8àÏä«/
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ñ’ûäşÿÿÿÿ8É€öáİ/
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñÙêÚıÿÿÿÿ

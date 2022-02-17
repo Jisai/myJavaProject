@@ -1,6 +1,6 @@
 package com.songj.jsonAbout;
 
-import cn.hutool.core.bean.BeanUtil;
+import cn.hutool.json.JSONUtil;
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
 import com.google.gson.Gson;
@@ -31,7 +31,7 @@ public class JsonDemoImpl implements JsonDemo {
     @Override
     public void objectToString(){
         Employee employee = getEmployeeDemo();
-        String objStr1 = JSONUtil.objectToJSON(employee);
+        String objStr1 = JSONUtil.toJsonStr(employee);
         System.out.println("第一种方式：");
         System.out.println(objStr1);
     }

@@ -1,6 +1,5 @@
 package com.songj.model.po;
 
-import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.Data;
 
 import java.io.Serializable;
@@ -23,7 +22,7 @@ public class ReflectDataTwo implements Serializable {
 
     private Boolean sex;
 
-    @JsonFormat(pattern = "yyyy-MM-dd")
+
     private Date birthday;
 
 }

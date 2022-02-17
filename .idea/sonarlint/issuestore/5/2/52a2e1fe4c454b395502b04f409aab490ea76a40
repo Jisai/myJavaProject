@@ -1,0 +1,9 @@
+
+rsquid:S00100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÃ½óüÿÿÿÿ8¢¦’î/
+nsquid:S1149C"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ŠÈİà8ßÛ’î/
+rsquid:S00100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é’Òœùÿÿÿÿ8ğ¢’î/
+msquid:S00100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¢­Ñ8üğåî/
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‚ÈË»
+msquid:S001002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Ñ§†8¥‹Ÿî/
+nsquid:S1149U"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ŠÈİà8íÄåî/
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÍÌšøÿÿÿÿ8€€‰’î/

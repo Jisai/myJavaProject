@@ -1,7 +1,7 @@
 package com.songj.database;
 
+import cn.hutool.json.JSONUtil;
 import com.songj.model.UserInfoDO;
-import com.songj.jsonAbout.JSONUtil;
 import com.songj.util.JDBCUtils;
 import org.junit.Test;
 
@@ -29,7 +29,7 @@ public class ConnectionTest {
 
     @Test
     public void Test(){
-        System.out.println(JSONUtil.objectToJSON(getAll()));
+        System.out.println(JSONUtil.toJsonStr(getAll()));
     }
 
     public void connectionTest()  throws Exception {
