@@ -17,6 +17,11 @@ public class ArrayTest {
 
     @Test
     public void test(){
+        int i = 1;
+        int[] dp = new int[]{0,1,2,3,4,5,6};
+        System.out.println(dp[++i]);
+        System.out.println(i);
+
         int[] intArr = new int[2];
         intArr[1] = 1;
         //方法二：使用 Arrays.toString() 打印。

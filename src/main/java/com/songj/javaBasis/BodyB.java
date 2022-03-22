@@ -10,6 +10,7 @@ package com.songj.javaBasis;
 public class BodyB extends BodyA{
 
 
+
     public static void staticMethod(){
         System.out.println("子类 —— 静态方法");
     }
