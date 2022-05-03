@@ -1,38 +1,33 @@
 
-H
-java:S1135"2Complete the task associated to this TODO comment.(Üð£Å
-V	java:S125"<This block of commented-out lines of code should be removed.(Ž¦‰ÿÿÿÿÿ
-Q	java:S125"<This block of commented-out lines of code should be removed.(ÊÉùÙ
-Q
-java:S1854"6Remove this useless assignment to local variable "al".(¢ïÍšþÿÿÿÿ
-B
-java:S1481"'Remove this unused "al" local variable.(¢ïÍšþÿÿÿÿ
-7
-java:S2111&"!Use "BigDecimal.valueOf" instead.(¹¤ÏÖ
-<
-java:S2111'"!Use "BigDecimal.valueOf" instead.(³ýöŒøÿÿÿÿ
-7
-java:S2111("!Use "BigDecimal.valueOf" instead.(•þ„Å
-N	java:S106)"9Replace this use of System.out or System.err by a logger.(ÙæÚ‘
-S	java:S106*"9Replace this use of System.out or System.err by a logger.(Ž²óÿÿÿÿÿ
-S	java:S1068"9Replace this use of System.out or System.err by a logger.(¡ŒÂßøÿÿÿÿ
-S	java:S1069"9Replace this use of System.out or System.err by a logger.(¤ÒŠüüÿÿÿÿ
-M	java:S106:"9Replace this use of System.out or System.err by a logger.(ó–â
-N	java:S106;"9Replace this use of System.out or System.err by a logger.(®³ðä
-S	java:S106<"9Replace this use of System.out or System.err by a logger.(×¾ŒÈýÿÿÿÿ
-E
-java:S2200E"/Only the sign of the result should be examined.(±ìƒ±
-E
-java:S2200E"/Only the sign of the result should be examined.(±ìƒ±
-E
-java:S2200E"/Only the sign of the result should be examined.(±ìƒ±
-E
-java:S2200H"/Only the sign of the result should be examined.(¦‚µ½
-E
-java:S2200K"/Only the sign of the result should be examined.(Š×÷ý
-E
-java:S2200N"/Only the sign of the result should be examined.(Õ‘°Ì
-S	java:S106U"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ
+U
+squid:S106:"9Replace this use of System.out or System.err by a logger.(ó–â8ÏºŒæ0
+V
+squid:S106;"9Replace this use of System.out or System.err by a logger.(®³ðä8ÏºŒæ0
+Msquid:S2200E"/Only the sign of the result should be examined.(±ìƒ±8ÏºŒæ0
+Jsquid:S1481"'Remove this unused "al" local variable.(¢ïÍšþÿÿÿÿ8ÏºŒæ0
+Msquid:S2200K"/Only the sign of the result should be examined.(Š×÷ý8ÏºŒæ0
 [
-java:S1144B"ERemove this unused private "isAccordWithEffectCutTimeOverLap" method.(¶äÊý
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëû´ˆÿÿÿÿÿ
+squid:S1068"9Replace this use of System.out or System.err by a logger.(¡ŒÂßøÿÿÿÿ8ÏºŒæ0
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(Ž²óÿÿÿÿÿ8ÏºŒæ0
+Ysquid:S1854"6Remove this useless assignment to local variable "al".(¢ïÍšþÿÿÿÿ8ÏºŒæ0
+Msquid:S2200N"/Only the sign of the result should be examined.(Õ‘°Ì8ÏºŒæ0
+Gsquid:S2129'"$Remove this "BigDecimal" constructor(³ýöŒøÿÿÿÿ8ÏºŒæ0
+[
+squid:S1069"9Replace this use of System.out or System.err by a logger.(¤ÒŠüüÿÿÿÿ8ÏºŒæ0
+Bsquid:S2129("$Remove this "BigDecimal" constructor(•þ„Å8ÏºŒæ0
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÊÉùÙ8ÏºŒæ0
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëû´ˆÿÿÿÿÿ8ÏºŒæ0
+Psquid:S1135"2Complete the task associated to this TODO comment.(Üð£Å8ÏºŒæ0
+[
+squid:S106U"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ8ÏºŒæ0
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ž¦‰ÿÿÿÿÿ8ÏºŒæ0
+Msquid:S2200E"/Only the sign of the result should be examined.(±ìƒ±8ÏºŒæ0
+Msquid:S2200E"/Only the sign of the result should be examined.(±ìƒ±8ÏºŒæ0
+qsquid:UnusedPrivateMethodB"ERemove this unused private "isAccordWithEffectCutTimeOverLap" method.(¶äÊý8ÏºŒæ0
+[
+squid:S106<"9Replace this use of System.out or System.err by a logger.(×¾ŒÈýÿÿÿÿ8ÏºŒæ0
+Msquid:S2200H"/Only the sign of the result should be examined.(¦‚µ½8ÏºŒæ0
+Bsquid:S2129&"$Remove this "BigDecimal" constructor(¹¤ÏÖ8ÏºŒæ0
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ÙæÚ‘8ÏºŒæ0

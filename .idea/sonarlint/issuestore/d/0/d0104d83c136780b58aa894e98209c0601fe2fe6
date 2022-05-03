@@ -1,130 +1,152 @@
 
-H
-java:S1135"2Complete the task associated to this TODO comment.(Üğ£Å
-V	java:S125"<This block of commented-out lines of code should be removed.(Éç¨¼şÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Â¨ûø
-S	java:S106 "9Replace this use of System.out or System.err by a logger.(†‘†ùÿÿÿÿ
-S	java:S106!"9Replace this use of System.out or System.err by a logger.(´ŒÒÎüÿÿÿÿ
-S	java:S106""9Replace this use of System.out or System.err by a logger.(³ö›Ôûÿÿÿÿ
-N	java:S106#"9Replace this use of System.out or System.err by a logger.(½¯Åû
-N	java:S106$"9Replace this use of System.out or System.err by a logger.(ÉşÉë
-S	java:S1060"9Replace this use of System.out or System.err by a logger.(¾Ô‘ˆúÿÿÿÿ
-7
-java:S11160"Remove this empty statement.(¾Ô‘ˆúÿÿÿÿ
-N	java:S106;"9Replace this use of System.out or System.err by a logger.(Åø¬
-c	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ûÏƒ
-M	java:S106D"9Replace this use of System.out or System.err by a logger.(¶ìŞ2
-N	java:S106E"9Replace this use of System.out or System.err by a logger.(ºƒìŸ
-N	java:S106T"9Replace this use of System.out or System.err by a logger.(ˆ£™ù
-S	java:S106X"9Replace this use of System.out or System.err by a logger.(í«‚­øÿÿÿÿ
-N	java:S106Y"9Replace this use of System.out or System.err by a logger.(¢°´
-N	java:S106Z"9Replace this use of System.out or System.err by a logger.(ŠøÊõ
-V
-java:S1858_"@"format" returns a string, there's no need to call "toString()".(³¯ÁÁ
-S	java:S106`"9Replace this use of System.out or System.err by a logger.(³²ó¹ûÿÿÿÿ
-S	java:S106d"9Replace this use of System.out or System.err by a logger.(°İ ²şÿÿÿÿ
-S	java:S106g"9Replace this use of System.out or System.err by a logger.(Åı¬üÿÿÿÿ
-S	java:S106l"9Replace this use of System.out or System.err by a logger.(ÖÜ¾œúÿÿÿÿ
-N	java:S106y"9Replace this use of System.out or System.err by a logger.(Äíğ„
-S	java:S106z"9Replace this use of System.out or System.err by a logger.(Œƒº¨ÿÿÿÿÿ
-N	java:S106{"9Replace this use of System.out or System.err by a logger.(‚­Şô
-S	java:S106|"9Replace this use of System.out or System.err by a logger.(¬é¶ıÿÿÿÿ
-J
-java:S2200|"/Only the sign of the result should be examined.(¬é¶ıÿÿÿÿ
-S	java:S106}"9Replace this use of System.out or System.err by a logger.(¸úÉ…üÿÿÿÿ
-J
-java:S2200}"/Only the sign of the result should be examined.(¸úÉ…üÿÿÿÿ
-T	java:S106†"9Replace this use of System.out or System.err by a logger.(ãüÕìûÿÿÿÿ
-O	java:S106Š"9Replace this use of System.out or System.err by a logger.(ø¨Ä
-O	java:S106‘"9Replace this use of System.out or System.err by a logger.(½ëîâ
-T
-java:S1854œ"8Remove this useless assignment to local variable "date".(ƒ‰ÿÜúÿÿÿÿ
-X
-java:S1854›"<Remove this useless assignment to local variable "dateTime".(üğï­ıÿÿÿÿ
-I
-java:S1481›"-Remove this unused "dateTime" local variable.(üğï­ıÿÿÿÿ
-E
-java:S1481œ")Remove this unused "date" local variable.(ƒ‰ÿÜúÿÿÿÿ
-O	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(€¯¨â
-U
-java:S1854¬">Remove this useless assignment to local variable "monthValue".(’ÂËĞ
-N
-java:S1854«"7Remove this useless assignment to local variable "end".(âĞÙ¤
-V
-java:S1854ª":Remove this useless assignment to local variable "length".(¶ßüúÿÿÿÿ
-U
-java:S1854©"9Remove this useless assignment to local variable "begin".(Ì²˜Åıÿÿÿÿ
-F
-java:S1481©"*Remove this unused "begin" local variable.(Ì²˜Åıÿÿÿÿ
-G
-java:S1481ª"+Remove this unused "length" local variable.(¶ßüúÿÿÿÿ
-?
-java:S1481«"(Remove this unused "end" local variable.(âĞÙ¤
-F
-java:S1481¬"/Remove this unused "monthValue" local variable.(’ÂËĞ
-m
-java:S2159»"VRemove this call to "equals"; comparisons between unrelated types always return false.(¿¡Ì
-F
-java:S1172„"/Remove this unused method parameter "dateLong".(Õˆ³
-O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ß¦í•
-W	java:S125‹"<This block of commented-out lines of code should be removed.(µªÕ•üÿÿÿÿ
-T	java:S106"9Replace this use of System.out or System.err by a logger.(Š·Ëûÿÿÿÿ
-T	java:S106–"9Replace this use of System.out or System.err by a logger.(‚ÙÎûÿÿÿÿ
-T	java:S106"9Replace this use of System.out or System.err by a logger.(Àüµüÿÿÿÿ
-V
-java:S1854¢":Remove this useless assignment to local variable "result".(ûÏŞàşÿÿÿÿ
-T	java:S106§"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
-T	java:S106´"9Replace this use of System.out or System.err by a logger.(•Î’‡úÿÿÿÿ
-O	java:S106µ"9Replace this use of System.out or System.err by a logger.(à´¥’
-T	java:S106¶"9Replace this use of System.out or System.err by a logger.(şÅ™êøÿÿÿÿ
-O	java:S106º"9Replace this use of System.out or System.err by a logger.(£¨›
-T	java:S106»"9Replace this use of System.out or System.err by a logger.(Ä¹‹ªÿÿÿÿÿ
-O	java:S106¼"9Replace this use of System.out or System.err by a logger.(Âšéí
-T	java:S106À"9Replace this use of System.out or System.err by a logger.(Ú“ç€úÿÿÿÿ
-T	java:S106Á"9Replace this use of System.out or System.err by a logger.(ÌŠÿûÿÿÿÿÿ
-T	java:S106Â"9Replace this use of System.out or System.err by a logger.(ßš¿ûÿÿÿÿ
-O
-java:S1854Î"8Remove this useless assignment to local variable "leap".(à—İÀ
-O	java:S106Í"9Replace this use of System.out or System.err by a logger.(¤áÏ
-@
-java:S1481Î")Remove this unused "leap" local variable.(à—İÀ
-T	java:S106ä"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
-T	java:S106ï"9Replace this use of System.out or System.err by a logger.(›ùĞñÿÿÿÿÿ
-O	java:S106ğ"9Replace this use of System.out or System.err by a logger.(ûë¡Ö
-N	java:S106ñ"9Replace this use of System.out or System.err by a logger.(Óİ¼U
-T	java:S106"9Replace this use of System.out or System.err by a logger.(°üİúûÿÿÿÿ
-O	java:S106‰"9Replace this use of System.out or System.err by a logger.(â»ë
-T	java:S106‘"9Replace this use of System.out or System.err by a logger.(¥•Íòÿÿÿÿÿ
-[	java:S106™"9Replace this use of System.out or System.err by a logger.(¢î•¸ıÿÿÿÿ8‚šÖ¼Ó/
-U	java:S106š"9Replace this use of System.out or System.err by a logger.(ˆ©ßw8‚šÖ¼Ó/
+Gsquid:S1148Í"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¶†‹æ0
+W
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(à´¥’8¶†‹æ0
 [
-java:S1128"9Remove this unused import 'cn.hutool.core.date.DateTime'.(»õ‰úÿÿÿÿ8©åÒ¼Ó/
-I
-java:S1144Ø"-Remove this unused private "subMonth" method.(ğŞ•Èÿÿÿÿÿ
-B
-java:S1144î"+Remove this unused private "subDay" method.(‰“Ù¢
-B
-java:S1144„"+Remove this unused private "subDay" method.(Õˆ³
-j
-java:S1192#"TDefine a constant instead of duplicating this literal "yyyy-MM-dd hh:mm:ss" 3 times.(½¯Åû
-m
-java:S1192ı"QDefine a constant instead of duplicating this literal "2018-03-01 12:00" 3 times.(àË˜ßùÿÿÿÿ
-j
-java:S11927"TDefine a constant instead of duplicating this literal "yyyy-MM-dd HH:mm:ss" 5 times.(êß±ï
-h
-java:S1192…"QDefine a constant instead of duplicating this literal "2018-03-12 12:00" 3 times.(¦÷•Ñ
-a
-java:S1192f"KDefine a constant instead of duplicating this literal "yyyy-MM-dd" 3 times.(Ó„òø
-k	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä„Í£ıÿÿÿÿ
-k	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼äÅöúÿÿÿÿ
-g	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÈÁŠ
-f	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éºèw
-l	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÃÑ¡ıÿÿÿÿ
-l	java:S117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şê»¢üÿÿÿÿ
-l	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ø›¡ûÿÿÿÿ
-l	java:S117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôû¼Šıÿÿÿÿ
-F
-java:S5411Â"*Use the primitive boolean expression here.(ıü‡Ìûÿÿÿÿ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ş©ÈÖ
-f
-java:S2259|"KA "NullPointerException" could be thrown; "specifiedDate" is nullable here.(¬é¶ıÿÿÿÿ
+squid:S106 "9Replace this use of System.out or System.err by a logger.(†‘†ùÿÿÿÿ8¶†‹æ0
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(³ö›Ôûÿÿÿÿ8¶†‹æ0
+[
+squid:S106g"9Replace this use of System.out or System.err by a logger.(Åı¬üÿÿÿÿ8¶†‹æ0
+\
+squid:S106–"9Replace this use of System.out or System.err by a logger.(‚ÙÎûÿÿÿÿ8¶†‹æ0
+msquid:S00100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ûÏƒ8¶†‹æ0
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(Àüµüÿÿÿÿ8¶†‹æ0
+psquid:S00117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éºèw8¶†‹æ0
+V
+squid:S106;"9Replace this use of System.out or System.err by a logger.(Åø¬8¶†‹æ0
+W
+squid:S106º"9Replace this use of System.out or System.err by a logger.(£¨›8¶†‹æ0
+W
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(ø¨Ä8¶†‹æ0
+[
+squid:S106`"9Replace this use of System.out or System.err by a logger.(³²ó¹ûÿÿÿÿ8¶†‹æ0
+Rsquid:S2200|"/Only the sign of the result should be examined.(¬é¶ıÿÿÿÿ8¶†‹æ0
+Nsquid:S1481©"*Remove this unused "begin" local variable.(Ì²˜Åıÿÿÿÿ8¶†‹æ0
+\
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(şÅ™êøÿÿÿÿ8¶†‹æ0
+\
+squid:S106Â"9Replace this use of System.out or System.err by a logger.(ßš¿ûÿÿÿÿ8¶†‹æ0
+V
+squid:S106y"9Replace this use of System.out or System.err by a logger.(Äíğ„8¶†‹æ0
+Rsquid:EmptyStatementUsageCheck0"Remove this empty statement.(¾Ô‘ˆúÿÿÿÿ8¶†‹æ0
+W
+squid:S106¼"9Replace this use of System.out or System.err by a logger.(Âšéí8¶†‹æ0
+\
+squid:S106´"9Replace this use of System.out or System.err by a logger.(•Î’‡úÿÿÿÿ8¶†‹æ0
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ÉşÉë8¶†‹æ0
+Qsquid:S1481›"-Remove this unused "dateTime" local variable.(üğï­ıÿÿÿÿ8¶†‹æ0
+usquid:S00117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä„Í£ıÿÿÿÿ8¶†‹æ0
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ş©ÈÖ8¶†‹æ0
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(¾Ô‘ˆúÿÿÿÿ8¶†‹æ0
+Gsquid:S1148ã"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¶†‹æ0
+Xsquid:UnusedPrivateMethod„"+Remove this unused private "subDay" method.(Õˆ³8¶†‹æ0
+\
+squid:S106ï"9Replace this use of System.out or System.err by a logger.(›ùĞñÿÿÿÿÿ8¶†‹æ0
+^squid:S1854ª":Remove this useless assignment to local variable "length".(¶ßüúÿÿÿÿ8¶†‹æ0
+Msquid:S1481œ")Remove this unused "date" local variable.(ƒ‰ÿÜúÿÿÿÿ8¶†‹æ0
+vsquid:S00117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ø›¡ûÿÿÿÿ8¶†‹æ0
+Wsquid:S1854Î"8Remove this useless assignment to local variable "leap".(à—İÀ8¶†‹æ0
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Â¨ûø8¶†‹æ0
+usquid:S00117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼äÅöúÿÿÿÿ8¶†‹æ0
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š·Ëûÿÿÿÿ8¶†‹æ0
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Éç¨¼şÿÿÿÿ8¶†‹æ0
+]squid:S1854¬">Remove this useless assignment to local variable "monthValue".(’ÂËĞ8¶†‹æ0
+Gsquid:S1148š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¶†‹æ0
+vsquid:S00117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şê»¢üÿÿÿÿ8¶†‹æ0
+Fsquid:S1148="#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¶†‹æ0
+vsquid:S00117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôû¼Šıÿÿÿÿ8¶†‹æ0
+W
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(â»ë8¶†‹æ0
+nsquid:S2259|"KA "NullPointerException" could be thrown; "specifiedDate" is nullable here.(¬é¶ıÿÿÿÿ8¶†‹æ0
+usquid:S1192ı"QDefine a constant instead of duplicating this literal "2018-03-01 12:00" 3 times.(àË˜ßùÿÿÿÿ8¶†‹æ0
+[
+squid:S106X"9Replace this use of System.out or System.err by a logger.(í«‚­øÿÿÿÿ8¶†‹æ0
+W
+squid:S106ğ"9Replace this use of System.out or System.err by a logger.(ûë¡Ö8¶†‹æ0
+psquid:S1192…"QDefine a constant instead of duplicating this literal "2018-03-12 12:00" 3 times.(¦÷•Ñ8¶†‹æ0
+Nsquid:S1481¬"/Remove this unused "monthValue" local variable.(’ÂËĞ8¶†‹æ0
+qsquid:S00117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÈÁŠ8¶†‹æ0
+osquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(µªÕ•üÿÿÿÿ8¶†‹æ0
+V
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(ŠøÊõ8¶†‹æ0
+Gsquid:S1148â"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¶†‹æ0
+[
+squid:S106l"9Replace this use of System.out or System.err by a logger.(ÖÜ¾œúÿÿÿÿ8¶†‹æ0
+\
+squid:S106†"9Replace this use of System.out or System.err by a logger.(ãüÕìûÿÿÿÿ8¶†‹æ0
+W
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(ß¦í•8¶†‹æ0
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(°üİúûÿÿÿÿ8¶†‹æ0
+\
+squid:S106™"9Replace this use of System.out or System.err by a logger.(¢î•¸ıÿÿÿÿ8¶†‹æ0
+Psquid:S1135"2Complete the task associated to this TODO comment.(Üğ£Å8¶†‹æ0
+\
+squid:S106ä"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8¶†‹æ0
+\squid:S1854œ"8Remove this useless assignment to local variable "date".(ƒ‰ÿÜúÿÿÿÿ8¶†‹æ0
+Gsquid:S1148ù"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¶†‹æ0
+`squid:S1854›"<Remove this useless assignment to local variable "dateTime".(üğï­ıÿÿÿÿ8¶†‹æ0
+rsquid:S1192#"TDefine a constant instead of duplicating this literal "yyyy-MM-dd hh:mm:ss" 3 times.(½¯Åû8¶†‹æ0
+\
+squid:S106Á"9Replace this use of System.out or System.err by a logger.(ÌŠÿûÿÿÿÿÿ8¶†‹æ0
+W
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(½ëîâ8¶†‹æ0
+Gsquid:S1481«"(Remove this unused "end" local variable.(âĞÙ¤8¶†‹æ0
+V
+squid:S106T"9Replace this use of System.out or System.err by a logger.(ˆ£™ù8¶†‹æ0
+U
+squid:S106D"9Replace this use of System.out or System.err by a logger.(¶ìŞ28¶†‹æ0
+Osquid:S1481ª"+Remove this unused "length" local variable.(¶ßüúÿÿÿÿ8¶†‹æ0
+V
+squid:S106#"9Replace this use of System.out or System.err by a logger.(½¯Åû8¶†‹æ0
+Nsquid:S1172„"/Remove this unused method parameter "dateLong".(Õˆ³8¶†‹æ0
+rsquid:S11927"TDefine a constant instead of duplicating this literal "yyyy-MM-dd HH:mm:ss" 5 times.(êß±ï8¶†‹æ0
+\
+squid:S106À"9Replace this use of System.out or System.err by a logger.(Ú“ç€úÿÿÿÿ8¶†‹æ0
+]squid:S1854©"9Remove this useless assignment to local variable "begin".(Ì²˜Åıÿÿÿÿ8¶†‹æ0
+V
+squid:S106{"9Replace this use of System.out or System.err by a logger.(‚­Şô8¶†‹æ0
+^squid:S1858_"@"format" returns a string, there's no need to call "toString()".(³¯ÁÁ8¶†‹æ0
+\
+squid:S106»"9Replace this use of System.out or System.err by a logger.(Ä¹‹ªÿÿÿÿÿ8¶†‹æ0
+W
+squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(€¯¨â8¶†‹æ0
+Hsquid:S1481Î")Remove this unused "leap" local variable.(à—İÀ8¶†‹æ0
+\
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(¥•Íòÿÿÿÿÿ8¶†‹æ0
+_squid:UnusedPrivateMethodØ"-Remove this unused private "subMonth" method.(ğŞ•Èÿÿÿÿÿ8¶†‹æ0
+usquid:S2159»"VRemove this call to "equals"; comparisons between unrelated types always return false.(¿¡Ì8¶†‹æ0
+[
+squid:S106|"9Replace this use of System.out or System.err by a logger.(¬é¶ıÿÿÿÿ8¶†‹æ0
+W
+squid:S106Í"9Replace this use of System.out or System.err by a logger.(¤áÏ8¶†‹æ0
+vsquid:S00117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÃÑ¡ıÿÿÿÿ8¶†‹æ0
+Vsquid:S1854«"7Remove this useless assignment to local variable "end".(âĞÙ¤8¶†‹æ0
+isquid:S1192f"KDefine a constant instead of duplicating this literal "yyyy-MM-dd" 3 times.(Ó„òø8¶†‹æ0
+V
+squid:S106š"9Replace this use of System.out or System.err by a logger.(ˆ©ßw8¶†‹æ0
+Xsquid:UnusedPrivateMethodî"+Remove this unused private "subDay" method.(‰“Ù¢8¶†‹æ0
+V
+squid:S106E"9Replace this use of System.out or System.err by a logger.(ºƒìŸ8¶†‹æ0
+[
+squid:S106d"9Replace this use of System.out or System.err by a logger.(°İ ²şÿÿÿÿ8¶†‹æ0
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(´ŒÒÎüÿÿÿÿ8¶†‹æ0
+[
+squid:S106z"9Replace this use of System.out or System.err by a logger.(Œƒº¨ÿÿÿÿÿ8¶†‹æ0
+V
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(¢°´8¶†‹æ0
+[
+squid:S106}"9Replace this use of System.out or System.err by a logger.(¸úÉ…üÿÿÿÿ8¶†‹æ0
+V
+squid:S106ñ"9Replace this use of System.out or System.err by a logger.(Óİ¼U8¶†‹æ0
+^squid:S1854¢":Remove this useless assignment to local variable "result".(ûÏŞàşÿÿÿÿ8¶†‹æ0
+Rsquid:S2200}"/Only the sign of the result should be examined.(¸úÉ…üÿÿÿÿ8¶†‹æ0
+\
+squid:S106§"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8¶†‹æ0

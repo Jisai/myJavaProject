@@ -1,0 +1,31 @@
+
+]squid:S2274?":Remove this call to "wait" or move it into a "while" loop.(Š¹âÕÿÿÿÿÿ8ë©Ãáú/
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(£ø«õûÿÿÿÿ8ë©Ãáú/
+Esquid:S16048"(Make this anonymous inner class a lambda(»›p8ë©Ãáú/
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æÂ¸ºùÿÿÿÿ
+U
+squid:S106*"9Replace this use of System.out or System.err by a logger.(›ÂàI8ë©Ãáú/
+Fsquid:S1148C"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ë©Ãáú/
+Fsquid:S11482"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ë©Ãáú/
+[
+squid:S106L"9Replace this use of System.out or System.err by a logger.(Õ¥´åûÿÿÿÿ8ë©Ãáú/
+Xsquid:S2274+":Remove this call to "wait" or move it into a "while" loop.(á¬­Š8ë©Ãáú/
+Ssquid:S2446/"0"notify" may not wake up the appropriate thread.(úÁ¶×şÿÿÿÿ8ë©Ãáú/
+Ssquid:S2446"0"notify" may not wake up the appropriate thread.(ÑÖĞ¯üÿÿÿÿ8ë©Ãáú/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(æØÒÌùÿÿÿÿ8ë©Ãáú/
+dsquid:S21421"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ë©Ãáú/
+Esquid:S1604$"(Make this anonymous inner class a lambda(şòÖv8ë©Ãáú/
+[
+squid:S106>"9Replace this use of System.out or System.err by a logger.(èŠâıÿÿÿÿ8ë©Ãáú/
+V
+squid:S106I"9Replace this use of System.out or System.err by a logger.(ğ±Ä¢8ë©Ãáú/
+[
+squid:S106J"9Replace this use of System.out or System.err by a logger.(Ú¤ÿúÿÿÿÿ8ë©Ãáú/
+V
+squid:S106N"9Replace this use of System.out or System.err by a logger.(§ı õ8ë©Ãáú/
+dsquid:S2142B"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ë©Ãáú/
+Fsquid:S1604"(Make this anonymous inner class a lambda(ÚÕïŠ8ë©Ãáú/
+[
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ÍÌµÎùÿÿÿÿ8ë©Ãáú/

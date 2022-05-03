@@ -1,36 +1,34 @@
 
-`	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(à¦Ïùÿÿÿÿ
-t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(³ÆñÑıÿÿÿÿ
-o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±øûã
-t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Âû©ãıÿÿÿÿ
-h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÇ«–ÿÿÿÿÿ
-S	java:S106 "9Replace this use of System.out or System.err by a logger.(Ü¦‡åüÿÿÿÿ
-H
-java:S4925)"-Remove this "Class.forName()", it is useless.(êÛºÈÿÿÿÿÿ
-Q	java:S125&"<This block of commented-out lines of code should be removed.(ŞÎù¿
-N	java:S106-"9Replace this use of System.out or System.err by a logger.(›½‘
-S	java:S1069"9Replace this use of System.out or System.err by a logger.(ÓĞÊûÿÿÿÿ
-S
-java:S1117F"8Rename "conn" which hides the field declared at line 26.(şöì¦ùÿÿÿÿ
-S
-java:S1117]"8Rename "conn" which hides the field declared at line 26.(şöì¦ùÿÿÿÿ
-S
-java:S1117o"8Rename "conn" which hides the field declared at line 26.(şöì¦ùÿÿÿÿ
-T
-java:S1117‡"8Rename "conn" which hides the field declared at line 26.(şöì¦ùÿÿÿÿ
-R
-java:S1117‰"6Rename "rs" which hides the field declared at line 28.(ÀÇÄûÿÿÿÿ
-T
-java:S1117£"8Rename "conn" which hides the field declared at line 26.(şöì¦ùÿÿÿÿ
-R
-java:S1117¥"6Rename "rs" which hides the field declared at line 28.(ÀÇÄûÿÿÿÿ
-B
-java:S1168¼"+Return an empty collection instead of null.(¥¹ï
-q
-java:S1488R"[Immediately return this expression instead of assigning it to the temporary variable "row".(Áé«ü
-q
-java:S1488d"[Immediately return this expression instead of assigning it to the temporary variable "row".(Áé«ü
-q
-java:S1488|"[Immediately return this expression instead of assigning it to the temporary variable "row".(Áé«ü
-M
-java:S2589,"7Remove this expression which always evaluates to "true"(¡ææú
+ysquid:S1488d"[Immediately return this expression instead of assigning it to the temporary variable "row".(Áé«ü8Ó•¤«ğ/
+gsquid:HiddenFieldCheck£"8Rename "conn" which hides the field declared at line 26.(şöì¦ùÿÿÿÿ8Ó•¤«ğ/
+fsquid:HiddenFieldCheckF"8Rename "conn" which hides the field declared at line 26.(şöì¦ùÿÿÿÿ8Ó•¤«ğ/
+fsquid:HiddenFieldChecko"8Rename "conn" which hides the field declared at line 26.(şöì¦ùÿÿÿÿ8Ó•¤«ğ/
+Csquid:S2068+" Remove this hard-coded password.(®À¿Öüÿÿÿÿ8Ó•¤«ğ/
+Fsquid:S1148U"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ó•¤«ğ/
+ysquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±øûã8Ó•¤«ğ/
+hsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(°¤‰8Ó•¤«ğ/
+isquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(ŞÎù¿8Ó•¤«ğ/
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(³ÆñÑıÿÿÿÿ8Ó•¤«ğ/
+Fsquid:S1148g"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ó•¤«ğ/
+ysquid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(Âû©ãıÿÿÿÿ8Ó•¤«ğ/
+V
+squid:S106-"9Replace this use of System.out or System.err by a logger.(›½‘8Ó•¤«ğ/
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÇ«–ÿÿÿÿÿ8Ó•¤«ğ/
+Gsquid:S1148›"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ó•¤«ğ/
+Fsquid:S1148="#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ó•¤«ğ/
+jsquid:S00112#"FDefine and throw a dedicated exception instead of using a generic one.(à¦Ïùÿÿÿÿ8Ó•¤«ğ/
+Gsquid:S1148¸"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ó•¤«ğ/
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(å’ûùûÿÿÿÿ8Ó•¤«ğ/
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Âû©ãıÿÿÿÿ8Ó•¤«ğ/
+Jsquid:S1168¼"+Return an empty collection instead of null.(¥¹ï8Ó•¤«ğ/
+esquid:HiddenFieldCheck¥"6Rename "rs" which hides the field declared at line 28.(ÀÇÄûÿÿÿÿ8Ó•¤«ğ/
+Usquid:S2589,"7Remove this expression which always evaluates to "true"(¡ææú8Ó•¤«ğ/
+ysquid:S1488R"[Immediately return this expression instead of assigning it to the temporary variable "row".(Áé«ü8Ó•¤«ğ/
+ysquid:S1488|"[Immediately return this expression instead of assigning it to the temporary variable "row".(Áé«ü8Ó•¤«ğ/
+[
+squid:S1069"9Replace this use of System.out or System.err by a logger.(ÓĞÊûÿÿÿÿ8Ó•¤«ğ/
+fsquid:HiddenFieldCheck]"8Rename "conn" which hides the field declared at line 26.(şöì¦ùÿÿÿÿ8Ó•¤«ğ/
+gsquid:HiddenFieldCheck‡"8Rename "conn" which hides the field declared at line 26.(şöì¦ùÿÿÿÿ8Ó•¤«ğ/
+esquid:HiddenFieldCheck‰"6Rename "rs" which hides the field declared at line 28.(ÀÇÄûÿÿÿÿ8Ó•¤«ğ/
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ó•¤«ğ/

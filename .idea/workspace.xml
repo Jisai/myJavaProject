@@ -1,319 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68f3316f-6cf2-410b-b3c7-7bf3c4b3d953" name="Default Changelist" comment="+">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_94.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_94.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/collectionAbout/SetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/collectionAbout/SetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/database/ConnectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/database/ConnectionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/encryption/MyAESUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/encryption/MyAESUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/enumAbout/AgreementStatusEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/enumAbout/AgreementStatusEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/java8/stream/StreamLearnImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/java8/stream/StreamLearnImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/jsonAbout/JSONUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/model/po/ReflectDataOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/model/po/ReflectDataOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/model/po/ReflectDataTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/model/po/ReflectDataTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/songj/util/EmojiUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/songj/util/EmojiUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/myJavaProject.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/Reflection/ReflectTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/Reflection/ReflectionUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/agent/AgentTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/agent/AgentUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/CustomExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/IpToInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/JianzhiOffer/Topic_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/JianzhiOffer/Topic_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/JianzhiOffer/Topic_25.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_116.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_135.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_167.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_189.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_19.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_20.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_206.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_21.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_217.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_278.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_283.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_344.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_35.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_442.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_461.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_53.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_542.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_557.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_560.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_567.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_617.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_695.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_70.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_704.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_733.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_876.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_88.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_912.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_977.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_986.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/leetcode/Topic_a1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/md5/EmptyUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/md5/MD5Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/md5/MD5Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/query/ChaZhi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/query/ErFen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/query/FeiBoNaQie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/query/ShunXu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/recursionAbout/ListToTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/recursionAbout/ListToTreeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/recursionAbout/RecursionLearn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/regularExpression/Password.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/regularExpression/PwdCheckUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/sort/JingDianPaiXu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/algorithm/sort/WeiTu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/annotation/Emoji.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/cache/localCache/CaffeineCacheTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/collectionAbout/ArrayTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/collectionAbout/ListTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/collectionAbout/ListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/collectionAbout/MapTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/collectionAbout/SetTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/database/ConnectionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/dateAbout/DateChangeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/dateAbout/TimeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/IfElse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/StrategyMode/Gold_IfElse_Strategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/StrategyMode/IfElse_Strategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/StrategyMode/IfElse_StrategyFactory$Holder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/StrategyMode/IfElse_StrategyFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/StrategyMode/Ordinary_IfElse_Strategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/StrategyMode/Platinum_IfElse_Strategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/StrategyMode/Silver__IfElse_Strategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/abstractFactory/AbstractFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/abstractFactory/AbstractFactoryTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/abstractFactory/ConcreteFactory1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/abstractFactory/ConcreteProduct11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/abstractFactory/ConcreteProduct21.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/abstractFactory/Product1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/abstractFactory/Product2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/adapter/Adaptee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/adapter/AdapterTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/adapter/ClassAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/adapter/ObjectAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/adapter/ObjectAdapterTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/adapter/Target.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/adapter/demo1/AdapteeRealize.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/adapter/demo1/TargetRealize.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/adapter/demo1/TwoWayAdaptee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/adapter/demo1/TwoWayAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/adapter/demo1/TwoWayAdapterTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/adapter/demo1/TwoWayTarget.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/bulider/Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/bulider/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/bulider/ConcreteBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/bulider/Director.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/bulider/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/factoryMethod/AbstractFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/factoryMethod/AbstractFactoryTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/factoryMethod/ConcreteFactory1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/factoryMethod/ConcreteFactory2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/factoryMethod/ConcreteProduct1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/factoryMethod/ConcreteProduct2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/factoryMethod/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/factoryMethod/ReadXML1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/factoryMethod/demo1/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/factoryMethod/demo1/AnimalFarm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/factoryMethod/demo1/AnimalFarmTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/factoryMethod/demo1/Cattle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/factoryMethod/demo1/CattleFarm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/factoryMethod/demo1/Horse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/factoryMethod/demo1/HorseFarm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/factoryMethod/demo1/ReadXML2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/prototype/Realizetype.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/prototype/RealizetypeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/prototype/demo1/SunWukong.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/prototype/demo1/SunWukongTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/prototype/demo2/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/prototype/demo2/ProtoTypeManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/prototype/demo2/ProtoTypeManagerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/prototype/demo2/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/prototype/demo2/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/proxy/Proxy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/proxy/ProxyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/proxy/RealSubject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/proxy/Subject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/singleton/HungrySingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/singleton/LazySingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/singleton/demo1/Bajie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/designPattern/singleton/demo1/BajieTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/encryption/MyAESUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/encryption/ZzSecurityHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/enumAbout/AgreementStatusEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/enumAbout/CodeBaseEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/enumAbout/DataEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/enumAbout/EnumMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/enumAbout/EnumTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/enumAbout/FirstEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/enumAbout/MemberVIPEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/enumAbout/SexEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/excel/ExcelDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/excel/ExcelDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/http/HttpClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/http/HttpClientResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/http/PostTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/java8/optional/OptionalLearn$Good.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/java8/optional/OptionalLearn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/java8/stream/FilterAbout01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/java8/stream/StreamLearn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/java8/stream/StreamLearnImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/javaBasis/BodyA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/javaBasis/BodyB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/javaBasis/langAbout/BasicDataTypeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/javaBasis/langAbout/LongTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/javaBasis/langAbout/StringAbout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/javaBasis/lock/synchronizedAbout/SynchronizedTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/javaBasis/reflect/ClassLoaderChecker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/javaBasis/reflect/MyClassLoader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/javaBasis/reflect/ReflectSample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/javaBasis/reflect/Robot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/jsonAbout/JSONUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/jsonAbout/JsonDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/jsonAbout/JsonDemoImpl$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/jsonAbout/JsonDemoImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/jvm/T15_FullGC_Problem01$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/jvm/T15_FullGC_Problem01$CardInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/jvm/T15_FullGC_Problem01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/mathAbout/MathAboutTest$InnerObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/mathAbout/MathAboutTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/memory/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/model/UserInfoDO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/model/dto/PriceFunctionDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/model/dto/ReflectDataDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/model/po/Catalog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/model/po/EmpComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/model/po/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/model/po/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/model/po/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/model/po/Parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/model/po/People.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/model/po/ReflectDataOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/model/po/ReflectDataTwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/model/po/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/model/po/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/mybatis/generator/GenMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/mybatis/generator/MyJavaTypeResolverDefaultImpl$JdbcTypeInformation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/mybatis/generator/MyJavaTypeResolverDefaultImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/numCalculation/BigDecimalTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/numCalculation/NumCalcuTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/oddNumbers/OrderNumberUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/otherAbout/DeapLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/otherAbout/TestOneMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/redisAbout/RedisBeUsedJava.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/redisAbout/RedisDistributedLockTool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/socket/LengthCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/socket/TCPClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/socket/TCPServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/sortAbout/ComparatorDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/sortAbout/ComparatorDemo$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/sortAbout/ComparatorDemo$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/sortAbout/ComparatorDemo$Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/sortAbout/ComparatorDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/sortAbout/CompareUtil$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/sortAbout/CompareUtil$ImComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/sortAbout/CompareUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/sortAbout/EmployeeSortTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/sortAbout/EmployeeSortTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/sortAbout/EmployeeSortTest$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/sortAbout/EmployeeSortTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/sortAbout/ReflexUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/sortAbout/myComparatorPractice/ComparatorInCustomized$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/sortAbout/myComparatorPractice/ComparatorInCustomized$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/sortAbout/myComparatorPractice/ComparatorInCustomized$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/sortAbout/myComparatorPractice/ComparatorInCustomized.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/switchAbout/SwitchAboutLearn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/CreateThread3Methods$MyThead_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/CreateThread3Methods$MyThead_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/CreateThread3Methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/GuavaListenableFutureLearn$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/GuavaListenableFutureLearn$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/GuavaListenableFutureLearn$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/GuavaListenableFutureLearn$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/GuavaListenableFutureLearn$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/GuavaListenableFutureLearn$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/GuavaListenableFutureLearn$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/GuavaListenableFutureLearn$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/GuavaListenableFutureLearn$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/GuavaListenableFutureLearn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/ParallelTask$RunThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/ParallelTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/Thread01$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/Thread01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo01/multipleThread/MainThreadDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo01/multipleThread/MyRunnable_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo01/singleThread/MainThreadDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo01/singleThread/MainThreadDemo$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo01/singleThread/MainThreadDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo01/singleThread/MyRunnable_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo01/singleThread/MyThread01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo02/Counter01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo02/Counter02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo02/ThreadDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo02/ThreadDemo$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo02/ThreadDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo03/AbstractMultiParallelThreadHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo03/MultiThreadHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo04/ConcurrentTestDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo04/ConcurrentTestDemo$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo04/ConcurrentTestDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo04/OrderCodeGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo04/OrderService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo04/OrderServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo04/OrderServiceImplWithLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo05_return/CycleWait.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo05_return/FutureTaskDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo05_return/MyCallable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/demo05_return/ThreadPoolDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/liKou/Topic_1/Method_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/threadLocal/Canvas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/threadLocal/CanvasTL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/threadLocal/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/threadLocal/Painter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/threadLocal/PainterSyn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/threadLocal/PainterTL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/threadPool/Submit_execute_Demo01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/threadPool/ThreadPoolException$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/threadPool/ThreadPoolException$Run1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/threadPool/ThreadPoolException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/threadPool/demo1/CheckTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/threadPool/demo1/MyCallable01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/threadPool/demo1/MyRunnable01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/threadPool/demo1/RejectedExecutionExceptionText01$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/threadPool/demo1/RejectedExecutionExceptionText01$SayHelloRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/threadPool/demo1/RejectedExecutionExceptionText01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/threadPool/demo1/ThreadPoolDemoTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/threadPool/getresult/GetThreadResult01$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/threadPool/getresult/GetThreadResult01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/threadPool/getresult/MainThreadDemo1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/threadPool/getresult/MainThreadDemo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/threadAbout/threadPool/getresult/MainThreadDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/timer/TimeTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/timer/TimeTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/timer/TimeTest$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/timer/TimeTest$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/timer/TimeTest$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/timer/TimeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/util/EmojiUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/util/EmojiUtil2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/util/JDBCUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/util/NumberAboutUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/util/SalaryUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/songj/util/StringAboutUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/myJavaProject-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestMain.class" beforeDir="false" />
+    <list default="true" id="68f3316f-6cf2-410b-b3c7-7bf3c4b3d953" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -325,28 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/chuJiSuanFa/lianBiao/Topic_LB_3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="187" column="20" selection-start-line="187" selection-start-column="20" selection-end-line="187" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/enumAbout/AgreementStatusEnum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/model/po/ReflectDataTwo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-127">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            <state relative-caret-position="484">
+              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -355,25 +26,73 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/encryption/MyAESUtil.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/chuJiSuanFa/lianBiao/Topic_LB_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="308">
+              <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/dateAbout/DateChangeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/javaBasis/langAbout/BasicDataTypeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/javaBasis/langAbout/LongTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/model/po/ReflectDataOne.java">
+        <entry file="file://$PROJECT_DIR$/readme.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/javaBasis/langAbout/StringAbout.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2970">
+              <caret line="146" column="9" selection-start-line="146" selection-start-column="9" selection-end-line="146" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/mathAbout/MathAboutTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2750">
+              <caret line="130" column="20" selection-start-line="130" selection-start-column="20" selection-end-line="130" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/dateAbout/TimeTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -392,7 +111,14 @@
       <find>peek()</find>
       <find>JSONUtil</find>
       <find>jackson</find>
+      <find>无参</find>
+      <find>外观</find>
+      <find>join</find>
+      <find>.compare</find>
     </findStrings>
+    <dirStrings>
+      <dir>F:\WorkSpace\own\myJavaProject\src\main\java\com\songj\threadAbout</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -400,13 +126,33 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_94.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/songj/enumAbout/AgreementStatusEnum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/songj/model/po/ReflectDataTwo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/songj/jsonAbout/JSONUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/songj/encryption/MyAESUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/songj/model/po/ReflectDataOne.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/collectionAbout/SetTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/jsonAbout/JsonDemoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/util/EmojiUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/java8/stream/StreamLearnImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/database/ConnectionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_0Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/javaBasis/BodyB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/java8/consumer/Java8Consumer1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_94.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_7.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_38.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/chuJiSuanFa/shuZu/Topic_SZ_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/collectionAbout/ArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/chuJiSuanFa/shuZu/Topic_SZ_2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/threadAbout/shunXu/ThreadJoinDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/threadAbout/shunXu/ThreadMainJoinDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/threadAbout/shunXu/ThreadWaitDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/chuJiSuanFa/lianBiao/Topic_LB_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/chuJiSuanFa/lianBiao/Topic_LB_2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/songj/algorithm/chuJiSuanFa/lianBiao/Topic_LB_3.java" />
+        <option value="$PROJECT_DIR$/readme.txt" />
       </list>
     </option>
   </component>
@@ -434,10 +180,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
-    <option name="width" value="1935" />
-    <option name="height" value="1040" />
+    <option name="y" value="-10" />
+    <option name="width" value="1550" />
+    <option name="height" value="835" />
   </component>
   <component name="ProjectId" id="1xUImOeBvxAWhQuQBDYJcBBbCjN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -479,40 +226,12 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="songj" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="songj" type="462c0819:PsiDirectoryNode" />
-              <item name="jsonAbout" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="songj" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myJavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="songj" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="po" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -526,19 +245,21 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1645062982601" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1651549362621" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../zhixin/code" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.songj.algorithm.chuJiSuanFa.lianBiao" />
+      <recent name="com.songj.algorithm.chuJiSuanFa.shuZu" />
       <recent name="com.songj.algorithm.leetcode" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -557,13 +278,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestOneMain">
-    <configuration name="TestOneMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.songj.otherAbout.TestOneMain" />
+  <component name="RunManager" selected="Application.ThreadMainJoinDemo">
+    <configuration name="Java8Consumer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.songj.java8.consumer.Java8Consumer1" />
       <module name="myJavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.songj.otherAbout.*" />
+          <option name="PATTERN" value="com.songj.java8.consumer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -571,23 +292,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateChangeTest.hutoolDateUtil" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ThreadJoinDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.songj.threadAbout.shunXu.ThreadJoinDemo" />
       <module name="myJavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.songj.dateAbout.*" />
+          <option name="PATTERN" value="com.songj.threadAbout.shunXu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.songj.dateAbout" />
-      <option name="MAIN_CLASS_NAME" value="com.songj.dateAbout.DateChangeTest" />
-      <option name="METHOD_NAME" value="hutoolDateUtil" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest.separation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ThreadMainJoinDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.songj.threadAbout.shunXu.ThreadMainJoinDemo" />
+      <module name="myJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.songj.threadAbout.shunXu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Topic_SZ_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.songj.algorithm.chuJiSuanFa.shuZu.Topic_SZ_1" />
+      <module name="myJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.songj.algorithm.chuJiSuanFa.shuZu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myJavaProject" />
       <extension name="coverage">
         <pattern>
@@ -596,52 +340,27 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.songj.collectionAbout" />
-      <option name="MAIN_CLASS_NAME" value="com.songj.collectionAbout.ListTest" />
-      <option name="METHOD_NAME" value="separation" />
+      <option name="MAIN_CLASS_NAME" value="com.songj.collectionAbout.ArrayTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringAbout.subString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="myJavaProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.songj.javaBasis.langAbout.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.songj.javaBasis.langAbout" />
-      <option name="MAIN_CLASS_NAME" value="com.songj.javaBasis.langAbout.StringAbout" />
-      <option name="METHOD_NAME" value="subString" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringAbout.testContains" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="myJavaProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.songj.javaBasis.langAbout.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.songj.javaBasis.langAbout" />
-      <option name="MAIN_CLASS_NAME" value="com.songj.javaBasis.langAbout.StringAbout" />
-      <option name="METHOD_NAME" value="testContains" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.Java8Consumer1" />
+      <item itemvalue="Application.Topic_SZ_1" />
+      <item itemvalue="Application.ThreadJoinDemo" />
+      <item itemvalue="Application.ThreadMainJoinDemo" />
+      <item itemvalue="JUnit.ArrayTest.test" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestOneMain" />
-        <item itemvalue="JUnit.StringAbout.testContains" />
-        <item itemvalue="JUnit.StringAbout.subString" />
-        <item itemvalue="JUnit.DateChangeTest.hutoolDateUtil" />
-        <item itemvalue="JUnit.ListTest.separation" />
+        <item itemvalue="Application.ThreadMainJoinDemo" />
+        <item itemvalue="Application.ThreadJoinDemo" />
+        <item itemvalue="JUnit.ArrayTest.test" />
+        <item itemvalue="Application.Topic_SZ_1" />
+        <item itemvalue="Application.Java8Consumer1" />
       </list>
     </recent_temporary>
   </component>
@@ -764,7 +483,52 @@
       <workItem from="1644802816973" duration="593000" />
       <workItem from="1644885937631" duration="8000" />
       <workItem from="1644887882016" duration="59000" />
-      <workItem from="1645062082909" duration="891000" />
+      <workItem from="1645062082909" duration="1326000" />
+      <workItem from="1645526101162" duration="4983000" />
+      <workItem from="1645595883039" duration="3724000" />
+      <workItem from="1645690615699" duration="1714000" />
+      <workItem from="1645792649987" duration="435000" />
+      <workItem from="1645972049412" duration="774000" />
+      <workItem from="1646032876832" duration="3893000" />
+      <workItem from="1646100035279" duration="1673000" />
+      <workItem from="1646185875916" duration="596000" />
+      <workItem from="1646789183852" duration="1882000" />
+      <workItem from="1646803590966" duration="1151000" />
+      <workItem from="1646814910971" duration="209000" />
+      <workItem from="1646815159956" duration="1203000" />
+      <workItem from="1646833840790" duration="1013000" />
+      <workItem from="1646879228553" duration="2656000" />
+      <workItem from="1646958883454" duration="1192000" />
+      <workItem from="1647056437228" duration="586000" />
+      <workItem from="1647243582599" duration="609000" />
+      <workItem from="1647309846972" duration="1192000" />
+      <workItem from="1647356164103" duration="319000" />
+      <workItem from="1647488155904" duration="2142000" />
+      <workItem from="1647676197835" duration="88000" />
+      <workItem from="1647849659309" duration="1807000" />
+      <workItem from="1647856791446" duration="812000" />
+      <workItem from="1647858145486" duration="1069000" />
+      <workItem from="1647861019472" duration="910000" />
+      <workItem from="1647865319357" duration="1195000" />
+      <workItem from="1647934041494" duration="27000" />
+      <workItem from="1647949027999" duration="635000" />
+      <workItem from="1647999280542" duration="2559000" />
+      <workItem from="1648024409472" duration="687000" />
+      <workItem from="1648086787876" duration="808000" />
+      <workItem from="1648455264953" duration="551000" />
+      <workItem from="1648455893807" duration="622000" />
+      <workItem from="1648456934299" duration="633000" />
+      <workItem from="1648457670665" duration="612000" />
+      <workItem from="1648774307295" duration="1198000" />
+      <workItem from="1648801926249" duration="482000" />
+      <workItem from="1649312227915" duration="606000" />
+      <workItem from="1649749910760" duration="335000" />
+      <workItem from="1650958625748" duration="572000" />
+      <workItem from="1650959644290" duration="307000" />
+      <workItem from="1650961235156" duration="6000" />
+      <workItem from="1650966076634" duration="10000" />
+      <workItem from="1651140914428" duration="2005000" />
+      <workItem from="1651549243482" duration="784000" />
     </task>
     <task id="LOCAL-00001" summary="+">
       <created>1634779715567</created>
@@ -794,16 +558,39 @@
       <option name="project" value="LOCAL" />
       <updated>1638147111086</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="+">
+      <created>1647949061470</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1647949061470</updated>
+    </task>
+    <task id="LOCAL-00006" summary="+">
+      <created>1651549343200</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651549343201</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="ArrayTest_test - 2022.03.11 at 00h 13m 47s.xml">
+      <configuration name="ArrayTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayTest_test - 2022.03.11 at 00h 14m 20s.xml">
+      <configuration name="ArrayTest.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8681000" />
+    <option name="totallyTimeSpent" value="60382000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1548" height="832" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21885522" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2790854" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -812,26 +599,26 @@
       <window_info id="UI Designer" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966374" weight="0.1908284" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4996633" weight="0.3402367" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32988167" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49831876" weight="0.4340176" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4996633" weight="0.34017596" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32988167" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32844576" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32840237" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5016812" side_tool="true" visible="true" weight="0.3240469" />
       <window_info anchor="bottom" id="SonarLint" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.4989899" weight="0.32840237" />
-      <window_info anchor="bottom" id="JRebel Console" order="14" sideWeight="0.5010101" side_tool="true" weight="0.32791728" />
+      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.49831876" visible="true" weight="0.3240469" />
+      <window_info anchor="bottom" id="JRebel Console" order="14" sideWeight="0.5023537" side_tool="true" weight="0.25073314" />
       <window_info anchor="bottom" id="JRebel Executor" order="15" />
       <window_info anchor="bottom" id="Messages" order="16" sideWeight="0.49966374" weight="0.32840237" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Maven" order="3" visible="true" weight="0.32996634" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32996634" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Mybatis datasource" order="6" side_tool="true" />
@@ -1052,16 +839,6 @@
     <state x="642" y="-825" key="git4idea.merge.GitPullDialog/-441.-1415.2560.1415/0.25.1792.1024@-441.-1415.2560.1415" timestamp="1634779673952" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_94.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="100" column="37" selection-start-line="100" selection-start-column="37" selection-end-line="100" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_20.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
@@ -1076,13 +853,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="187" column="20" selection-start-line="187" selection-start-column="20" selection-end-line="187" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/enumAbout/AgreementStatusEnum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -1090,16 +860,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/jsonAbout/JSONUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-682">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/jsonAbout/JSONUtil.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/encryption/MyAESUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -1123,10 +884,352 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/model/po/ReflectDataOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/collectionAbout/SetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="66" column="36" selection-start-line="66" selection-start-column="36" selection-end-line="66" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/jsonAbout/JsonDemoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="35" column="36" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/util/EmojiUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="125" column="9" selection-start-line="125" selection-start-column="9" selection-end-line="125" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/java8/stream/StreamLearnImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="327" column="46" selection-start-line="327" selection-start-column="46" selection-end-line="327" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/database/ConnectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#794#795#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_a1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/javaBasis/BodyA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/javaBasis/BodyB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-124">
+          <caret line="45" column="6" lean-forward="true" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/java8/consumer/Java8Consumer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_135.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/力扣算法目录.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_0Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_38.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/Thread01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/liKou/Topic_1/Method_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="40" column="55" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo05_return/FutureTaskDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo05_return/MyCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/leetcode/Topic_94.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="92" selection-start-line="8" selection-start-column="92" selection-end-line="8" selection-end-column="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo05_return/ThreadPoolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/chuJiSuanFa/shuZu/Topic_SZ_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/chuJiSuanFa/shuZu/Topic_SZ_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1276">
+          <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/collectionAbout/ArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/collectionAbout/ListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1870">
+          <caret line="110" selection-start-line="110" selection-end-line="118" selection-end-column="57" />
+          <folding>
+            <element signature="e#6252#6253#0" expanded="true" />
+            <element signature="e#6320#6321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo01/singleThread/MyThread01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo01/singleThread/MainThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo01/singleThread/MyRunnable_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/demo05_return/CycleWait.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/shunXu/ThreadJoinDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/shunXu/ThreadMainJoinDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/threadAbout/shunXu/ThreadWaitDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="79" column="5" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/chuJiSuanFa/lianBiao/Topic_LB_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/chuJiSuanFa/lianBiao/Topic_LB_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/algorithm/chuJiSuanFa/lianBiao/Topic_LB_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/dateAbout/DateChangeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/javaBasis/langAbout/BasicDataTypeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/javaBasis/langAbout/StringAbout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2970">
+          <caret line="146" column="9" selection-start-line="146" selection-start-column="9" selection-end-line="146" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/mathAbout/MathAboutTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2750">
+          <caret line="130" column="20" selection-start-line="130" selection-start-column="20" selection-end-line="130" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/dateAbout/TimeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/songj/javaBasis/langAbout/LongTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>

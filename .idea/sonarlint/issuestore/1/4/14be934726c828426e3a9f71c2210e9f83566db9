@@ -1,0 +1,113 @@
+
+osquid:S1602d"SRemove useless curly braces around statement and then remove useless return keyword(ò½÷ÿÿÿÿÿ
+Lsquid:S1611Ğ"/Remove the parentheses around the "x" parameter(ç¯ô¹ûÿÿÿÿ
+P
+squid:S106¿"9Replace this use of System.out or System.err by a logger.(ö–ËÖ
+P
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(‰… ®
+U
+squid:S106ú"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+U
+squid:S106Ó"9Replace this use of System.out or System.err by a logger.(­Â˜Ôúÿÿÿÿ
+Tsquid:S1854Ğ"=Remove this useless assignment to local variable "sumValue2".(›«Ï
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÎÎ’ß
+Isquid:S1481Ò",Remove this unused "concat2" local variable.(£úÇ™ÿÿÿÿÿ
+U
+squid:S106Ä"9Replace this use of System.out or System.err by a logger.(ñ‘Åñÿÿÿÿÿ
+O
+squid:S106÷"9Replace this use of System.out or System.err by a logger.(²ÏË
+T
+squid:S106d"9Replace this use of System.out or System.err by a logger.(ò½÷ÿÿÿÿÿ
+O
+squid:S106•"9Replace this use of System.out or System.err by a logger.(˜¢ıj
+Esquid:S1481Ğ".Remove this unused "sumValue2" local variable.(›«Ï
+P
+squid:S106Õ"9Replace this use of System.out or System.err by a logger.(Â™ıû
+squid:S11865"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜İòóÿÿÿÿÿ
+Isquid:S1612",Replace this lambda with a method reference.(–ä†Úÿÿÿÿÿ
+U
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(Ø—½”ùÿÿÿÿ
+U
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(ı—”Çøÿÿÿÿ
+Jsquid:S1481Ì"-Remove this unused "minValue" local variable.(¹Êÿşÿÿÿÿ
+P
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(İÿì‰
+U
+squid:S106´"9Replace this use of System.out or System.err by a logger.(¼õõƒùÿÿÿÿ
+P
+squid:S106å"9Replace this use of System.out or System.err by a logger.(« Ëš
+Nsquid:S3655Ğ"7Call "Optional#isPresent()" before accessing the value.(›«Ï
+@squid:S1125ñ"(Remove the literal "true" boolean value.(‡öÌ¦
+Isquid:S1481Ê",Remove this unused "concat1" local variable.(×ëË÷úÿÿÿÿ
+P
+squid:S106“"9Replace this use of System.out or System.err by a logger.(øË¿Ş
+Isquid:S1602§",Remove useless curly braces around statement(²¿ŸŸüÿÿÿÿ
+Xsquid:S1854Ê";Remove this useless assignment to local variable "concat1".(×ëË÷úÿÿÿÿ
+U
+squid:S106È"9Replace this use of System.out or System.err by a logger.(¨ÜåÙøÿÿÿÿ
+U
+squid:S106¥"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+Osquid:S3655‰"7Call "Optional#isPresent()" before accessing the value.(šÌİÕ
+P
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(é¾•»
+O
+squid:S106t"9Replace this use of System.out or System.err by a logger.(Å†şë
+U
+squid:S106İ"9Replace this use of System.out or System.err by a logger.(î£±ëÿÿÿÿÿ
+U
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(ş²¤şÿÿÿÿ
+P
+squid:S106ä"9Replace this use of System.out or System.err by a logger.(ö–ËÖ
+Ysquid:S1854Ì"<Remove this useless assignment to local variable "minValue".(¹Êÿşÿÿÿÿ
+Esquid:S1125æ"(Remove the literal "true" boolean value.(›•Áİşÿÿÿÿ
+Hsquid:S1612v",Replace this lambda with a method reference.(š“€Üøÿÿÿÿ
+U
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(šıÏÕüÿÿÿÿ
+P
+squid:S106Ü"9Replace this use of System.out or System.err by a logger.(ö–ËÖ
+P
+squid:S106º"9Replace this use of System.out or System.err by a logger.(µˆœÑ
+Ssquid:S1611v"7Remove the parentheses around the "childList" parameter(š“€Üøÿÿÿÿ
+O
+squid:S106X"9Replace this use of System.out or System.err by a logger.(µˆœÑ
+U
+squid:S106«"9Replace this use of System.out or System.err by a logger.(–Ì ·üÿÿÿÿ
+Csquid:S1602¡",Remove useless curly braces around statement(éÿ¨
+U
+squid:S106Ò"9Replace this use of System.out or System.err by a logger.(Ğşêçùÿÿÿÿ
+T
+squid:S106<"9Replace this use of System.out or System.err by a logger.(Ú¾¬ûÿÿÿÿ
+Ksquid:S1481Î".Remove this unused "sumValue1" local variable.(ÀƒĞ½üÿÿÿÿ
+P
+squid:S106ï"9Replace this use of System.out or System.err by a logger.(Àßñ
+T
+squid:S106/"9Replace this use of System.out or System.err by a logger.(©Ì·¾ùÿÿÿÿ
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(§¿Áı
+P
+squid:S106Â"9Replace this use of System.out or System.err by a logger.(û¨¶‚
+Tsquid:S3655"7Call "Optional#isPresent()" before accessing the value.(Ñğñ‘şÿÿÿÿ
+T
+squid:S106*"9Replace this use of System.out or System.err by a logger.(‹¶»Øúÿÿÿÿ
+P
+squid:S106±"9Replace this use of System.out or System.err by a logger.(µˆœÑ
+O
+squid:S106P"9Replace this use of System.out or System.err by a logger.(¤ú©ò
+O
+squid:S106î"9Replace this use of System.out or System.err by a logger.(²ÏË
+P
+squid:S106—"9Replace this use of System.out or System.err by a logger.(é¸ßŒ
+P
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(¹ºƒ¦
+U
+squid:S106¨"9Replace this use of System.out or System.err by a logger.(šıÏÕüÿÿÿÿ
+P
+squid:S106“"9Replace this use of System.out or System.err by a logger.(§„Êö
+;squid:S2119Ÿ"Save and re-use this "Random".(“Ú—‰ùÿÿÿÿ
+T
+squid:S106w"9Replace this use of System.out or System.err by a logger.(Œ¬’úùÿÿÿÿ
+Xsquid:S1854Ò";Remove this useless assignment to local variable "concat2".(£úÇ™ÿÿÿÿÿ
+Zsquid:S1854Î"=Remove this useless assignment to local variable "sumValue1".(ÀƒĞ½üÿÿÿÿ
+T
+squid:S106#"9Replace this use of System.out or System.err by a logger.(Çé˜Õúÿÿÿÿ

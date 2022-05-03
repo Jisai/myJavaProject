@@ -1,104 +1,112 @@
 
-K
-java:S3740‰"/Provide the parametrized type for this generic.(Üò óÿÿÿÿÿ
-F
-java:S3740Š"/Provide the parametrized type for this generic.(’ö³‰
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¬¦»äşÿÿÿÿ
-M	java:S106 "9Replace this use of System.out or System.err by a logger.(üç
-N	java:S106!"9Replace this use of System.out or System.err by a logger.(œ”³
-S	java:S106#"9Replace this use of System.out or System.err by a logger.(×€Åùÿÿÿÿ
-S	java:S106&"9Replace this use of System.out or System.err by a logger.(ôÆõÍúÿÿÿÿ
-N	java:S1062"9Replace this use of System.out or System.err by a logger.(“á¦É
-S	java:S1066"9Replace this use of System.out or System.err by a logger.(ôÆõÍúÿÿÿÿ
-N	java:S106<"9Replace this use of System.out or System.err by a logger.(“á¦É
-Q	java:S125;"<This block of commented-out lines of code should be removed.(ìğ±
-h
-java:S3776H"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ç§²”
-R
-java:S1854O"7Remove this useless assignment to local variable "my2".(ÀÀ¦Üşÿÿÿÿ
-S	java:S106L"9Replace this use of System.out or System.err by a logger.(Ûÿ½€ÿÿÿÿÿ
-;
-java:S2129O" Remove this "String" constructor(ÀÀ¦Üşÿÿÿÿ
-T
-java:S1612X"9Replace this lambda with method reference 'nameMap::get'.(óßŸùÿÿÿÿ
-N	java:S106_"9Replace this use of System.out or System.err by a logger.(€Æ‹Ê
-N	java:S106`"9Replace this use of System.out or System.err by a logger.(¼Õ·®
-S	java:S106i"9Replace this use of System.out or System.err by a logger.(±í¿üÿÿÿÿ
-S	java:S106j"9Replace this use of System.out or System.err by a logger.(Ö—€–şÿÿÿÿ
-2
-java:S3626‰"Remove this redundant jump.(ÉŠ©ƒ
-N	java:S106q"9Replace this use of System.out or System.err by a logger.(¢Ïİû
-S	java:S106r"9Replace this use of System.out or System.err by a logger.(ÊÂ§êşÿÿÿÿ
-S	java:S106s"9Replace this use of System.out or System.err by a logger.(Äòöÿÿÿÿÿ
-V	java:S125u"<This block of commented-out lines of code should be removed.(Ú¥çäşÿÿÿÿ
-V	java:S125w"<This block of commented-out lines of code should be removed.(ç›ûÓÿÿÿÿÿ
-Q	java:S125|"<This block of commented-out lines of code should be removed.(€…ìù
-T	java:S106"9Replace this use of System.out or System.err by a logger.(ŞßÆÿÿÿÿÿ
-i
-java:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ïæáß
-O	java:S106¡"9Replace this use of System.out or System.err by a logger.(çŠ„‡
-N	java:S106±"9Replace this use of System.out or System.err by a logger.(İæÈp
-O	java:S106º"9Replace this use of System.out or System.err by a logger.(ù˜ˆ
-O	java:S106Â"9Replace this use of System.out or System.err by a logger.(ù˜ˆ
-T	java:S106Ï"9Replace this use of System.out or System.err by a logger.(ğ‚Èâùÿÿÿÿ
-R
-java:S1854à"6Remove this useless assignment to local variable "b3".(¼ó‹¸ûÿÿÿÿ
-R
-java:S1854İ"6Remove this useless assignment to local variable "b2".(½©Áİıÿÿÿÿ
-M
-java:S1854Ú"6Remove this useless assignment to local variable "b1".(Ô®Ûº
-T
-java:S1612Û"=Replace this lambda with method reference 'Integer::valueOf'.(åÇåŸ
-Y
-java:S1612Ş"=Replace this lambda with method reference 'Integer::valueOf'.(ä©Ÿüÿÿÿÿ
-Y
-java:S1612á"=Replace this lambda with method reference 'Integer::valueOf'.(Äµî„üÿÿÿÿ
-T	java:S106â"9Replace this use of System.out or System.err by a logger.(¿ÑıÍøÿÿÿÿ
-O	java:S106ã"9Replace this use of System.out or System.err by a logger.(…£óĞ
-T	java:S106ä"9Replace this use of System.out or System.err by a logger.(ÉÎûøÿÿÿÿ
-T	java:S106ì"9Replace this use of System.out or System.err by a logger.(òáŒüÿÿÿÿ
-O	java:S106í"9Replace this use of System.out or System.err by a logger.(êİ”Œ
-O	java:S106ö"9Replace this use of System.out or System.err by a logger.(¾€—™
-O	java:S106÷"9Replace this use of System.out or System.err by a logger.(êİ”Œ
-P
-java:S1854Š"9Remove this useless assignment to local variable "list3".(’ö³‰
-P
-java:S1854ˆ"9Remove this useless assignment to local variable "list1".(§®ÓÜ
-A
-java:S1481ˆ"*Remove this unused "list1" local variable.(§®ÓÜ
-A
-java:S1481Š"*Remove this unused "list3" local variable.(’ö³‰
-W	java:S125"<This block of commented-out lines of code should be removed.(©“¼úÿÿÿÿ
-W	java:S125•"<This block of commented-out lines of code should be removed.(×Ç·îüÿÿÿÿ
-T	java:S106—"9Replace this use of System.out or System.err by a logger.(Ê©¼ÿÿÿÿÿ
-O	java:S106˜"9Replace this use of System.out or System.err by a logger.(œşÔà
-T	java:S106™"9Replace this use of System.out or System.err by a logger.(ØâÉëúÿÿÿÿ
-W	java:S125›"<This block of commented-out lines of code should be removed.(é³½•ÿÿÿÿÿ
-T	java:S106¬"9Replace this use of System.out or System.err by a logger.(¦Îà›úÿÿÿÿ
-T	java:S106´"9Replace this use of System.out or System.err by a logger.(¦Îà›úÿÿÿÿ
-T	java:S106Î"9Replace this use of System.out or System.err by a logger.(Ç¨¾‘ûÿÿÿÿ
-[	java:S106Õ"9Replace this use of System.out or System.err by a logger.(Ç¨¾‘ûÿÿÿÿ8àÈˆêÒ/
-B
-java:S1168™"+Return an empty collection instead of null.(¥¹ï
-B
-java:S1168¶"+Return an empty collection instead of null.(¥¹ï
-u
-java:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(’¿¸¬ıÿÿÿÿ
-u
-java:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(’¿¸¬ıÿÿÿÿ
-p
-java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(›ññ¥
-u
-java:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(’¿¸¬ıÿÿÿÿ
-g	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¶öé
-l	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÌõóıÿÿÿÿ
-g	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÕ”
-D
-java:S1604ï"(Make this anonymous inner class a lambda(ëŞ¹ƒùÿÿÿÿ
-Z
-java:S1155˜">Use isEmpty() to check whether the collection is empty or not.(¿”Óÿÿÿÿÿ
-Z
-java:S1155µ">Use isEmpty() to check whether the collection is empty or not.(¿”Óÿÿÿÿÿ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üÈãÇÿÿÿÿÿ
+V
+squid:S106±"9Replace this use of System.out or System.err by a logger.(İæÈp8ú•ò/
+vsquid:S00117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÌõóıÿÿÿÿ8ú•ò/
+W
+squid:S106º"9Replace this use of System.out or System.err by a logger.(ù˜ˆ8ú•ò/
+W
+squid:S106ã"9Replace this use of System.out or System.err by a logger.(…£óĞ8ú•ò/
+dsquid:S2259á"@A "NullPointerException" could be thrown; "a3" is nullable here.(Äµî„üÿÿÿÿ8ú•ò/
+[
+squid:S106r"9Replace this use of System.out or System.err by a logger.(ÊÂ§êşÿÿÿÿ8ú•ò/
+W
+squid:S106ö"9Replace this use of System.out or System.err by a logger.(¾€—™8ú•ò/
 \
-java:S2259á"@A "NullPointerException" could be thrown; "a3" is nullable here.(Äµî„üÿÿÿÿ
+squid:S106Õ"9Replace this use of System.out or System.err by a logger.(Ç¨¾‘ûÿÿÿÿ8ú•ò/
+}squid:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(’¿¸¬ıÿÿÿÿ8ú•ò/
+[
+squid:S106L"9Replace this use of System.out or System.err by a logger.(Ûÿ½€ÿÿÿÿÿ8ú•ò/
+Isquid:S1481ˆ"*Remove this unused "list1" local variable.(§®ÓÜ8ú•ò/
+\
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(¦Îà›úÿÿÿÿ8ú•ò/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬¦»äşÿÿÿÿ8ú•ò/
+}squid:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(’¿¸¬ıÿÿÿÿ8ú•ò/
+\
+squid:S106Î"9Replace this use of System.out or System.err by a logger.(Ç¨¾‘ûÿÿÿÿ8ú•ò/
+psquid:S3776H"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ç§²”8ú•ò/
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(œ”³8ú•ò/
+qsquid:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ïæáß8ú•ò/
+Zsquid:S1854O"7Remove this useless assignment to local variable "my2".(ÀÀ¦Üşÿÿÿÿ8ú•ò/
+V
+squid:S106_"9Replace this use of System.out or System.err by a logger.(€Æ‹Ê8ú•ò/
+Ksquid:S1612Û",Replace this lambda with a method reference.(åÇåŸ8ú•ò/
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²ƒî’øÿÿÿÿ8ú•ò/
+Osquid:S1612X",Replace this lambda with a method reference.(óßŸùÿÿÿÿ8ú•ò/
+\
+squid:S106ì"9Replace this use of System.out or System.err by a logger.(òáŒüÿÿÿÿ8ú•ò/
+Psquid:S1612á",Replace this lambda with a method reference.(Äµî„üÿÿÿÿ8ú•ò/
+nsquid:CommentedOutCodeLineu"<This block of commented-out lines of code should be removed.(Ú¥çäşÿÿÿÿ8ú•ò/
+[
+squid:S106j"9Replace this use of System.out or System.err by a logger.(Ö—€–şÿÿÿÿ8ú•ò/
+qsquid:S00117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¶öé8ú•ò/
+[
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ôÆõÍúÿÿÿÿ8ú•ò/
+Isquid:S1481Š"*Remove this unused "list3" local variable.(’ö³‰8ú•ò/
+bsquid:S1155˜">Use isEmpty() to check whether the collection is empty or not.(¿”Óÿÿÿÿÿ8ú•ò/
+nsquid:CommentedOutCodeLinew"<This block of commented-out lines of code should be removed.(ç›ûÓÿÿÿÿÿ8ú•ò/
+isquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(ìğ±8ú•ò/
+Xsquid:S1854ˆ"9Remove this useless assignment to local variable "list1".(§®ÓÜ8ú•ò/
+W
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(œşÔà8ú•ò/
+:squid:S3626‰"Remove this redundant jump.(ÉŠ©ƒ8ú•ò/
+xsquid:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(›ññ¥8ú•ò/
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(×€Åùÿÿÿÿ8ú•ò/
+osquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(é³½•ÿÿÿÿÿ8ú•ò/
+Csquid:S2129O" Remove this "String" constructor(ÀÀ¦Üşÿÿÿÿ8ú•ò/
+Psquid:S1612Ş",Replace this lambda with a method reference.(ä©Ÿüÿÿÿÿ8ú•ò/
+V
+squid:S106q"9Replace this use of System.out or System.err by a logger.(¢Ïİû8ú•ò/
+\
+squid:S106—"9Replace this use of System.out or System.err by a logger.(Ê©¼ÿÿÿÿÿ8ú•ò/
+isquid:CommentedOutCodeLinez"<This block of commented-out lines of code should be removed.(àŠÕü8ú•ò/
+U
+squid:S106 "9Replace this use of System.out or System.err by a logger.(üç8ú•ò/
+\
+squid:S106™"9Replace this use of System.out or System.err by a logger.(ØâÉëúÿÿÿÿ8ú•ò/
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞßÆÿÿÿÿÿ8ú•ò/
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(“á¦É8ú•ò/
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(©“¼úÿÿÿÿ8ú•ò/
+isquid:CommentedOutCodeLine|"<This block of commented-out lines of code should be removed.(€…ìù8ú•ò/
+}squid:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(’¿¸¬ıÿÿÿÿ8ú•ò/
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ôÆõÍúÿÿÿÿ8ú•ò/
+Jsquid:S1168¶"+Return an empty collection instead of null.(¥¹ï8ú•ò/
+\
+squid:S106´"9Replace this use of System.out or System.err by a logger.(¦Îà›úÿÿÿÿ8ú•ò/
+W
+squid:S106÷"9Replace this use of System.out or System.err by a logger.(êİ”Œ8ú•ò/
+Lsquid:S1604ï"(Make this anonymous inner class a lambda(ëŞ¹ƒùÿÿÿÿ8ú•ò/
+Zsquid:S1854İ"6Remove this useless assignment to local variable "b2".(½©Áİıÿÿÿÿ8ú•ò/
+Usquid:S1854Ú"6Remove this useless assignment to local variable "b1".(Ô®Ûº8ú•ò/
+\
+squid:S106ä"9Replace this use of System.out or System.err by a logger.(ÉÎûøÿÿÿÿ8ú•ò/
+V
+squid:S106`"9Replace this use of System.out or System.err by a logger.(¼Õ·®8ú•ò/
+Jsquid:S1168™"+Return an empty collection instead of null.(¥¹ï8ú•ò/
+W
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(çŠ„‡8ú•ò/
+Zsquid:S1854à"6Remove this useless assignment to local variable "b3".(¼ó‹¸ûÿÿÿÿ8ú•ò/
+W
+squid:S106í"9Replace this use of System.out or System.err by a logger.(êİ”Œ8ú•ò/
+qsquid:S00117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÕ”8ú•ò/
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üÈãÇÿÿÿÿÿ8ú•ò/
+osquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(×Ç·îüÿÿÿÿ8ú•ò/
+bsquid:S1155µ">Use isEmpty() to check whether the collection is empty or not.(¿”Óÿÿÿÿÿ8ú•ò/
+V
+squid:S106<"9Replace this use of System.out or System.err by a logger.(“á¦É8ú•ò/
+[
+squid:S106i"9Replace this use of System.out or System.err by a logger.(±í¿üÿÿÿÿ8ú•ò/
+W
+squid:S106Â"9Replace this use of System.out or System.err by a logger.(ù˜ˆ8ú•ò/
+[
+squid:S106s"9Replace this use of System.out or System.err by a logger.(Äòöÿÿÿÿÿ8ú•ò/
+\
+squid:S106â"9Replace this use of System.out or System.err by a logger.(¿ÑıÍøÿÿÿÿ8ú•ò/
+\
+squid:S106Ï"9Replace this use of System.out or System.err by a logger.(ğ‚Èâùÿÿÿÿ8ú•ò/
+Xsquid:S1854Š"9Remove this useless assignment to local variable "list3".(’ö³‰8ú•ò/

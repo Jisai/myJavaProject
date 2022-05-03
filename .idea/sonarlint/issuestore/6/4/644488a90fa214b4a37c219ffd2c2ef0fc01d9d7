@@ -1,0 +1,6 @@
+
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(«ÈÎ»
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùÛ…·øÿÿÿÿ
+Zsquid:S1854"7Remove this useless assignment to local variable "cur".(œìË÷üÿÿÿÿ8¿·‚¦û/
+Usquid:S1854"7Remove this useless assignment to local variable "cur".(÷¶ˆ8Ëßÿ¥û/
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ñâ¾”úÿÿÿÿ8æ¦ö¥û/

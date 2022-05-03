@@ -1,11 +1,11 @@
 
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(˜¤ì§ÿÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÿØ¾‡øÿÿÿÿ
-usquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(˜­Ğ³ÿÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(‰…£Òüÿÿÿÿ
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰…£Òüÿÿÿÿ8ÚÅ§¯ò/
+|squid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ÚÅ§¯ò/
 wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø¹óıÿÿÿÿ
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜­Ğ³ÿÿÿÿÿ8ÚÅ§¯ò/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿØ¾‡øÿÿÿÿ8ÚÅ§¯ò/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜¤ì§ÿÿÿÿÿ8ÚÅ§¯ò/

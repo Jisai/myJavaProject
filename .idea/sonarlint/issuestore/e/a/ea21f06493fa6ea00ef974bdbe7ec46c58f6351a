@@ -1,0 +1,8 @@
+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8‡ÐÄ®ò/
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½ô†Õùÿÿÿÿ8‡ÐÄ®ò/
+_squid:S2094"BRemove this empty class, write its code or make it an "interface".( ÛÄ8ò×ž¯ò/
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8æ«ä®ò/
+dsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( ÛÄ
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(»ž•ûÿÿÿÿ8æ«ä®ò/
+Xsquid:UselessImportCheck"-Remove this unused import 'java.util.Base64'.(ëŠ»Õ8ä´›¯ò/

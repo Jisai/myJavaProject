@@ -1,10 +1,14 @@
 
-u
-java:S1149?"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
-c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô‰Á
-N	java:S106$"9Replace this use of System.out or System.err by a logger.(¶àÁÁ
-S	java:S106%"9Replace this use of System.out or System.err by a logger.(‰³ºâúÿÿÿÿ
-S	java:S106-"9Replace this use of System.out or System.err by a logger.(ªë·Ëøÿÿÿÿ
-Z	java:S106."9Replace this use of System.out or System.err by a logger.(İßÅŒıÿÿÿÿ8›€›Î/
-Z	java:S106/"9Replace this use of System.out or System.err by a logger.(Ü”«¯üÿÿÿÿ8œ€›Î/
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ş©ÈÖ
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(¶àÁÁ8è‘¬ı†0
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(‰³ºâúÿÿÿÿ8è‘¬ı†0
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ªë·Ëøÿÿÿÿ8è‘¬ı†0
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(İßÅŒıÿÿÿÿ8è‘¬ı†0
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(Ü”«¯üÿÿÿÿ8è‘¬ı†0
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô‰Á8è‘¬ı†0
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ş©ÈÖ8è‘¬ı†0
+}squid:S1149?"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8è‘¬ı†0

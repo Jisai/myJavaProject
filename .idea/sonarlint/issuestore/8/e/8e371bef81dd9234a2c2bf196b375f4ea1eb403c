@@ -1,0 +1,84 @@
+
+P
+squid:S106Ä"9Replace this use of System.out or System.err by a logger.(ÉıÚğ
+Ksquid:S2864j"4Iterate over the "entrySet" instead of the "keySet".(Ø­ö
+Esquid:S2201y"/The return value of "toCharArray" must be used.(ãßó^
+Fsquid:EmptyStatementUsageCheckA"Remove this empty statement.(ÌÎ¿Ã
+bsquid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(ßŒğú
+vsquid:S1149("_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+O
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ÌÎ¿Ã
+Xsquid:S3457?"AFormat specifiers should be used instead of string concatenation.(Ø²ÄÎ
+T
+squid:S106X"9Replace this use of System.out or System.err by a logger.(¿ËÏ÷ıÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Í•Ş¯
+O
+squid:S106""9Replace this use of System.out or System.err by a logger.(ÄÉ©Ğ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûµÈÄşÿÿÿÿ
+T
+squid:S106}"9Replace this use of System.out or System.err by a logger.(ü…„ıÿÿÿÿ
+Nsquid:S1854a"7Remove this useless assignment to local variable "msg".(³òÊ‡
+jsquid:S00117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¼¿º
+O
+squid:S106œ"9Replace this use of System.out or System.err by a logger.(ö×é
+isquid:S3776£"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ğš¨
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëû´ˆÿÿÿÿÿ
+3squid:S3626¹"Remove this redundant jump.(ÉŠ©ƒ
+Fsquid:S2201x"*The return value of "length" must be used.(ŠïÖ¬üÿÿÿÿ
+7squid:S2129K" Remove this "String" constructor(…ƒêé
+U
+squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(çÌ§øÿÿÿÿ
+7squid:S2129F" Remove this "String" constructor(ğœÂ¿
+?squid:S1481~"(Remove this unused "sub" local variable.(‚Éáğ
+T
+squid:S106W"9Replace this use of System.out or System.err by a logger.(ŒÚÎ£ùÿÿÿÿ
+U
+squid:S106–"9Replace this use of System.out or System.err by a logger.(úÑäÿÿÿÿÿ
+\squid:S2259Ë"?A "NullPointerException" could be thrown; "a" is nullable here.( ´¿Áıÿÿÿÿ
+T
+squid:S106N"9Replace this use of System.out or System.err by a logger.(Ú®†Œúÿÿÿÿ
+gsquid:CommentedOutCodeLines"<This block of commented-out lines of code should be removed.(ë¦Ú¤üÿÿÿÿ
+T
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(ò‰Åÿıÿÿÿÿ
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢Øì
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹¬¹ùÿÿÿÿ
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(©ş÷„
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Úæ•Ìüÿÿÿÿ
+P
+squid:S106Ò"9Replace this use of System.out or System.err by a logger.(á°ûÒ
+U
+squid:S106Ë"9Replace this use of System.out or System.err by a logger.( ´¿Áıÿÿÿÿ
+P
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(ƒÑŒ¹
+7squid:S2129K" Remove this "String" constructor(…ƒêé
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(œŒ‘¤
+Lsquid:EmptyStatementUsageCheckŸ"Remove this empty statement.(çÌ§øÿÿÿÿ
+T
+squid:S106,"9Replace this use of System.out or System.err by a logger.(İè¬øÿÿÿÿ
+Nsquid:S1854~"7Remove this useless assignment to local variable "sub".(‚Éáğ
+T
+squid:S106#"9Replace this use of System.out or System.err by a logger.(İ†Ñ¯ùÿÿÿÿ
+T
+squid:S106-"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ
+T
+squid:S106I"9Replace this use of System.out or System.err by a logger.(şùÁûúÿÿÿÿ
+U
+squid:S106‹"9Replace this use of System.out or System.err by a logger.(ÏÚÚÓÿÿÿÿÿ
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(•‹ÍÃ
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(…œŒ
+N
+squid:S106*"9Replace this use of System.out or System.err by a logger.(¸ØïU
+jsquid:S00117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÇÔ‘
+jsquid:S00117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¡÷¶
+T
+squid:S106m"9Replace this use of System.out or System.err by a logger.(‘’„ºúÿÿÿÿ
+U
+squid:S106Â"9Replace this use of System.out or System.err by a logger.(©Šä¿ûÿÿÿÿ

@@ -1,61 +1,31 @@
 
-g	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(æõ´‹úÿÿÿÿ8ôş¯Ñ/
-g	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(çìèÿşÿÿÿÿ8öş¯Ñ/
-o	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æõ´‹úÿÿÿÿ8ûş¯Ñ/
-Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ñ˜úÚüÿÿÿÿ8ış¯Ñ/
-U	java:S106."9Replace this use of System.out or System.err by a logger.(îÔÛ×8şş¯Ñ/
 V
-java:S47191"9Replace charset name argument with StandardCharsets.UTF_8(ÌÆÒ‡8ÿş¯Ñ/
-@
-java:S55423"#Use secure mode and padding scheme.(ÏñÆ×8€ÿ¯Ñ/
+squid:S1066"9Replace this use of System.out or System.err by a logger.(îÔÛ×8Àüªğ/
+dsquid:S1192$"FDefine a constant instead of duplicating this literal "utf-8" 4 times.(ÌÆÒ‡8Àüªğ/
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(îÔÛ×8Àüªğ/
 [
-java:S47195"9Replace charset name argument with StandardCharsets.UTF_8(†ıåŠùÿÿÿÿ8ÿ¯Ñ/
-o	java:S100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çìèÿşÿÿÿÿ8‚ÿ¯Ñ/
-Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ñ˜úÚüÿÿÿÿ8„ÿ¯Ñ/
-U	java:S106C"9Replace this use of System.out or System.err by a logger.(îÔÛ×8…ÿ¯Ñ/
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ˜úÚüÿÿÿÿ8Àüªğ/
 V
-java:S4719F"9Replace charset name argument with StandardCharsets.UTF_8(ÌÆÒ‡8…ÿ¯Ñ/
-E
-java:S5542H"#Use secure mode and padding scheme.(Ü øùÿÿÿÿ8†ÿ¯Ñ/
-U
-java:S4719M"9Replace charset name argument with StandardCharsets.UTF_8(®«™
-8ˆÿ¯Ñ/
-U	java:S106P"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡8‰ÿ¯Ñ/
-Z	java:S106T"9Replace this use of System.out or System.err by a logger.(Ä°õ¯üÿÿÿÿ8Šÿ¯Ñ/
-U	java:S106`"9Replace this use of System.out or System.err by a logger.(Ğ±Ôï8Œÿ¯Ñ/
-U	java:S106c"9Replace this use of System.out or System.err by a logger.(õÒˆ¾8ÿ¯Ñ/
-U	java:S106g"9Replace this use of System.out or System.err by a logger.(‹íšá8ÿ¯Ñ/
-R
-java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ÆãÍÑ/
-^
-java:S1128"ARemove this unused import 'java.io.UnsupportedEncodingException'.(Ãµ…“8ÆãÍÑ/
-`
-java:S1128">Remove this unused import 'java.security.InvalidKeyException'.(ì£ğ»ÿÿÿÿÿ8ÆãÍÑ/
-e
-java:S1128"CRemove this unused import 'java.security.NoSuchAlgorithmException'.(ŒòÍ¾şÿÿÿÿ8ÆãÍÑ/
-Y
-java:S1128"7Remove this unused import 'java.security.SecureRandom'.(›éè™úÿÿÿÿ8ÆãÍÑ/
-J
-java:S1128"-Remove this unused import 'java.util.Base64'.(ëŠ»Õ8ÇãÍÑ/
-P
-java:S1128	".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ÇãÍÑ/
-_
-java:S1128"=Remove this unused import 'javax.crypto.BadPaddingException'.(ŒÚ¤øùÿÿÿÿ8ÇãÍÑ/
-e
-java:S1128"CRemove this unused import 'javax.crypto.IllegalBlockSizeException'.(¸Äûÿÿÿÿ8ÇãÍÑ/
-X
-java:S1128"6Remove this unused import 'javax.crypto.KeyGenerator'.(ÑÃ’§ÿÿÿÿÿ8ÈãÍÑ/
-b
-java:S1128"@Remove this unused import 'javax.crypto.NoSuchPaddingException'.(âÆ×øÿÿÿÿÿ8ÈãÍÑ/
-P
-java:S1128"3Remove this unused import 'javax.crypto.SecretKey'.(±•¸×8ÈãÍÑ/
-c
-java:S11921"FDefine a constant instead of duplicating this literal "utf-8" 4 times.(ÌÆÒ‡8ÿ¯Ñ/
-W
-java:S1141K"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÿ¯Ñ/
-m	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶‚À8ÿ¯Ñ/
-‚
-java:S1488M"fImmediately return this expression instead of assigning it to the temporary variable "originalString".(®«™
-8ÿ¯Ñ/
-P
-java:S1191"5Use classes from the Java API instead of Sun classes.(Ó¨Ôÿÿÿÿÿ
+squid:S106C"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡8Àüªğ/
+ƒsquid:S1488@"fImmediately return this expression instead of assigning it to the temporary variable "originalString".(®«™
+8Àüªğ/
+Ssquid:S4432;"0Use Galois/Counter Mode (GCM/NoPadding) instead.(Ü øùÿÿÿÿ8Àüªğ/
+Nsquid:S4432&"0Use Galois/Counter Mode (GCM/NoPadding) instead.(ÏñÆ×8Àüªğ/
+[
+squid:S1061"9Replace this use of System.out or System.err by a logger.(ñ˜úÚüÿÿÿÿ8Àüªğ/
+jsquid:S00112-"FDefine and throw a dedicated exception instead of using a generic one.(çìèÿşÿÿÿÿ8Àüªğ/
+[
+squid:S106G"9Replace this use of System.out or System.err by a logger.(Ä°õ¯üÿÿÿÿ8Àüªğ/
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æõ´‹úÿÿÿÿ8Àüªğ/
+V
+squid:S106S"9Replace this use of System.out or System.err by a logger.(Ğ±Ôï8Àüªğ/
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(æõ´‹úÿÿÿÿ8Àüªğ/
+V
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(‹íšá8Àüªğ/
+rsquid:S00100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çìèÿşÿÿÿÿ8Àüªğ/
+Xsquid:S1141>"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Àüªğ/
+V
+squid:S106V"9Replace this use of System.out or System.err by a logger.(õÒˆ¾8Àüªğ/
+psquid:S00117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶‚À8Àüªğ/
+Xsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ó¨Ôÿÿÿÿÿ8É×†«ğ/
