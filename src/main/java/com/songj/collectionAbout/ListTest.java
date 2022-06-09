@@ -1,7 +1,11 @@
 package com.songj.collectionAbout;
 
+import cn.hutool.json.JSONUtil;
 import com.alibaba.fastjson.JSON;
+import com.songj.model.po.ReflectDataOne;
+import com.songj.model.po.ReflectDataTwo;
 import com.songj.model.po.User;
+import com.songj.util.BeanCopyUtil;
 import org.apache.commons.collections4.CollectionUtils;
 import org.apache.commons.lang.StringUtils;
 import org.junit.Test;
@@ -17,6 +21,25 @@ import java.util.stream.Collectors;
  * @Version: 1.0
  */
 public class ListTest {
+
+
+    @Test
+    public void testListCopy(){
+        List<ReflectDataOne> mList = new ArrayList<>();
+        ReflectDataOne m = new ReflectDataOne();
+        m.setId(1);
+        m.setName("小明");
+        mList.add(m);
+
+        List<ReflectDataTwo> nList1 = new ArrayList<>();
+        List<ReflectDataTwo> nList2 = new ArrayList<>();
+        nList1 = BeanCopyUtil.copyListProperties(mList , ReflectDataTwo::new);
+        nList2 = BeanCopyUtil.copyListProperties(mList , ReflectDataTwo.class);
+
+        System.out.println(JSONUtil.toJsonStr(nList1));
+        System.out.println(JSONUtil.toJsonStr(nList2));
+    }
+
 
     /**
      * subList(起始下标（包含）, 结束下标（不包含）)
@@ -452,4 +475,8 @@ public class ListTest {
         }
         return result;
     }
+
+
+
+
 }

@@ -17,9 +17,9 @@
 		</commentGenerator>
 		<!--数据库连接的信息：驱动类、连接地址、用户名、密码 -->
 		<jdbcConnection driverClass="com.mysql.jdbc.Driver"
-			connectionURL="jdbc:mysql://rm-2zee7orv657rc2xsy.mysql.rds.aliyuncs.com:3306/c10-touch-sit?useUnicode=true&amp;characterEncoding=utf8&amp;useSSL=false&amp;allowMultiQueries=true"
-						userId="dbadmin"
-						password="1qaz!QAZ">
+			connectionURL="jdbc:mysql://10.238.42.249:33069/high_vol_cable?useUnicode=true&amp;characterEncoding=utf8&amp;useSSL=false&amp;allowMultiQueries=true"
+						userId="test_dev"
+						password="High_Cable_1739">
 		</jdbcConnection>
 
 
@@ -34,7 +34,7 @@
 		<javaTypeResolver  type="com.songj.mybatis.generator.MyJavaTypeResolverDefaultImpl">
 		</javaTypeResolver>
 		<!-- targetProject:生成PO类的位置 -->
-		<javaModelGenerator targetPackage="com.songj.mybatis.model"
+		<javaModelGenerator targetPackage="com.hoperun.cable.statistics.domain.bo"
 							targetProject=".\src\main\java">
 			<!-- enableSubPackages:是否让schema作为包的后缀 -->
 			<property name="enableSubPackages" value="false" />
@@ -42,20 +42,21 @@
 			<property name="trimStrings" value="true" />
 		</javaModelGenerator>
         <!-- targetProject:mapper映射文件生成的位置 -->
-		<sqlMapGenerator targetPackage="com.songj.mybatis.sql"
+		<sqlMapGenerator targetPackage="com.hoperun.cable.statistics.mapper.sql"
 						 targetProject=".\src\main\java">
 			<!-- enableSubPackages:是否让schema作为包的后缀 -->
 			<property name="enableSubPackages" value="false" />
 		</sqlMapGenerator>
 		<!-- targetPackage：mapper接口生成的位置 -->
 		<javaClientGenerator type="XMLMAPPER"
-							 targetPackage="com.songj.mybatis.mapper"
+							 targetPackage="com.hoperun.cable.statistics.mapper"
 							 targetProject=".\src\main\java">
 			<!-- enableSubPackages:是否让schema作为包的后缀 -->
 			<property name="enableSubPackages" value="false" />
 		</javaClientGenerator>
 		<!-- 指定数据库表 -->
-		<table tableName="touch_info_content_template" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
+		<table tableName="d_ca_joint" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
+		<table tableName="d_tun_well" enableSelectByExample = "false" enableDeleteByExample = "false" enableCountByExample = "false" enableUpdateByExample = "false"></table>
 
 	</context>
 </generatorConfiguration>
